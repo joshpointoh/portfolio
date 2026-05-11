@@ -1,0 +1,91 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Wyoming,19981.0,2.8,2.2,3.6,<10,Yes,2000,Medicaid
+Wyoming,23603.0,3.1,2.5,3.9,<10,Yes,2001,Medicaid
+Wyoming,29803.0,2.8,2.2,3.5,<10,Yes,2002,Medicaid
+Wyoming,32579.0,2.7,2.2,3.3,<10,Yes,2003,Medicaid
+Wyoming,33643.0,3.2,2.7,3.9,<10,Yes,2004,Medicaid
+Wyoming,34461.0,3.9,3.3,4.6,<10,Yes,2005,Medicaid
+Wyoming,34167.0,5.0,4.3,5.8,<10,Yes,2006,Medicaid
+Wyoming,33297.0,5.4,4.7,6.3,<10,Yes,2007,Medicaid
+Wyoming,33195.0,6.3,5.5,7.2,<10,Yes,2008,Medicaid
+Wyoming,36620.0,7.6,6.8,8.6,<10,Yes,2009,Medicaid
+Wyoming,39334.0,8.0,7.1,8.9,<10,Yes,2010,Medicaid
+Wyoming,40181.0,8.7,7.8,9.6,<10,Yes,2011,Medicaid
+Wyoming,40380.0,9.5,8.6,10.5,<10,Yes,2012,Medicaid
+Wyoming,40213.0,10.2,9.2,11.2,10 to <20,Yes,2013,Medicaid
+Wyoming,45318.0,10.0,9.1,10.9,10 to <20,Yes,2016,Medicaid
+Wyoming,38031.0,11.9,10.8,12.9,10 to <20,Yes,2017,Medicaid
+Wyoming,36827.0,11.8,10.7,12.9,10 to <20,Yes,2018,Medicaid
+Wyoming,35317.0,13.4,12.2,14.6,10 to <20,Yes,2019,Medicaid
+Wyoming,34569.0,13.0,11.8,14.2,10 to <20,Yes,2020,Medicaid
+Wyoming,38972.0,12.8,11.7,13.9,10 to <20,Yes,2021,Medicaid
+Wyoming,42312.0,13.4,12.3,14.5,10 to <20,Yes,2022,Medicaid
+Wyoming,1476.0,11.3,6.5,19.5,10 to <20,Yes,2007,National Survey of Children's Health†
+Wyoming,1565.0,19.6,12.7,30.3,10 to <20,Yes,2011,National Survey of Children's Health†
+Wyoming,2668.0,25.5,18.9,34.2,20 to <30,Yes,2020,National Survey of Children's Health†
+Wyoming,1698.0,29.1,18.5,45.6,20 to <30,Yes,2022,National Survey of Children's Health†
+Wyoming,83927.0,1.0,0.9,1.3,<10,Yes,2000,Special Education Child Count
+Wyoming,82126.0,1.2,1.0,1.5,<10,Yes,2001,Special Education Child Count
+Wyoming,80295.0,1.5,1.3,1.8,<10,Yes,2002,Special Education Child Count
+Wyoming,79054.0,1.9,1.6,2.2,<10,Yes,2003,Special Education Child Count
+Wyoming,77589.0,2.9,2.5,3.3,<10,Yes,2005,Special Education Child Count
+Wyoming,78195.0,3.3,3.0,3.8,<10,Yes,2006,Special Education Child Count
+Wyoming,79494.0,4.9,4.4,5.4,<10,Yes,2008,Special Education Child Count
+Wyoming,80215.0,5.6,5.1,6.2,<10,Yes,2009,Special Education Child Count
+Wyoming,80816.0,6.3,5.8,6.9,<10,Yes,2010,Special Education Child Count
+Wyoming,81708.0,7.5,6.9,8.1,<10,Yes,2011,Special Education Child Count
+Wyoming,82862.0,8.0,7.5,8.7,<10,Yes,2012,Special Education Child Count
+Wyoming,84077.0,8.6,8.0,9.2,<10,Yes,2013,Special Education Child Count
+Wyoming,86367.0,9.2,8.6,9.8,<10,Yes,2015,Special Education Child Count
+Wyoming,85922.0,9.3,8.7,10.0,<10,Yes,2016,Special Education Child Count
+Wyoming,86118.0,9.6,9.0,10.3,<10,Yes,2017,Special Education Child Count
+Wyoming,86144.0,9.9,9.3,10.6,<10,Yes,2018,Special Education Child Count
+Wyoming,86639.0,10.1,9.4,10.8,10 to <20,Yes,2019,Special Education Child Count
+Wyoming,85081.0,10.6,9.9,11.3,10 to <20,Yes,2020,Special Education Child Count
+Wyoming,85255.0,10.6,9.9,11.3,10 to <20,Yes,2021,Special Education Child Count
+Wyoming,84931.0,11.8,11.0,12.5,10 to <20,Yes,2022,Special Education Child Count
+Wyoming,19981.0,2.8,,,<10,No,2000,Medicaid
+Wyoming,23603.0,3.1,,,<10,No,2001,Medicaid
+Wyoming,29803.0,2.8,,,<10,No,2002,Medicaid
+Wyoming,32579.0,2.7,,,<10,No,2003,Medicaid
+Wyoming,33643.0,3.2,,,<10,No,2004,Medicaid
+Wyoming,34461.0,3.9,,,<10,No,2005,Medicaid
+Wyoming,34167.0,5.0,,,<10,No,2006,Medicaid
+Wyoming,33297.0,5.4,,,<10,No,2007,Medicaid
+Wyoming,33195.0,6.3,,,<10,No,2008,Medicaid
+Wyoming,36620.0,7.6,,,<10,No,2009,Medicaid
+Wyoming,39334.0,8.0,,,<10,No,2010,Medicaid
+Wyoming,40181.0,8.7,,,<10,No,2011,Medicaid
+Wyoming,40380.0,9.5,,,<10,No,2012,Medicaid
+Wyoming,40213.0,10.2,,,10 to <20,No,2013,Medicaid
+Wyoming,45318.0,10.0,,,10 to <20,No,2016,Medicaid
+Wyoming,38031.0,11.9,,,10 to <20,No,2017,Medicaid
+Wyoming,36827.0,11.8,,,10 to <20,No,2018,Medicaid
+Wyoming,35317.0,13.4,,,10 to <20,No,2019,Medicaid
+Wyoming,34569.0,13.0,,,10 to <20,No,2020,Medicaid
+Wyoming,38972.0,12.8,,,10 to <20,No,2021,Medicaid
+Wyoming,42312.0,13.4,,,10 to <20,No,2022,Medicaid
+Wyoming,1476.0,11.3,,,10 to <20,No,2007,National Survey of Children's Health†
+Wyoming,1565.0,19.6,,,10 to <20,No,2011,National Survey of Children's Health†
+Wyoming,2668.0,25.5,,,20 to <30,No,2020,National Survey of Children's Health†
+Wyoming,1698.0,29.1,,,20 to <30,No,2022,National Survey of Children's Health†
+Wyoming,83927.0,1.0,,,<10,No,2000,Special Education Child Count
+Wyoming,82126.0,1.2,,,<10,No,2001,Special Education Child Count
+Wyoming,80295.0,1.5,,,<10,No,2002,Special Education Child Count
+Wyoming,79054.0,1.9,,,<10,No,2003,Special Education Child Count
+Wyoming,77589.0,2.9,,,<10,No,2005,Special Education Child Count
+Wyoming,78195.0,3.3,,,<10,No,2006,Special Education Child Count
+Wyoming,79494.0,4.9,,,<10,No,2008,Special Education Child Count
+Wyoming,80215.0,5.6,,,<10,No,2009,Special Education Child Count
+Wyoming,80816.0,6.3,,,<10,No,2010,Special Education Child Count
+Wyoming,81708.0,7.5,,,<10,No,2011,Special Education Child Count
+Wyoming,82862.0,8.0,,,<10,No,2012,Special Education Child Count
+Wyoming,84077.0,8.6,,,<10,No,2013,Special Education Child Count
+Wyoming,86367.0,9.2,,,<10,No,2015,Special Education Child Count
+Wyoming,85922.0,9.3,,,<10,No,2016,Special Education Child Count
+Wyoming,86118.0,9.6,,,<10,No,2017,Special Education Child Count
+Wyoming,86144.0,9.9,,,<10,No,2018,Special Education Child Count
+Wyoming,86639.0,10.1,,,10 to <20,No,2019,Special Education Child Count
+Wyoming,85081.0,10.6,,,10 to <20,No,2020,Special Education Child Count
+Wyoming,85255.0,10.6,,,10 to <20,No,2021,Special Education Child Count
+Wyoming,84931.0,11.8,,,10 to <20,No,2022,Special Education Child Count

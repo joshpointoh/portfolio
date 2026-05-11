@@ -1,0 +1,89 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Montana,33967.0,5.2,4.4,6.0,<10,Yes,2000,Medicaid
+Montana,36697.0,6.2,5.4,7.0,<10,Yes,2001,Medicaid
+Montana,38320.0,7.3,6.5,8.2,<10,Yes,2002,Medicaid
+Montana,40132.0,8.7,7.8,9.6,<10,Yes,2003,Medicaid
+Montana,41884.0,7.8,7.0,8.7,<10,Yes,2004,Medicaid
+Montana,41867.0,9.0,8.1,9.9,<10,Yes,2005,Medicaid
+Montana,41132.0,10.8,9.8,11.8,10 to <20,Yes,2006,Medicaid
+Montana,40205.0,12.8,11.8,14.0,10 to <20,Yes,2007,Medicaid
+Montana,39946.0,14.1,13.0,15.3,10 to <20,Yes,2008,Medicaid
+Montana,44158.0,14.1,13.0,15.2,10 to <20,Yes,2009,Medicaid
+Montana,54888.0,13.9,13.0,15.0,10 to <20,Yes,2010,Medicaid
+Montana,59924.0,14.3,13.4,15.3,10 to <20,Yes,2011,Medicaid
+Montana,61412.0,16.7,15.7,17.8,10 to <20,Yes,2012,Medicaid
+Montana,67619.0,16.4,15.4,17.4,10 to <20,Yes,2013,Medicaid
+Montana,100134.0,15.6,14.8,16.4,10 to <20,Yes,2016,Medicaid
+Montana,107779.0,15.2,14.4,15.9,10 to <20,Yes,2017,Medicaid
+Montana,110988.0,14.7,14.0,15.4,10 to <20,Yes,2018,Medicaid
+Montana,110740.0,15.6,14.9,16.4,10 to <20,Yes,2019,Medicaid
+Montana,99110.0,16.5,15.7,17.3,10 to <20,Yes,2020,Medicaid
+Montana,104602.0,16.3,15.5,17.1,10 to <20,Yes,2021,Medicaid
+Montana,108540.0,16.8,16.0,17.6,10 to <20,Yes,2022,Medicaid
+Montana,1564.0,25.3,16.4,39.0,20 to <30,Yes,2011,National Survey of Children's Health†
+Montana,2985.0,25.3,17.5,36.2,20 to <30,Yes,2020,National Survey of Children's Health†
+Montana,1388.0,33.8,23.4,48.6,30+,Yes,2022,National Survey of Children's Health†
+Montana,143919.0,1.1,1.0,1.3,<10,Yes,2000,Special Education Child Count
+Montana,141117.0,1.3,1.2,1.6,<10,Yes,2001,Special Education Child Count
+Montana,139124.0,1.6,1.4,1.9,<10,Yes,2002,Special Education Child Count
+Montana,137195.0,1.7,1.5,2.0,<10,Yes,2003,Special Education Child Count
+Montana,134039.0,2.1,1.9,2.4,<10,Yes,2005,Special Education Child Count
+Montana,131613.0,2.8,2.6,3.1,<10,Yes,2007,Special Education Child Count
+Montana,130134.0,3.3,3.0,3.6,<10,Yes,2008,Special Education Child Count
+Montana,129227.0,4.2,3.8,4.5,<10,Yes,2010,Special Education Child Count
+Montana,129177.0,3.0,2.7,3.3,<10,Yes,2011,Special Education Child Count
+Montana,129878.0,3.5,3.2,3.8,<10,Yes,2012,Special Education Child Count
+Montana,130651.0,3.9,3.6,4.2,<10,Yes,2013,Special Education Child Count
+Montana,131621.0,4.4,4.0,4.8,<10,Yes,2014,Special Education Child Count
+Montana,132659.0,4.9,4.6,5.3,<10,Yes,2015,Special Education Child Count
+Montana,133631.0,5.5,5.1,5.9,<10,Yes,2016,Special Education Child Count
+Montana,134031.0,6.4,6.0,6.8,<10,Yes,2017,Special Education Child Count
+Montana,134853.0,6.6,6.2,7.1,<10,Yes,2018,Special Education Child Count
+Montana,135611.0,7.0,6.6,7.5,<10,Yes,2019,Special Education Child Count
+Montana,133035.0,7.4,7.0,7.9,<10,Yes,2020,Special Education Child Count
+Montana,135786.0,7.6,7.2,8.1,<10,Yes,2021,Special Education Child Count
+Montana,137323.0,8.3,7.8,8.8,<10,Yes,2022,Special Education Child Count
+Montana,33967.0,5.2,,,<10,No,2000,Medicaid
+Montana,36697.0,6.2,,,<10,No,2001,Medicaid
+Montana,38320.0,7.3,,,<10,No,2002,Medicaid
+Montana,40132.0,8.7,,,<10,No,2003,Medicaid
+Montana,41884.0,7.8,,,<10,No,2004,Medicaid
+Montana,41867.0,9.0,,,<10,No,2005,Medicaid
+Montana,41132.0,10.8,,,10 to <20,No,2006,Medicaid
+Montana,40205.0,12.8,,,10 to <20,No,2007,Medicaid
+Montana,39946.0,14.1,,,10 to <20,No,2008,Medicaid
+Montana,44158.0,14.1,,,10 to <20,No,2009,Medicaid
+Montana,54888.0,13.9,,,10 to <20,No,2010,Medicaid
+Montana,59924.0,14.3,,,10 to <20,No,2011,Medicaid
+Montana,61412.0,16.7,,,10 to <20,No,2012,Medicaid
+Montana,67619.0,16.4,,,10 to <20,No,2013,Medicaid
+Montana,100134.0,15.6,,,10 to <20,No,2016,Medicaid
+Montana,107779.0,15.2,,,10 to <20,No,2017,Medicaid
+Montana,110988.0,14.7,,,10 to <20,No,2018,Medicaid
+Montana,110740.0,15.6,,,10 to <20,No,2019,Medicaid
+Montana,99110.0,16.5,,,10 to <20,No,2020,Medicaid
+Montana,104602.0,16.3,,,10 to <20,No,2021,Medicaid
+Montana,108540.0,16.8,,,10 to <20,No,2022,Medicaid
+Montana,1564.0,25.3,,,20 to <30,No,2011,National Survey of Children's Health†
+Montana,2985.0,25.3,,,20 to <30,No,2020,National Survey of Children's Health†
+Montana,1388.0,33.8,,,30+,No,2022,National Survey of Children's Health†
+Montana,143919.0,1.1,,,<10,No,2000,Special Education Child Count
+Montana,141117.0,1.3,,,<10,No,2001,Special Education Child Count
+Montana,139124.0,1.6,,,<10,No,2002,Special Education Child Count
+Montana,137195.0,1.7,,,<10,No,2003,Special Education Child Count
+Montana,134039.0,2.1,,,<10,No,2005,Special Education Child Count
+Montana,131613.0,2.8,,,<10,No,2007,Special Education Child Count
+Montana,130134.0,3.3,,,<10,No,2008,Special Education Child Count
+Montana,129227.0,4.2,,,<10,No,2010,Special Education Child Count
+Montana,129177.0,3.0,,,<10,No,2011,Special Education Child Count
+Montana,129878.0,3.5,,,<10,No,2012,Special Education Child Count
+Montana,130651.0,3.9,,,<10,No,2013,Special Education Child Count
+Montana,131621.0,4.4,,,<10,No,2014,Special Education Child Count
+Montana,132659.0,4.9,,,<10,No,2015,Special Education Child Count
+Montana,133631.0,5.5,,,<10,No,2016,Special Education Child Count
+Montana,134031.0,6.4,,,<10,No,2017,Special Education Child Count
+Montana,134853.0,6.6,,,<10,No,2018,Special Education Child Count
+Montana,135611.0,7.0,,,<10,No,2019,Special Education Child Count
+Montana,133035.0,7.4,,,<10,No,2020,Special Education Child Count
+Montana,135786.0,7.6,,,<10,No,2021,Special Education Child Count
+Montana,137323.0,8.3,,,<10,No,2022,Special Education Child Count

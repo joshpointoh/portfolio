@@ -1,0 +1,93 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Louisiana,339301.0,1.7,1.6,1.8,<10,Yes,2000,Medicaid
+Louisiana,396329.0,1.6,1.5,1.7,<10,Yes,2001,Medicaid
+Louisiana,462469.0,1.7,1.6,1.8,<10,Yes,2002,Medicaid
+Louisiana,498414.0,2.0,1.9,2.1,<10,Yes,2003,Medicaid
+Louisiana,536048.0,2.2,2.1,2.3,<10,Yes,2004,Medicaid
+Louisiana,548070.0,2.3,2.2,2.5,<10,Yes,2005,Medicaid
+Louisiana,557859.0,2.4,2.3,2.5,<10,Yes,2006,Medicaid
+Louisiana,513476.0,2.9,2.7,3.0,<10,Yes,2007,Medicaid
+Louisiana,525667.0,3.4,3.2,3.5,<10,Yes,2008,Medicaid
+Louisiana,547638.0,4.0,3.8,4.1,<10,Yes,2009,Medicaid
+Louisiana,580569.0,4.4,4.3,4.6,<10,Yes,2010,Medicaid
+Louisiana,588822.0,4.9,4.7,5.1,<10,Yes,2011,Medicaid
+Louisiana,595123.0,5.2,5.0,5.4,<10,Yes,2012,Medicaid
+Louisiana,595819.0,5.7,5.5,5.9,<10,Yes,2013,Medicaid
+Louisiana,638442.0,8.5,8.3,8.7,<10,Yes,2016,Medicaid
+Louisiana,629425.0,9.8,9.6,10.1,<10,Yes,2017,Medicaid
+Louisiana,612618.0,11.1,10.8,11.4,10 to <20,Yes,2018,Medicaid
+Louisiana,610824.0,11.9,11.7,12.2,10 to <20,Yes,2019,Medicaid
+Louisiana,601088.0,11.8,11.5,12.1,10 to <20,Yes,2020,Medicaid
+Louisiana,622323.0,13.3,13.0,13.6,10 to <20,Yes,2021,Medicaid
+Louisiana,631295.0,15.5,15.2,15.8,10 to <20,Yes,2022,Medicaid
+Louisiana,1581.0,22.1,13.0,37.1,20 to <30,Yes,2011,National Survey of Children's Health†
+Louisiana,2739.0,27.2,20.7,35.5,20 to <30,Yes,2020,National Survey of Children's Health†
+Louisiana,1457.0,35.8,24.9,51.3,30+,Yes,2022,National Survey of Children's Health†
+Louisiana,664779.0,1.5,1.5,1.6,<10,Yes,2000,Special Education Child Count
+Louisiana,657745.0,1.8,1.7,1.9,<10,Yes,2001,Special Education Child Count
+Louisiana,651099.0,2.1,1.9,2.2,<10,Yes,2002,Special Education Child Count
+Louisiana,647893.0,2.3,2.2,2.4,<10,Yes,2003,Special Education Child Count
+Louisiana,643428.0,2.6,2.5,2.7,<10,Yes,2004,Special Education Child Count
+Louisiana,578261.0,2.7,2.6,2.9,<10,Yes,2005,Special Education Child Count
+Louisiana,598025.0,3.0,2.8,3.1,<10,Yes,2006,Special Education Child Count
+Louisiana,601345.0,3.4,3.2,3.5,<10,Yes,2007,Special Education Child Count
+Louisiana,603649.0,3.7,3.6,3.9,<10,Yes,2008,Special Education Child Count
+Louisiana,607705.0,4.2,4.0,4.3,<10,Yes,2009,Special Education Child Count
+Louisiana,612625.0,4.6,4.4,4.8,<10,Yes,2010,Special Education Child Count
+Louisiana,617931.0,4.9,4.8,5.1,<10,Yes,2011,Special Education Child Count
+Louisiana,622786.0,5.4,5.2,5.5,<10,Yes,2012,Special Education Child Count
+Louisiana,624795.0,5.8,5.6,6.0,<10,Yes,2013,Special Education Child Count
+Louisiana,632481.0,6.1,5.9,6.3,<10,Yes,2014,Special Education Child Count
+Louisiana,636551.0,6.7,6.5,6.9,<10,Yes,2015,Special Education Child Count
+Louisiana,635216.0,6.9,6.7,7.2,<10,Yes,2016,Special Education Child Count
+Louisiana,634574.0,7.4,7.2,7.6,<10,Yes,2017,Special Education Child Count
+Louisiana,630768.0,8.1,7.9,8.3,<10,Yes,2018,Special Education Child Count
+Louisiana,629482.0,8.7,8.5,8.9,<10,Yes,2019,Special Education Child Count
+Louisiana,606850.0,9.8,9.5,10.0,<10,Yes,2021,Special Education Child Count
+Louisiana,639244.0,11.5,11.2,11.8,10 to <20,Yes,2022,Special Education Child Count
+Louisiana,339301.0,1.7,,,<10,No,2000,Medicaid
+Louisiana,396329.0,1.6,,,<10,No,2001,Medicaid
+Louisiana,462469.0,1.7,,,<10,No,2002,Medicaid
+Louisiana,498414.0,2.0,,,<10,No,2003,Medicaid
+Louisiana,536048.0,2.2,,,<10,No,2004,Medicaid
+Louisiana,548070.0,2.3,,,<10,No,2005,Medicaid
+Louisiana,557859.0,2.4,,,<10,No,2006,Medicaid
+Louisiana,513476.0,2.9,,,<10,No,2007,Medicaid
+Louisiana,525667.0,3.4,,,<10,No,2008,Medicaid
+Louisiana,547638.0,4.0,,,<10,No,2009,Medicaid
+Louisiana,580569.0,4.4,,,<10,No,2010,Medicaid
+Louisiana,588822.0,4.9,,,<10,No,2011,Medicaid
+Louisiana,595123.0,5.2,,,<10,No,2012,Medicaid
+Louisiana,595819.0,5.7,,,<10,No,2013,Medicaid
+Louisiana,638442.0,8.5,,,<10,No,2016,Medicaid
+Louisiana,629425.0,9.8,,,<10,No,2017,Medicaid
+Louisiana,612618.0,11.1,,,10 to <20,No,2018,Medicaid
+Louisiana,610824.0,11.9,,,10 to <20,No,2019,Medicaid
+Louisiana,601088.0,11.8,,,10 to <20,No,2020,Medicaid
+Louisiana,622323.0,13.3,,,10 to <20,No,2021,Medicaid
+Louisiana,631295.0,15.5,,,10 to <20,No,2022,Medicaid
+Louisiana,1581.0,22.1,,,20 to <30,No,2011,National Survey of Children's Health†
+Louisiana,2739.0,27.2,,,20 to <30,No,2020,National Survey of Children's Health†
+Louisiana,1457.0,35.8,,,30+,No,2022,National Survey of Children's Health†
+Louisiana,664779.0,1.5,,,<10,No,2000,Special Education Child Count
+Louisiana,657745.0,1.8,,,<10,No,2001,Special Education Child Count
+Louisiana,651099.0,2.1,,,<10,No,2002,Special Education Child Count
+Louisiana,647893.0,2.3,,,<10,No,2003,Special Education Child Count
+Louisiana,643428.0,2.6,,,<10,No,2004,Special Education Child Count
+Louisiana,578261.0,2.7,,,<10,No,2005,Special Education Child Count
+Louisiana,598025.0,3.0,,,<10,No,2006,Special Education Child Count
+Louisiana,601345.0,3.4,,,<10,No,2007,Special Education Child Count
+Louisiana,603649.0,3.7,,,<10,No,2008,Special Education Child Count
+Louisiana,607705.0,4.2,,,<10,No,2009,Special Education Child Count
+Louisiana,612625.0,4.6,,,<10,No,2010,Special Education Child Count
+Louisiana,617931.0,4.9,,,<10,No,2011,Special Education Child Count
+Louisiana,622786.0,5.4,,,<10,No,2012,Special Education Child Count
+Louisiana,624795.0,5.8,,,<10,No,2013,Special Education Child Count
+Louisiana,632481.0,6.1,,,<10,No,2014,Special Education Child Count
+Louisiana,636551.0,6.7,,,<10,No,2015,Special Education Child Count
+Louisiana,635216.0,6.9,,,<10,No,2016,Special Education Child Count
+Louisiana,634574.0,7.4,,,<10,No,2017,Special Education Child Count
+Louisiana,630768.0,8.1,,,<10,No,2018,Special Education Child Count
+Louisiana,629482.0,8.7,,,<10,No,2019,Special Education Child Count
+Louisiana,606850.0,9.8,,,<10,No,2021,Special Education Child Count
+Louisiana,639244.0,11.5,,,10 to <20,No,2022,Special Education Child Count

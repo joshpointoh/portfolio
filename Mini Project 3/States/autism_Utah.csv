@@ -1,0 +1,109 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Utah,26108.0,7.5,6.5,8.6,<10,Yes,2002,ADDM Network*
+Utah,2123.0,21.2,15.9,28.2,20 to <30,Yes,2008,ADDM Network*
+Utah,23756.0,18.6,17.0,20.4,10 to <20,Yes,2010,ADDM Network*
+Utah,24945.0,17.3,15.7,19.0,10 to <20,Yes,2012,ADDM Network*
+Utah,25459.0,21.5,19.8,23.4,20 to <30,Yes,2018,ADDM Network*
+Utah,24734.0,25.1,23.2,27.1,20 to <30,Yes,2020,ADDM Network*
+Utah,24395.0,27.0,25.0,29.1,20 to <30,Yes,2022,ADDM Network*
+Utah,69605.0,2.6,2.2,3.0,<10,Yes,2000,Medicaid
+Utah,72832.0,2.9,2.5,3.3,<10,Yes,2001,Medicaid
+Utah,80714.0,3.2,2.8,3.6,<10,Yes,2002,Medicaid
+Utah,90071.0,3.1,2.8,3.5,<10,Yes,2003,Medicaid
+Utah,97080.0,3.0,2.6,3.3,<10,Yes,2004,Medicaid
+Utah,101071.0,3.4,3.0,3.7,<10,Yes,2005,Medicaid
+Utah,97102.0,3.9,3.5,4.3,<10,Yes,2006,Medicaid
+Utah,90761.0,5.0,4.5,5.4,<10,Yes,2007,Medicaid
+Utah,95229.0,5.3,4.8,5.7,<10,Yes,2008,Medicaid
+Utah,115356.0,4.9,4.5,5.3,<10,Yes,2009,Medicaid
+Utah,129805.0,4.7,4.3,5.1,<10,Yes,2010,Medicaid
+Utah,144791.0,9.1,8.6,9.6,<10,Yes,2011,Medicaid
+Utah,149972.0,9.1,8.6,9.6,<10,Yes,2012,Medicaid
+Utah,153228.0,9.8,9.3,10.3,<10,Yes,2013,Medicaid
+Utah,196799.0,7.1,6.8,7.5,<10,Yes,2016,Medicaid
+Utah,191899.0,11.0,10.6,11.5,10 to <20,Yes,2017,Medicaid
+Utah,182528.0,12.3,11.8,12.8,10 to <20,Yes,2018,Medicaid
+Utah,171899.0,14.1,13.6,14.7,10 to <20,Yes,2019,Medicaid
+Utah,167075.0,15.0,14.5,15.6,10 to <20,Yes,2020,Medicaid
+Utah,187787.0,15.4,14.8,15.9,10 to <20,Yes,2021,Medicaid
+Utah,198539.0,16.1,15.5,16.6,10 to <20,Yes,2022,Medicaid
+Utah,1551.0,12.6,7.9,20.0,10 to <20,Yes,2011,National Survey of Children's Health†
+Utah,2915.0,22.3,16.7,29.7,20 to <30,Yes,2020,National Survey of Children's Health†
+Utah,1365.0,25.3,17.3,36.8,20 to <30,Yes,2022,National Survey of Children's Health†
+Utah,428316.0,1.3,1.2,1.4,<10,Yes,2000,Special Education Child Count
+Utah,430133.0,1.6,1.5,1.7,<10,Yes,2001,Special Education Child Count
+Utah,431980.0,1.8,1.7,2.0,<10,Yes,2002,Special Education Child Count
+Utah,435939.0,2.2,2.1,2.4,<10,Yes,2003,Special Education Child Count
+Utah,453483.0,2.7,2.5,2.8,<10,Yes,2004,Special Education Child Count
+Utah,462190.0,3.2,3.0,3.4,<10,Yes,2005,Special Education Child Count
+Utah,476054.0,3.9,3.7,4.1,<10,Yes,2006,Special Education Child Count
+Utah,519166.0,4.3,4.1,4.5,<10,Yes,2007,Special Education Child Count
+Utah,503252.0,5.1,4.9,5.3,<10,Yes,2008,Special Education Child Count
+Utah,515677.0,5.8,5.6,6.0,<10,Yes,2009,Special Education Child Count
+Utah,527133.0,6.4,6.1,6.6,<10,Yes,2010,Special Education Child Count
+Utah,537907.0,6.8,6.5,7.0,<10,Yes,2011,Special Education Child Count
+Utah,550572.0,7.3,7.1,7.5,<10,Yes,2012,Special Education Child Count
+Utah,562702.0,7.5,7.3,7.7,<10,Yes,2013,Special Education Child Count
+Utah,573594.0,7.9,7.6,8.1,<10,Yes,2014,Special Education Child Count
+Utah,585739.0,8.3,8.1,8.5,<10,Yes,2015,Special Education Child Count
+Utah,596257.0,8.7,8.5,9.0,<10,Yes,2016,Special Education Child Count
+Utah,604779.0,9.0,8.8,9.2,<10,Yes,2017,Special Education Child Count
+Utah,611481.0,9.6,9.4,9.9,<10,Yes,2018,Special Education Child Count
+Utah,619140.0,9.9,9.7,10.2,<10,Yes,2019,Special Education Child Count
+Utah,619691.0,10.4,10.1,10.6,10 to <20,Yes,2020,Special Education Child Count
+Utah,626114.0,11.0,10.7,11.2,10 to <20,Yes,2021,Special Education Child Count
+Utah,628704.0,11.6,11.4,11.9,10 to <20,Yes,2022,Special Education Child Count
+Utah,26108.0,7.5,,,<10,No,2002,ADDM Network*
+Utah,2123.0,21.2,,,20 to <30,No,2008,ADDM Network*
+Utah,23756.0,18.6,,,10 to <20,No,2010,ADDM Network*
+Utah,24945.0,17.3,,,10 to <20,No,2012,ADDM Network*
+Utah,25459.0,21.5,,,20 to <30,No,2018,ADDM Network*
+Utah,24734.0,25.1,,,20 to <30,No,2020,ADDM Network*
+Utah,24395.0,27.0,,,20 to <30,No,2022,ADDM Network*
+Utah,69605.0,2.6,,,<10,No,2000,Medicaid
+Utah,72832.0,2.9,,,<10,No,2001,Medicaid
+Utah,80714.0,3.2,,,<10,No,2002,Medicaid
+Utah,90071.0,3.1,,,<10,No,2003,Medicaid
+Utah,97080.0,3.0,,,<10,No,2004,Medicaid
+Utah,101071.0,3.4,,,<10,No,2005,Medicaid
+Utah,97102.0,3.9,,,<10,No,2006,Medicaid
+Utah,90761.0,5.0,,,<10,No,2007,Medicaid
+Utah,95229.0,5.3,,,<10,No,2008,Medicaid
+Utah,115356.0,4.9,,,<10,No,2009,Medicaid
+Utah,129805.0,4.7,,,<10,No,2010,Medicaid
+Utah,144791.0,9.1,,,<10,No,2011,Medicaid
+Utah,149972.0,9.1,,,<10,No,2012,Medicaid
+Utah,153228.0,9.8,,,<10,No,2013,Medicaid
+Utah,196799.0,7.1,,,<10,No,2016,Medicaid
+Utah,191899.0,11.0,,,10 to <20,No,2017,Medicaid
+Utah,182528.0,12.3,,,10 to <20,No,2018,Medicaid
+Utah,171899.0,14.1,,,10 to <20,No,2019,Medicaid
+Utah,167075.0,15.0,,,10 to <20,No,2020,Medicaid
+Utah,187787.0,15.4,,,10 to <20,No,2021,Medicaid
+Utah,198539.0,16.1,,,10 to <20,No,2022,Medicaid
+Utah,1551.0,12.6,,,10 to <20,No,2011,National Survey of Children's Health†
+Utah,2915.0,22.3,,,20 to <30,No,2020,National Survey of Children's Health†
+Utah,1365.0,25.3,,,20 to <30,No,2022,National Survey of Children's Health†
+Utah,428316.0,1.3,,,<10,No,2000,Special Education Child Count
+Utah,430133.0,1.6,,,<10,No,2001,Special Education Child Count
+Utah,431980.0,1.8,,,<10,No,2002,Special Education Child Count
+Utah,435939.0,2.2,,,<10,No,2003,Special Education Child Count
+Utah,453483.0,2.7,,,<10,No,2004,Special Education Child Count
+Utah,462190.0,3.2,,,<10,No,2005,Special Education Child Count
+Utah,476054.0,3.9,,,<10,No,2006,Special Education Child Count
+Utah,519166.0,4.3,,,<10,No,2007,Special Education Child Count
+Utah,503252.0,5.1,,,<10,No,2008,Special Education Child Count
+Utah,515677.0,5.8,,,<10,No,2009,Special Education Child Count
+Utah,527133.0,6.4,,,<10,No,2010,Special Education Child Count
+Utah,537907.0,6.8,,,<10,No,2011,Special Education Child Count
+Utah,550572.0,7.3,,,<10,No,2012,Special Education Child Count
+Utah,562702.0,7.5,,,<10,No,2013,Special Education Child Count
+Utah,573594.0,7.9,,,<10,No,2014,Special Education Child Count
+Utah,585739.0,8.3,,,<10,No,2015,Special Education Child Count
+Utah,596257.0,8.7,,,<10,No,2016,Special Education Child Count
+Utah,604779.0,9.0,,,<10,No,2017,Special Education Child Count
+Utah,611481.0,9.6,,,<10,No,2018,Special Education Child Count
+Utah,619140.0,9.9,,,<10,No,2019,Special Education Child Count
+Utah,619691.0,10.4,,,10 to <20,No,2020,Special Education Child Count
+Utah,626114.0,11.0,,,10 to <20,No,2021,Special Education Child Count
+Utah,628704.0,11.6,,,10 to <20,No,2022,Special Education Child Count

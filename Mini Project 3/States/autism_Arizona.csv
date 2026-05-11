@@ -1,0 +1,119 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Arizona,45322.0,6.5,5.8,7.3,<10,Yes,2000,ADDM Network*
+Arizona,45113.0,6.2,5.5,7.0,<10,Yes,2002,ADDM Network*
+Arizona,13620.0,9.8,8.2,11.6,<10,Yes,2004,ADDM Network*
+Arizona,41650.0,12.1,11.1,13.2,10 to <20,Yes,2006,ADDM Network*
+Arizona,32601.0,15.6,14.3,17.0,10 to <20,Yes,2008,ADDM Network*
+Arizona,33768.0,15.7,14.4,17.1,10 to <20,Yes,2010,ADDM Network*
+Arizona,32615.0,15.1,13.9,16.5,10 to <20,Yes,2012,ADDM Network*
+Arizona,24952.0,14.0,12.6,15.5,10 to <20,Yes,2014,ADDM Network*
+Arizona,17656.0,16.0,14.2,17.9,10 to <20,Yes,2016,ADDM Network*
+Arizona,13313.0,24.9,22.4,27.6,20 to <30,Yes,2018,ADDM Network*
+Arizona,13118.0,27.4,24.8,30.4,20 to <30,Yes,2020,ADDM Network*
+Arizona,6709.0,31.3,27.4,35.7,30+,Yes,2022,ADDM Network*
+Arizona,274759.0,3.3,3.1,3.5,<10,Yes,2000,Medicaid
+Arizona,312970.0,3.7,3.5,3.9,<10,Yes,2001,Medicaid
+Arizona,373705.0,3.9,3.8,4.2,<10,Yes,2002,Medicaid
+Arizona,432277.0,4.0,3.9,4.2,<10,Yes,2003,Medicaid
+Arizona,458585.0,4.3,4.1,4.5,<10,Yes,2004,Medicaid
+Arizona,475755.0,4.9,4.7,5.1,<10,Yes,2005,Medicaid
+Arizona,472700.0,7.8,7.5,8.0,<10,Yes,2006,Medicaid
+Arizona,479757.0,8.6,8.3,8.9,<10,Yes,2007,Medicaid
+Arizona,510208.0,9.0,8.7,9.3,<10,Yes,2008,Medicaid
+Arizona,576963.0,9.5,9.3,9.8,<10,Yes,2009,Medicaid
+Arizona,526254.0,11.3,11.0,11.6,10 to <20,Yes,2010,Medicaid
+Arizona,580628.0,11.9,11.6,12.2,10 to <20,Yes,2011,Medicaid
+Arizona,616380.0,12.5,12.3,12.8,10 to <20,Yes,2012,Medicaid
+Arizona,613027.0,13.9,13.7,14.2,10 to <20,Yes,2013,Medicaid
+Arizona,721405.0,15.4,15.1,15.7,10 to <20,Yes,2016,Medicaid
+Arizona,722361.0,17.0,16.7,17.3,10 to <20,Yes,2017,Medicaid
+Arizona,709026.0,19.2,18.9,19.5,10 to <20,Yes,2018,Medicaid
+Arizona,702750.0,21.0,20.6,21.3,20 to <30,Yes,2019,Medicaid
+Arizona,695871.0,22.0,21.7,22.4,20 to <30,Yes,2020,Medicaid
+Arizona,738541.0,22.2,21.9,22.6,20 to <30,Yes,2021,Medicaid
+Arizona,772617.0,24.4,24.0,24.7,20 to <30,Yes,2022,Medicaid
+Arizona,1573.0,19.3,11.8,31.5,10 to <20,Yes,2011,National Survey of Children's Health†
+Arizona,2912.0,31.5,23.7,41.7,30+,Yes,2020,National Survey of Children's Health†
+Arizona,1416.0,43.2,29.5,62.8,30+,Yes,2022,National Survey of Children's Health†
+Arizona,804559.0,1.3,1.2,1.4,<10,Yes,2000,Special Education Child Count
+Arizona,835126.0,1.5,1.4,1.6,<10,Yes,2001,Special Education Child Count
+Arizona,853801.0,1.9,1.8,2.0,<10,Yes,2002,Special Education Child Count
+Arizona,920714.0,2.2,2.1,2.3,<10,Yes,2003,Special Education Child Count
+Arizona,948234.0,2.6,2.5,2.7,<10,Yes,2004,Special Education Child Count
+Arizona,1000752.0,3.1,3.0,3.2,<10,Yes,2005,Special Education Child Count
+Arizona,967743.0,3.9,3.8,4.0,<10,Yes,2006,Special Education Child Count
+Arizona,984666.0,4.4,4.3,4.6,<10,Yes,2007,Special Education Child Count
+Arizona,983587.0,5.1,4.9,5.2,<10,Yes,2008,Special Education Child Count
+Arizona,984294.0,6.0,5.8,6.1,<10,Yes,2009,Special Education Child Count
+Arizona,980187.0,6.8,6.7,7.0,<10,Yes,2010,Special Education Child Count
+Arizona,986805.0,7.6,7.4,7.7,<10,Yes,2011,Special Education Child Count
+Arizona,993616.0,8.2,8.0,8.4,<10,Yes,2012,Special Education Child Count
+Arizona,1007136.0,8.8,8.6,9.0,<10,Yes,2013,Special Education Child Count
+Arizona,1019375.0,9.3,9.1,9.5,<10,Yes,2014,Special Education Child Count
+Arizona,1019034.0,9.8,9.6,10.0,<10,Yes,2015,Special Education Child Count
+Arizona,1033143.0,10.4,10.2,10.6,10 to <20,Yes,2016,Special Education Child Count
+Arizona,1016873.0,11.4,11.2,11.6,10 to <20,Yes,2017,Special Education Child Count
+Arizona,1039606.0,12.2,12.0,12.4,10 to <20,Yes,2018,Special Education Child Count
+Arizona,1048882.0,12.9,12.7,13.1,10 to <20,Yes,2019,Special Education Child Count
+Arizona,1024499.0,14.1,13.9,14.3,10 to <20,Yes,2020,Special Education Child Count
+Arizona,1036815.0,14.7,14.4,14.9,10 to <20,Yes,2021,Special Education Child Count
+Arizona,1036574.0,16.0,15.8,16.3,10 to <20,Yes,2022,Special Education Child Count
+Arizona,45322.0,6.5,,,<10,No,2000,ADDM Network*
+Arizona,45113.0,6.2,,,<10,No,2002,ADDM Network*
+Arizona,13620.0,9.8,,,<10,No,2004,ADDM Network*
+Arizona,41650.0,12.1,,,10 to <20,No,2006,ADDM Network*
+Arizona,32601.0,15.6,,,10 to <20,No,2008,ADDM Network*
+Arizona,33768.0,15.7,,,10 to <20,No,2010,ADDM Network*
+Arizona,32615.0,15.1,,,10 to <20,No,2012,ADDM Network*
+Arizona,24952.0,14.0,,,10 to <20,No,2014,ADDM Network*
+Arizona,17656.0,16.0,,,10 to <20,No,2016,ADDM Network*
+Arizona,13313.0,24.9,,,20 to <30,No,2018,ADDM Network*
+Arizona,13118.0,27.4,,,20 to <30,No,2020,ADDM Network*
+Arizona,6709.0,31.3,,,30+,No,2022,ADDM Network*
+Arizona,274759.0,3.3,,,<10,No,2000,Medicaid
+Arizona,312970.0,3.7,,,<10,No,2001,Medicaid
+Arizona,373705.0,3.9,,,<10,No,2002,Medicaid
+Arizona,432277.0,4.0,,,<10,No,2003,Medicaid
+Arizona,458585.0,4.3,,,<10,No,2004,Medicaid
+Arizona,475755.0,4.9,,,<10,No,2005,Medicaid
+Arizona,472700.0,7.8,,,<10,No,2006,Medicaid
+Arizona,479757.0,8.6,,,<10,No,2007,Medicaid
+Arizona,510208.0,9.0,,,<10,No,2008,Medicaid
+Arizona,576963.0,9.5,,,<10,No,2009,Medicaid
+Arizona,526254.0,11.3,,,10 to <20,No,2010,Medicaid
+Arizona,580628.0,11.9,,,10 to <20,No,2011,Medicaid
+Arizona,616380.0,12.5,,,10 to <20,No,2012,Medicaid
+Arizona,613027.0,13.9,,,10 to <20,No,2013,Medicaid
+Arizona,721405.0,15.4,,,10 to <20,No,2016,Medicaid
+Arizona,722361.0,17.0,,,10 to <20,No,2017,Medicaid
+Arizona,709026.0,19.2,,,10 to <20,No,2018,Medicaid
+Arizona,702750.0,21.0,,,20 to <30,No,2019,Medicaid
+Arizona,695871.0,22.0,,,20 to <30,No,2020,Medicaid
+Arizona,738541.0,22.2,,,20 to <30,No,2021,Medicaid
+Arizona,772617.0,24.4,,,20 to <30,No,2022,Medicaid
+Arizona,1573.0,19.3,,,10 to <20,No,2011,National Survey of Children's Health†
+Arizona,2912.0,31.5,,,30+,No,2020,National Survey of Children's Health†
+Arizona,1416.0,43.2,,,30+,No,2022,National Survey of Children's Health†
+Arizona,804559.0,1.3,,,<10,No,2000,Special Education Child Count
+Arizona,835126.0,1.5,,,<10,No,2001,Special Education Child Count
+Arizona,853801.0,1.9,,,<10,No,2002,Special Education Child Count
+Arizona,920714.0,2.2,,,<10,No,2003,Special Education Child Count
+Arizona,948234.0,2.6,,,<10,No,2004,Special Education Child Count
+Arizona,1000752.0,3.1,,,<10,No,2005,Special Education Child Count
+Arizona,967743.0,3.9,,,<10,No,2006,Special Education Child Count
+Arizona,984666.0,4.4,,,<10,No,2007,Special Education Child Count
+Arizona,983587.0,5.1,,,<10,No,2008,Special Education Child Count
+Arizona,984294.0,6.0,,,<10,No,2009,Special Education Child Count
+Arizona,980187.0,6.8,,,<10,No,2010,Special Education Child Count
+Arizona,986805.0,7.6,,,<10,No,2011,Special Education Child Count
+Arizona,993616.0,8.2,,,<10,No,2012,Special Education Child Count
+Arizona,1007136.0,8.8,,,<10,No,2013,Special Education Child Count
+Arizona,1019375.0,9.3,,,<10,No,2014,Special Education Child Count
+Arizona,1019034.0,9.8,,,<10,No,2015,Special Education Child Count
+Arizona,1033143.0,10.4,,,10 to <20,No,2016,Special Education Child Count
+Arizona,1016873.0,11.4,,,10 to <20,No,2017,Special Education Child Count
+Arizona,1039606.0,12.2,,,10 to <20,No,2018,Special Education Child Count
+Arizona,1048882.0,12.9,,,10 to <20,No,2019,Special Education Child Count
+Arizona,1024499.0,14.1,,,10 to <20,No,2020,Special Education Child Count
+Arizona,1036815.0,14.7,,,10 to <20,No,2021,Special Education Child Count
+Arizona,1036574.0,16.0,,,10 to <20,No,2022,Special Education Child Count

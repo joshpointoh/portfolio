@@ -1,0 +1,89 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Vermont,49725.0,5.5,4.9,6.2,<10,Yes,2000,Medicaid
+Vermont,51215.0,6.2,5.6,7.0,<10,Yes,2001,Medicaid
+Vermont,52396.0,6.9,6.3,7.7,<10,Yes,2002,Medicaid
+Vermont,52490.0,7.6,6.9,8.4,<10,Yes,2003,Medicaid
+Vermont,52366.0,8.5,7.7,9.3,<10,Yes,2004,Medicaid
+Vermont,51239.0,9.9,9.1,10.8,<10,Yes,2005,Medicaid
+Vermont,50523.0,10.6,9.8,11.6,10 to <20,Yes,2006,Medicaid
+Vermont,49041.0,13.5,12.5,14.5,10 to <20,Yes,2007,Medicaid
+Vermont,49176.0,17.0,15.9,18.2,10 to <20,Yes,2008,Medicaid
+Vermont,50831.0,19.2,18.1,20.5,10 to <20,Yes,2009,Medicaid
+Vermont,52091.0,20.6,19.4,21.8,20 to <30,Yes,2010,Medicaid
+Vermont,52293.0,20.9,19.7,22.2,20 to <30,Yes,2011,Medicaid
+Vermont,52507.0,21.7,20.4,22.9,20 to <30,Yes,2012,Medicaid
+Vermont,52506.0,22.7,21.4,23.9,20 to <30,Yes,2013,Medicaid
+Vermont,59581.0,20.9,19.7,22.0,20 to <30,Yes,2016,Medicaid
+Vermont,57544.0,21.7,20.5,22.9,20 to <30,Yes,2017,Medicaid
+Vermont,56607.0,22.7,21.5,24.0,20 to <30,Yes,2018,Medicaid
+Vermont,55636.0,23.3,22.0,24.5,20 to <30,Yes,2019,Medicaid
+Vermont,54377.0,24.1,22.9,25.4,20 to <30,Yes,2020,Medicaid
+Vermont,56427.0,25.1,23.8,26.4,20 to <30,Yes,2021,Medicaid
+Vermont,57124.0,26.2,24.9,27.5,20 to <30,Yes,2022,Medicaid
+Vermont,1601.0,20.9,13.2,32.8,20 to <30,Yes,2011,National Survey of Children's Health†
+Vermont,3099.0,21.1,15.4,28.8,20 to <30,Yes,2020,National Survey of Children's Health†
+Vermont,1363.0,21.4,12.9,35.3,20 to <30,Yes,2022,National Survey of Children's Health†
+Vermont,93062.0,2.1,1.8,2.4,<10,Yes,2000,Special Education Child Count
+Vermont,92230.0,2.5,2.2,2.8,<10,Yes,2001,Special Education Child Count
+Vermont,90699.0,2.5,2.2,2.8,<10,Yes,2002,Special Education Child Count
+Vermont,89718.0,2.8,2.5,3.2,<10,Yes,2003,Special Education Child Count
+Vermont,88167.0,3.0,2.7,3.4,<10,Yes,2004,Special Education Child Count
+Vermont,86388.0,3.1,2.8,3.5,<10,Yes,2005,Special Education Child Count
+Vermont,84893.0,3.5,3.1,3.9,<10,Yes,2006,Special Education Child Count
+Vermont,80398.0,7.8,7.3,8.5,<10,Yes,2009,Special Education Child Count
+Vermont,79921.0,8.8,8.1,9.4,<10,Yes,2010,Special Education Child Count
+Vermont,78287.0,9.5,8.8,10.2,<10,Yes,2011,Special Education Child Count
+Vermont,77646.0,10.2,9.5,10.9,10 to <20,Yes,2012,Special Education Child Count
+Vermont,76808.0,10.9,10.2,11.7,10 to <20,Yes,2013,Special Education Child Count
+Vermont,75559.0,11.3,10.6,12.1,10 to <20,Yes,2014,Special Education Child Count
+Vermont,74724.0,11.9,11.2,12.7,10 to <20,Yes,2015,Special Education Child Count
+Vermont,74108.0,12.1,11.3,12.9,10 to <20,Yes,2016,Special Education Child Count
+Vermont,72658.0,12.9,12.1,13.8,10 to <20,Yes,2018,Special Education Child Count
+Vermont,72178.0,13.5,12.7,14.4,10 to <20,Yes,2019,Special Education Child Count
+Vermont,70523.0,14.1,13.3,15.0,10 to <20,Yes,2020,Special Education Child Count
+Vermont,70701.0,14.6,13.7,15.5,10 to <20,Yes,2021,Special Education Child Count
+Vermont,70340.0,15.8,14.9,16.7,10 to <20,Yes,2022,Special Education Child Count
+Vermont,49725.0,5.5,,,<10,No,2000,Medicaid
+Vermont,51215.0,6.2,,,<10,No,2001,Medicaid
+Vermont,52396.0,6.9,,,<10,No,2002,Medicaid
+Vermont,52490.0,7.6,,,<10,No,2003,Medicaid
+Vermont,52366.0,8.5,,,<10,No,2004,Medicaid
+Vermont,51239.0,9.9,,,<10,No,2005,Medicaid
+Vermont,50523.0,10.6,,,10 to <20,No,2006,Medicaid
+Vermont,49041.0,13.5,,,10 to <20,No,2007,Medicaid
+Vermont,49176.0,17.0,,,10 to <20,No,2008,Medicaid
+Vermont,50831.0,19.2,,,10 to <20,No,2009,Medicaid
+Vermont,52091.0,20.6,,,20 to <30,No,2010,Medicaid
+Vermont,52293.0,20.9,,,20 to <30,No,2011,Medicaid
+Vermont,52507.0,21.7,,,20 to <30,No,2012,Medicaid
+Vermont,52506.0,22.7,,,20 to <30,No,2013,Medicaid
+Vermont,59581.0,20.9,,,20 to <30,No,2016,Medicaid
+Vermont,57544.0,21.7,,,20 to <30,No,2017,Medicaid
+Vermont,56607.0,22.7,,,20 to <30,No,2018,Medicaid
+Vermont,55636.0,23.3,,,20 to <30,No,2019,Medicaid
+Vermont,54377.0,24.1,,,20 to <30,No,2020,Medicaid
+Vermont,56427.0,25.1,,,20 to <30,No,2021,Medicaid
+Vermont,57124.0,26.2,,,20 to <30,No,2022,Medicaid
+Vermont,1601.0,20.9,,,20 to <30,No,2011,National Survey of Children's Health†
+Vermont,3099.0,21.1,,,20 to <30,No,2020,National Survey of Children's Health†
+Vermont,1363.0,21.4,,,20 to <30,No,2022,National Survey of Children's Health†
+Vermont,93062.0,2.1,,,<10,No,2000,Special Education Child Count
+Vermont,92230.0,2.5,,,<10,No,2001,Special Education Child Count
+Vermont,90699.0,2.5,,,<10,No,2002,Special Education Child Count
+Vermont,89718.0,2.8,,,<10,No,2003,Special Education Child Count
+Vermont,88167.0,3.0,,,<10,No,2004,Special Education Child Count
+Vermont,86388.0,3.1,,,<10,No,2005,Special Education Child Count
+Vermont,84893.0,3.5,,,<10,No,2006,Special Education Child Count
+Vermont,80398.0,7.8,,,<10,No,2009,Special Education Child Count
+Vermont,79921.0,8.8,,,<10,No,2010,Special Education Child Count
+Vermont,78287.0,9.5,,,<10,No,2011,Special Education Child Count
+Vermont,77646.0,10.2,,,10 to <20,No,2012,Special Education Child Count
+Vermont,76808.0,10.9,,,10 to <20,No,2013,Special Education Child Count
+Vermont,75559.0,11.3,,,10 to <20,No,2014,Special Education Child Count
+Vermont,74724.0,11.9,,,10 to <20,No,2015,Special Education Child Count
+Vermont,74108.0,12.1,,,10 to <20,No,2016,Special Education Child Count
+Vermont,72658.0,12.9,,,10 to <20,No,2018,Special Education Child Count
+Vermont,72178.0,13.5,,,10 to <20,No,2019,Special Education Child Count
+Vermont,70523.0,14.1,,,10 to <20,No,2020,Special Education Child Count
+Vermont,70701.0,14.6,,,10 to <20,No,2021,Special Education Child Count
+Vermont,70340.0,15.8,,,10 to <20,No,2022,Special Education Child Count

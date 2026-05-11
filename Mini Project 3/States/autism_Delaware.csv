@@ -1,0 +1,95 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Delaware,42834.0,3.2,2.7,3.8,<10,Yes,2000,Medicaid
+Delaware,46003.0,2.8,2.3,3.3,<10,Yes,2001,Medicaid
+Delaware,49318.0,4.0,3.5,4.6,<10,Yes,2002,Medicaid
+Delaware,51552.0,3.8,3.3,4.3,<10,Yes,2003,Medicaid
+Delaware,54121.0,3.5,3.0,4.0,<10,Yes,2004,Medicaid
+Delaware,56660.0,3.7,3.2,4.2,<10,Yes,2005,Medicaid
+Delaware,57289.0,4.0,3.6,4.6,<10,Yes,2006,Medicaid
+Delaware,57971.0,4.5,4.0,5.0,<10,Yes,2007,Medicaid
+Delaware,60841.0,4.6,4.1,5.2,<10,Yes,2008,Medicaid
+Delaware,64313.0,4.8,4.3,5.4,<10,Yes,2009,Medicaid
+Delaware,68633.0,5.4,4.9,6.0,<10,Yes,2010,Medicaid
+Delaware,73977.0,8.8,8.2,9.5,<10,Yes,2011,Medicaid
+Delaware,76828.0,10.0,9.4,10.8,10 to <20,Yes,2012,Medicaid
+Delaware,78636.0,10.6,9.9,11.4,10 to <20,Yes,2013,Medicaid
+Delaware,90960.0,15.4,14.6,16.2,10 to <20,Yes,2016,Medicaid
+Delaware,89898.0,17.0,16.1,17.8,10 to <20,Yes,2017,Medicaid
+Delaware,90356.0,18.7,17.8,19.6,10 to <20,Yes,2018,Medicaid
+Delaware,90917.0,20.9,20.0,21.8,20 to <30,Yes,2019,Medicaid
+Delaware,89869.0,21.3,20.3,22.2,20 to <30,Yes,2020,Medicaid
+Delaware,95791.0,23.1,22.1,24.0,20 to <30,Yes,2021,Medicaid
+Delaware,98888.0,25.7,24.7,26.7,20 to <30,Yes,2022,Medicaid
+Delaware,1572.0,23.8,15.6,36.0,20 to <30,Yes,2011,National Survey of Children's Health†
+Delaware,2811.0,39.3,29.2,52.9,30+,Yes,2020,National Survey of Children's Health†
+Delaware,1383.0,36.6,26.0,51.2,30+,Yes,2022,National Survey of Children's Health†
+Delaware,106279.0,2.3,2.0,2.6,<10,Yes,2000,Special Education Child Count
+Delaware,107316.0,2.4,2.1,2.7,<10,Yes,2001,Special Education Child Count
+Delaware,107916.0,2.8,2.5,3.1,<10,Yes,2002,Special Education Child Count
+Delaware,109122.0,3.1,2.8,3.5,<10,Yes,2003,Special Education Child Count
+Delaware,110142.0,3.5,3.2,3.9,<10,Yes,2004,Special Education Child Count
+Delaware,111746.0,3.9,3.6,4.3,<10,Yes,2005,Special Education Child Count
+Delaware,112988.0,4.6,4.2,5.0,<10,Yes,2006,Special Education Child Count
+Delaware,113174.0,5.1,4.7,5.6,<10,Yes,2007,Special Education Child Count
+Delaware,115234.0,5.8,5.3,6.2,<10,Yes,2008,Special Education Child Count
+Delaware,116509.0,6.2,5.8,6.7,<10,Yes,2009,Special Education Child Count
+Delaware,117967.0,6.3,5.9,6.8,<10,Yes,2010,Special Education Child Count
+Delaware,117428.0,7.1,6.6,7.6,<10,Yes,2011,Special Education Child Count
+Delaware,117607.0,7.7,7.2,8.2,<10,Yes,2012,Special Education Child Count
+Delaware,119786.0,8.2,7.7,8.7,<10,Yes,2013,Special Education Child Count
+Delaware,122317.0,9.3,8.8,9.9,<10,Yes,2014,Special Education Child Count
+Delaware,123254.0,10.6,10.1,11.2,10 to <20,Yes,2015,Special Education Child Count
+Delaware,124609.0,11.1,10.5,11.7,10 to <20,Yes,2016,Special Education Child Count
+Delaware,124548.0,13.0,12.4,13.7,10 to <20,Yes,2017,Special Education Child Count
+Delaware,126504.0,14.0,13.4,14.7,10 to <20,Yes,2018,Special Education Child Count
+Delaware,127818.0,15.3,14.6,16.0,10 to <20,Yes,2019,Special Education Child Count
+Delaware,126596.0,16.9,16.2,17.6,10 to <20,Yes,2020,Special Education Child Count
+Delaware,127938.0,19.1,18.4,19.9,10 to <20,Yes,2021,Special Education Child Count
+Delaware,129476.0,21.8,21.0,22.6,20 to <30,Yes,2022,Special Education Child Count
+Delaware,42834.0,3.2,,,<10,No,2000,Medicaid
+Delaware,46003.0,2.8,,,<10,No,2001,Medicaid
+Delaware,49318.0,4.0,,,<10,No,2002,Medicaid
+Delaware,51552.0,3.8,,,<10,No,2003,Medicaid
+Delaware,54121.0,3.5,,,<10,No,2004,Medicaid
+Delaware,56660.0,3.7,,,<10,No,2005,Medicaid
+Delaware,57289.0,4.0,,,<10,No,2006,Medicaid
+Delaware,57971.0,4.5,,,<10,No,2007,Medicaid
+Delaware,60841.0,4.6,,,<10,No,2008,Medicaid
+Delaware,64313.0,4.8,,,<10,No,2009,Medicaid
+Delaware,68633.0,5.4,,,<10,No,2010,Medicaid
+Delaware,73977.0,8.8,,,<10,No,2011,Medicaid
+Delaware,76828.0,10.0,,,10 to <20,No,2012,Medicaid
+Delaware,78636.0,10.6,,,10 to <20,No,2013,Medicaid
+Delaware,90960.0,15.4,,,10 to <20,No,2016,Medicaid
+Delaware,89898.0,17.0,,,10 to <20,No,2017,Medicaid
+Delaware,90356.0,18.7,,,10 to <20,No,2018,Medicaid
+Delaware,90917.0,20.9,,,20 to <30,No,2019,Medicaid
+Delaware,89869.0,21.3,,,20 to <30,No,2020,Medicaid
+Delaware,95791.0,23.1,,,20 to <30,No,2021,Medicaid
+Delaware,98888.0,25.7,,,20 to <30,No,2022,Medicaid
+Delaware,1572.0,23.8,,,20 to <30,No,2011,National Survey of Children's Health†
+Delaware,2811.0,39.3,,,30+,No,2020,National Survey of Children's Health†
+Delaware,1383.0,36.6,,,30+,No,2022,National Survey of Children's Health†
+Delaware,106279.0,2.3,,,<10,No,2000,Special Education Child Count
+Delaware,107316.0,2.4,,,<10,No,2001,Special Education Child Count
+Delaware,107916.0,2.8,,,<10,No,2002,Special Education Child Count
+Delaware,109122.0,3.1,,,<10,No,2003,Special Education Child Count
+Delaware,110142.0,3.5,,,<10,No,2004,Special Education Child Count
+Delaware,111746.0,3.9,,,<10,No,2005,Special Education Child Count
+Delaware,112988.0,4.6,,,<10,No,2006,Special Education Child Count
+Delaware,113174.0,5.1,,,<10,No,2007,Special Education Child Count
+Delaware,115234.0,5.8,,,<10,No,2008,Special Education Child Count
+Delaware,116509.0,6.2,,,<10,No,2009,Special Education Child Count
+Delaware,117967.0,6.3,,,<10,No,2010,Special Education Child Count
+Delaware,117428.0,7.1,,,<10,No,2011,Special Education Child Count
+Delaware,117607.0,7.7,,,<10,No,2012,Special Education Child Count
+Delaware,119786.0,8.2,,,<10,No,2013,Special Education Child Count
+Delaware,122317.0,9.3,,,<10,No,2014,Special Education Child Count
+Delaware,123254.0,10.6,,,10 to <20,No,2015,Special Education Child Count
+Delaware,124609.0,11.1,,,10 to <20,No,2016,Special Education Child Count
+Delaware,124548.0,13.0,,,10 to <20,No,2017,Special Education Child Count
+Delaware,126504.0,14.0,,,10 to <20,No,2018,Special Education Child Count
+Delaware,127818.0,15.3,,,10 to <20,No,2019,Special Education Child Count
+Delaware,126596.0,16.9,,,10 to <20,No,2020,Special Education Child Count
+Delaware,127938.0,19.1,,,10 to <20,No,2021,Special Education Child Count
+Delaware,129476.0,21.8,,,20 to <30,No,2022,Special Education Child Count

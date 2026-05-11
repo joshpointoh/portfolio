@@ -1,0 +1,95 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Texas,9212.0,14.3,12.1,17.0,10 to <20,Yes,2022,ADDM Network*
+Texas,1007251.0,1.3,1.3,1.4,<10,Yes,2000,Medicaid
+Texas,1054202.0,1.6,1.6,1.7,<10,Yes,2001,Medicaid
+Texas,1298947.0,1.5,1.5,1.6,<10,Yes,2002,Medicaid
+Texas,1538529.0,1.5,1.5,1.6,<10,Yes,2003,Medicaid
+Texas,1710039.0,1.6,1.5,1.6,<10,Yes,2004,Medicaid
+Texas,1770847.0,1.7,1.6,1.8,<10,Yes,2005,Medicaid
+Texas,1792054.0,2.0,2.0,2.1,<10,Yes,2006,Medicaid
+Texas,1827774.0,2.6,2.5,2.7,<10,Yes,2007,Medicaid
+Texas,1851708.0,3.2,3.1,3.3,<10,Yes,2008,Medicaid
+Texas,2048393.0,3.5,3.5,3.6,<10,Yes,2009,Medicaid
+Texas,2253828.0,4.0,3.9,4.1,<10,Yes,2010,Medicaid
+Texas,2396762.0,4.5,4.4,4.6,<10,Yes,2011,Medicaid
+Texas,2431612.0,4.6,4.5,4.7,<10,Yes,2012,Medicaid
+Texas,2417341.0,5.6,5.5,5.7,<10,Yes,2013,Medicaid
+Texas,3074109.0,7.4,7.3,7.5,<10,Yes,2016,Medicaid
+Texas,3072284.0,8.2,8.1,8.3,<10,Yes,2017,Medicaid
+Texas,3033808.0,9.0,8.9,9.1,<10,Yes,2018,Medicaid
+Texas,2953441.0,10.2,10.1,10.3,10 to <20,Yes,2019,Medicaid
+Texas,2918709.0,10.6,10.5,10.7,10 to <20,Yes,2020,Medicaid
+Texas,3119300.0,11.7,11.5,11.8,10 to <20,Yes,2021,Medicaid
+Texas,3238141.0,13.3,13.1,13.4,10 to <20,Yes,2022,Medicaid
+Texas,2722.0,27.5,19.6,38.3,20 to <30,Yes,2020,National Survey of Children's Health†
+Texas,1422.0,29.8,20.8,42.6,20 to <30,Yes,2022,National Survey of Children's Health†
+Texas,3619631.0,1.6,1.5,1.6,<10,Yes,2000,Special Education Child Count
+Texas,3690487.0,1.8,1.8,1.9,<10,Yes,2001,Special Education Child Count
+Texas,3760793.0,2.2,2.1,2.2,<10,Yes,2002,Special Education Child Count
+Texas,3814099.0,2.6,2.5,2.6,<10,Yes,2003,Special Education Child Count
+Texas,3866616.0,3.0,3.0,3.1,<10,Yes,2004,Special Education Child Count
+Texas,3967303.0,3.5,3.4,3.5,<10,Yes,2005,Special Education Child Count
+Texas,4034392.0,3.9,3.9,4.0,<10,Yes,2006,Special Education Child Count
+Texas,4100375.0,4.5,4.4,4.5,<10,Yes,2007,Special Education Child Count
+Texas,4165071.0,5.1,5.0,5.2,<10,Yes,2008,Special Education Child Count
+Texas,4241747.0,5.7,5.7,5.8,<10,Yes,2009,Special Education Child Count
+Texas,4312398.0,6.4,6.3,6.5,<10,Yes,2010,Special Education Child Count
+Texas,4371500.0,7.0,7.0,7.1,<10,Yes,2011,Special Education Child Count
+Texas,4436112.0,7.6,7.5,7.7,<10,Yes,2012,Special Education Child Count
+Texas,4513821.0,8.3,8.2,8.4,<10,Yes,2013,Special Education Child Count
+Texas,4601387.0,8.9,8.9,9.0,<10,Yes,2014,Special Education Child Count
+Texas,4681157.0,9.5,9.5,9.6,<10,Yes,2015,Special Education Child Count
+Texas,4740714.0,10.2,10.1,10.3,10 to <20,Yes,2016,Special Education Child Count
+Texas,4773481.0,11.1,11.0,11.2,10 to <20,Yes,2017,Special Education Child Count
+Texas,4794975.0,12.2,12.1,12.3,10 to <20,Yes,2018,Special Education Child Count
+Texas,4836103.0,13.5,13.4,13.6,10 to <20,Yes,2019,Special Education Child Count
+Texas,4793317.0,15.7,15.6,15.8,10 to <20,Yes,2020,Special Education Child Count
+Texas,4811956.0,17.2,17.1,17.3,10 to <20,Yes,2021,Special Education Child Count
+Texas,4882517.0,19.6,19.5,19.7,10 to <20,Yes,2022,Special Education Child Count
+Texas,9212.0,14.3,,,10 to <20,No,2022,ADDM Network*
+Texas,1007251.0,1.3,,,<10,No,2000,Medicaid
+Texas,1054202.0,1.6,,,<10,No,2001,Medicaid
+Texas,1298947.0,1.5,,,<10,No,2002,Medicaid
+Texas,1538529.0,1.5,,,<10,No,2003,Medicaid
+Texas,1710039.0,1.6,,,<10,No,2004,Medicaid
+Texas,1770847.0,1.7,,,<10,No,2005,Medicaid
+Texas,1792054.0,2.0,,,<10,No,2006,Medicaid
+Texas,1827774.0,2.6,,,<10,No,2007,Medicaid
+Texas,1851708.0,3.2,,,<10,No,2008,Medicaid
+Texas,2048393.0,3.5,,,<10,No,2009,Medicaid
+Texas,2253828.0,4.0,,,<10,No,2010,Medicaid
+Texas,2396762.0,4.5,,,<10,No,2011,Medicaid
+Texas,2431612.0,4.6,,,<10,No,2012,Medicaid
+Texas,2417341.0,5.6,,,<10,No,2013,Medicaid
+Texas,3074109.0,7.4,,,<10,No,2016,Medicaid
+Texas,3072284.0,8.2,,,<10,No,2017,Medicaid
+Texas,3033808.0,9.0,,,<10,No,2018,Medicaid
+Texas,2953441.0,10.2,,,10 to <20,No,2019,Medicaid
+Texas,2918709.0,10.6,,,10 to <20,No,2020,Medicaid
+Texas,3119300.0,11.7,,,10 to <20,No,2021,Medicaid
+Texas,3238141.0,13.3,,,10 to <20,No,2022,Medicaid
+Texas,2722.0,27.5,,,20 to <30,No,2020,National Survey of Children's Health†
+Texas,1422.0,29.8,,,20 to <30,No,2022,National Survey of Children's Health†
+Texas,3619631.0,1.6,,,<10,No,2000,Special Education Child Count
+Texas,3690487.0,1.8,,,<10,No,2001,Special Education Child Count
+Texas,3760793.0,2.2,,,<10,No,2002,Special Education Child Count
+Texas,3814099.0,2.6,,,<10,No,2003,Special Education Child Count
+Texas,3866616.0,3.0,,,<10,No,2004,Special Education Child Count
+Texas,3967303.0,3.5,,,<10,No,2005,Special Education Child Count
+Texas,4034392.0,3.9,,,<10,No,2006,Special Education Child Count
+Texas,4100375.0,4.5,,,<10,No,2007,Special Education Child Count
+Texas,4165071.0,5.1,,,<10,No,2008,Special Education Child Count
+Texas,4241747.0,5.7,,,<10,No,2009,Special Education Child Count
+Texas,4312398.0,6.4,,,<10,No,2010,Special Education Child Count
+Texas,4371500.0,7.0,,,<10,No,2011,Special Education Child Count
+Texas,4436112.0,7.6,,,<10,No,2012,Special Education Child Count
+Texas,4513821.0,8.3,,,<10,No,2013,Special Education Child Count
+Texas,4601387.0,8.9,,,<10,No,2014,Special Education Child Count
+Texas,4681157.0,9.5,,,<10,No,2015,Special Education Child Count
+Texas,4740714.0,10.2,,,10 to <20,No,2016,Special Education Child Count
+Texas,4773481.0,11.1,,,10 to <20,No,2017,Special Education Child Count
+Texas,4794975.0,12.2,,,10 to <20,No,2018,Special Education Child Count
+Texas,4836103.0,13.5,,,10 to <20,No,2019,Special Education Child Count
+Texas,4793317.0,15.7,,,10 to <20,No,2020,Special Education Child Count
+Texas,4811956.0,17.2,,,10 to <20,No,2021,Special Education Child Count
+Texas,4882517.0,19.6,,,10 to <20,No,2022,Special Education Child Count

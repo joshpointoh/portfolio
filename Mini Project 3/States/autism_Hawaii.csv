@@ -1,0 +1,93 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Hawaii,62623.0,0.7,0.5,1.0,<10,Yes,2000,Medicaid
+Hawaii,64743.0,0.7,0.5,0.9,<10,Yes,2001,Medicaid
+Hawaii,68692.0,0.7,0.5,0.9,<10,Yes,2002,Medicaid
+Hawaii,71906.0,0.7,0.5,0.9,<10,Yes,2003,Medicaid
+Hawaii,74716.0,1.0,0.8,1.2,<10,Yes,2004,Medicaid
+Hawaii,78809.0,2.0,1.7,2.3,<10,Yes,2005,Medicaid
+Hawaii,80003.0,1.7,1.5,2.0,<10,Yes,2006,Medicaid
+Hawaii,81478.0,2.1,1.8,2.4,<10,Yes,2007,Medicaid
+Hawaii,81986.0,2.0,1.7,2.3,<10,Yes,2008,Medicaid
+Hawaii,91918.0,2.0,1.7,2.3,<10,Yes,2009,Medicaid
+Hawaii,99733.0,1.9,1.7,2.2,<10,Yes,2010,Medicaid
+Hawaii,106656.0,2.1,1.8,2.3,<10,Yes,2011,Medicaid
+Hawaii,111935.0,1.9,1.7,2.2,<10,Yes,2012,Medicaid
+Hawaii,114273.0,2.4,2.1,2.7,<10,Yes,2013,Medicaid
+Hawaii,126170.0,3.6,3.3,3.9,<10,Yes,2016,Medicaid
+Hawaii,125357.0,4.2,3.8,4.5,<10,Yes,2017,Medicaid
+Hawaii,124301.0,4.3,4.0,4.7,<10,Yes,2018,Medicaid
+Hawaii,121385.0,4.5,4.1,4.9,<10,Yes,2019,Medicaid
+Hawaii,121635.0,4.3,3.9,4.7,<10,Yes,2020,Medicaid
+Hawaii,130205.0,6.7,6.2,7.1,<10,Yes,2021,Medicaid
+Hawaii,133882.0,8.0,7.5,8.5,<10,Yes,2022,Medicaid
+Hawaii,2981.0,17.8,13.0,24.2,10 to <20,Yes,2020,National Survey of Children's Health†
+Hawaii,1607.0,17.7,11.3,27.5,10 to <20,Yes,2022,National Survey of Children's Health†
+Hawaii,169370.0,1.6,1.4,1.8,<10,Yes,2000,Special Education Child Count
+Hawaii,169693.0,2.2,1.9,2.4,<10,Yes,2001,Special Education Child Count
+Hawaii,169324.0,3.0,2.8,3.3,<10,Yes,2002,Special Education Child Count
+Hawaii,168579.0,3.5,3.3,3.8,<10,Yes,2003,Special Education Child Count
+Hawaii,168103.0,4.1,3.8,4.4,<10,Yes,2004,Special Education Child Count
+Hawaii,166989.0,4.7,4.4,5.0,<10,Yes,2005,Special Education Child Count
+Hawaii,165116.0,5.0,4.7,5.3,<10,Yes,2006,Special Education Child Count
+Hawaii,163128.0,5.3,4.9,5.6,<10,Yes,2007,Special Education Child Count
+Hawaii,162214.0,5.7,5.3,6.1,<10,Yes,2008,Special Education Child Count
+Hawaii,162491.0,6.0,5.6,6.4,<10,Yes,2009,Special Education Child Count
+Hawaii,161965.0,6.1,5.7,6.5,<10,Yes,2010,Special Education Child Count
+Hawaii,164163.0,6.4,6.0,6.8,<10,Yes,2011,Special Education Child Count
+Hawaii,165531.0,6.8,6.4,7.2,<10,Yes,2012,Special Education Child Count
+Hawaii,167476.0,6.9,6.6,7.4,<10,Yes,2013,Special Education Child Count
+Hawaii,168899.0,7.3,6.9,7.7,<10,Yes,2014,Special Education Child Count
+Hawaii,165143.0,7.8,7.4,8.3,<10,Yes,2015,Special Education Child Count
+Hawaii,164822.0,8.3,7.9,8.7,<10,Yes,2016,Special Education Child Count
+Hawaii,164505.0,8.7,8.2,9.1,<10,Yes,2017,Special Education Child Count
+Hawaii,164816.0,9.2,8.8,9.7,<10,Yes,2018,Special Education Child Count
+Hawaii,164867.0,9.8,9.3,10.3,<10,Yes,2019,Special Education Child Count
+Hawaii,162171.0,10.7,10.2,11.2,10 to <20,Yes,2020,Special Education Child Count
+Hawaii,158615.0,11.8,11.2,12.3,10 to <20,Yes,2021,Special Education Child Count
+Hawaii,155784.0,12.8,12.3,13.4,10 to <20,Yes,2022,Special Education Child Count
+Hawaii,62623.0,0.7,,,<10,No,2000,Medicaid
+Hawaii,64743.0,0.7,,,<10,No,2001,Medicaid
+Hawaii,68692.0,0.7,,,<10,No,2002,Medicaid
+Hawaii,71906.0,0.7,,,<10,No,2003,Medicaid
+Hawaii,74716.0,1.0,,,<10,No,2004,Medicaid
+Hawaii,78809.0,2.0,,,<10,No,2005,Medicaid
+Hawaii,80003.0,1.7,,,<10,No,2006,Medicaid
+Hawaii,81478.0,2.1,,,<10,No,2007,Medicaid
+Hawaii,81986.0,2.0,,,<10,No,2008,Medicaid
+Hawaii,91918.0,2.0,,,<10,No,2009,Medicaid
+Hawaii,99733.0,1.9,,,<10,No,2010,Medicaid
+Hawaii,106656.0,2.1,,,<10,No,2011,Medicaid
+Hawaii,111935.0,1.9,,,<10,No,2012,Medicaid
+Hawaii,114273.0,2.4,,,<10,No,2013,Medicaid
+Hawaii,126170.0,3.6,,,<10,No,2016,Medicaid
+Hawaii,125357.0,4.2,,,<10,No,2017,Medicaid
+Hawaii,124301.0,4.3,,,<10,No,2018,Medicaid
+Hawaii,121385.0,4.5,,,<10,No,2019,Medicaid
+Hawaii,121635.0,4.3,,,<10,No,2020,Medicaid
+Hawaii,130205.0,6.7,,,<10,No,2021,Medicaid
+Hawaii,133882.0,8.0,,,<10,No,2022,Medicaid
+Hawaii,2981.0,17.8,,,10 to <20,No,2020,National Survey of Children's Health†
+Hawaii,1607.0,17.7,,,10 to <20,No,2022,National Survey of Children's Health†
+Hawaii,169370.0,1.6,,,<10,No,2000,Special Education Child Count
+Hawaii,169693.0,2.2,,,<10,No,2001,Special Education Child Count
+Hawaii,169324.0,3.0,,,<10,No,2002,Special Education Child Count
+Hawaii,168579.0,3.5,,,<10,No,2003,Special Education Child Count
+Hawaii,168103.0,4.1,,,<10,No,2004,Special Education Child Count
+Hawaii,166989.0,4.7,,,<10,No,2005,Special Education Child Count
+Hawaii,165116.0,5.0,,,<10,No,2006,Special Education Child Count
+Hawaii,163128.0,5.3,,,<10,No,2007,Special Education Child Count
+Hawaii,162214.0,5.7,,,<10,No,2008,Special Education Child Count
+Hawaii,162491.0,6.0,,,<10,No,2009,Special Education Child Count
+Hawaii,161965.0,6.1,,,<10,No,2010,Special Education Child Count
+Hawaii,164163.0,6.4,,,<10,No,2011,Special Education Child Count
+Hawaii,165531.0,6.8,,,<10,No,2012,Special Education Child Count
+Hawaii,167476.0,6.9,,,<10,No,2013,Special Education Child Count
+Hawaii,168899.0,7.3,,,<10,No,2014,Special Education Child Count
+Hawaii,165143.0,7.8,,,<10,No,2015,Special Education Child Count
+Hawaii,164822.0,8.3,,,<10,No,2016,Special Education Child Count
+Hawaii,164505.0,8.7,,,<10,No,2017,Special Education Child Count
+Hawaii,164816.0,9.2,,,<10,No,2018,Special Education Child Count
+Hawaii,164867.0,9.8,,,<10,No,2019,Special Education Child Count
+Hawaii,162171.0,10.7,,,10 to <20,No,2020,Special Education Child Count
+Hawaii,158615.0,11.8,,,10 to <20,No,2021,Special Education Child Count
+Hawaii,155784.0,12.8,,,10 to <20,No,2022,Special Education Child Count

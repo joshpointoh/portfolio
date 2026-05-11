@@ -1,0 +1,95 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Alaska,50342.0,3.3,2.8,3.8,<10,Yes,2000,Medicaid
+Alaska,54204.0,3.6,3.1,4.1,<10,Yes,2001,Medicaid
+Alaska,57115.0,3.9,3.4,4.4,<10,Yes,2002,Medicaid
+Alaska,59663.0,4.2,3.7,4.7,<10,Yes,2003,Medicaid
+Alaska,59999.0,4.4,3.9,5.0,<10,Yes,2004,Medicaid
+Alaska,60366.0,5.3,4.7,5.9,<10,Yes,2005,Medicaid
+Alaska,58451.0,6.3,5.7,7.0,<10,Yes,2006,Medicaid
+Alaska,55320.0,7.1,6.5,7.9,<10,Yes,2007,Medicaid
+Alaska,55208.0,7.4,6.7,8.1,<10,Yes,2008,Medicaid
+Alaska,57055.0,8.1,7.4,8.9,<10,Yes,2009,Medicaid
+Alaska,62444.0,9.0,8.3,9.8,<10,Yes,2010,Medicaid
+Alaska,64970.0,9.7,9.0,10.5,<10,Yes,2011,Medicaid
+Alaska,66294.0,11.4,10.6,12.2,10 to <20,Yes,2012,Medicaid
+Alaska,67016.0,12.7,11.8,13.5,10 to <20,Yes,2013,Medicaid
+Alaska,70198.0,14.9,14.0,15.8,10 to <20,Yes,2016,Medicaid
+Alaska,75695.0,14.7,13.8,15.6,10 to <20,Yes,2017,Medicaid
+Alaska,79000.0,16.0,15.1,16.8,10 to <20,Yes,2018,Medicaid
+Alaska,81729.0,16.6,15.7,17.4,10 to <20,Yes,2019,Medicaid
+Alaska,83450.0,16.0,15.1,16.8,10 to <20,Yes,2020,Medicaid
+Alaska,84741.0,15.9,15.0,16.7,10 to <20,Yes,2021,Medicaid
+Alaska,86730.0,16.8,16.0,17.7,10 to <20,Yes,2022,Medicaid
+Alaska,1550.0,21.5,12.7,35.9,20 to <30,Yes,2011,National Survey of Children's Health†
+Alaska,2613.0,24.7,18.6,32.8,20 to <30,Yes,2020,National Survey of Children's Health†
+Alaska,1359.0,33.2,22.0,49.7,30+,Yes,2022,National Survey of Children's Health†
+Alaska,122469.0,1.6,1.4,1.8,<10,Yes,2000,Special Education Child Count
+Alaska,123001.0,1.8,1.6,2.0,<10,Yes,2001,Special Education Child Count
+Alaska,122904.0,2.0,1.8,2.3,<10,Yes,2002,Special Education Child Count
+Alaska,122575.0,2.3,2.0,2.6,<10,Yes,2003,Special Education Child Count
+Alaska,121340.0,2.8,2.5,3.1,<10,Yes,2004,Special Education Child Count
+Alaska,121440.0,3.0,2.7,3.4,<10,Yes,2005,Special Education Child Count
+Alaska,120981.0,3.5,3.2,3.9,<10,Yes,2006,Special Education Child Count
+Alaska,119725.0,3.9,3.6,4.3,<10,Yes,2007,Special Education Child Count
+Alaska,119013.0,4.5,4.1,4.9,<10,Yes,2008,Special Education Child Count
+Alaska,119382.0,5.0,4.6,5.4,<10,Yes,2009,Special Education Child Count
+Alaska,118994.0,5.6,5.2,6.1,<10,Yes,2010,Special Education Child Count
+Alaska,117959.0,6.3,5.9,6.8,<10,Yes,2011,Special Education Child Count
+Alaska,117789.0,7.1,6.7,7.6,<10,Yes,2012,Special Education Child Count
+Alaska,117065.0,7.8,7.3,8.3,<10,Yes,2013,Special Education Child Count
+Alaska,117543.0,8.5,8.0,9.1,<10,Yes,2014,Special Education Child Count
+Alaska,118699.0,9.4,8.8,9.9,<10,Yes,2015,Special Education Child Count
+Alaska,119217.0,10.1,9.5,10.7,10 to <20,Yes,2016,Special Education Child Count
+Alaska,119090.0,10.6,10.1,11.2,10 to <20,Yes,2017,Special Education Child Count
+Alaska,117443.0,11.3,10.7,11.9,10 to <20,Yes,2018,Special Education Child Count
+Alaska,117985.0,11.9,11.3,12.6,10 to <20,Yes,2019,Special Education Child Count
+Alaska,116990.0,12.7,12.0,13.3,10 to <20,Yes,2020,Special Education Child Count
+Alaska,117240.0,13.4,12.8,14.1,10 to <20,Yes,2021,Special Education Child Count
+Alaska,117973.0,14.2,13.5,14.9,10 to <20,Yes,2022,Special Education Child Count
+Alaska,50342.0,3.3,,,<10,No,2000,Medicaid
+Alaska,54204.0,3.6,,,<10,No,2001,Medicaid
+Alaska,57115.0,3.9,,,<10,No,2002,Medicaid
+Alaska,59663.0,4.2,,,<10,No,2003,Medicaid
+Alaska,59999.0,4.4,,,<10,No,2004,Medicaid
+Alaska,60366.0,5.3,,,<10,No,2005,Medicaid
+Alaska,58451.0,6.3,,,<10,No,2006,Medicaid
+Alaska,55320.0,7.1,,,<10,No,2007,Medicaid
+Alaska,55208.0,7.4,,,<10,No,2008,Medicaid
+Alaska,57055.0,8.1,,,<10,No,2009,Medicaid
+Alaska,62444.0,9.0,,,<10,No,2010,Medicaid
+Alaska,64970.0,9.7,,,<10,No,2011,Medicaid
+Alaska,66294.0,11.4,,,10 to <20,No,2012,Medicaid
+Alaska,67016.0,12.7,,,10 to <20,No,2013,Medicaid
+Alaska,70198.0,14.9,,,10 to <20,No,2016,Medicaid
+Alaska,75695.0,14.7,,,10 to <20,No,2017,Medicaid
+Alaska,79000.0,16.0,,,10 to <20,No,2018,Medicaid
+Alaska,81729.0,16.6,,,10 to <20,No,2019,Medicaid
+Alaska,83450.0,16.0,,,10 to <20,No,2020,Medicaid
+Alaska,84741.0,15.9,,,10 to <20,No,2021,Medicaid
+Alaska,86730.0,16.8,,,10 to <20,No,2022,Medicaid
+Alaska,1550.0,21.5,,,20 to <30,No,2011,National Survey of Children's Health†
+Alaska,2613.0,24.7,,,20 to <30,No,2020,National Survey of Children's Health†
+Alaska,1359.0,33.2,,,30+,No,2022,National Survey of Children's Health†
+Alaska,122469.0,1.6,,,<10,No,2000,Special Education Child Count
+Alaska,123001.0,1.8,,,<10,No,2001,Special Education Child Count
+Alaska,122904.0,2.0,,,<10,No,2002,Special Education Child Count
+Alaska,122575.0,2.3,,,<10,No,2003,Special Education Child Count
+Alaska,121340.0,2.8,,,<10,No,2004,Special Education Child Count
+Alaska,121440.0,3.0,,,<10,No,2005,Special Education Child Count
+Alaska,120981.0,3.5,,,<10,No,2006,Special Education Child Count
+Alaska,119725.0,3.9,,,<10,No,2007,Special Education Child Count
+Alaska,119013.0,4.5,,,<10,No,2008,Special Education Child Count
+Alaska,119382.0,5.0,,,<10,No,2009,Special Education Child Count
+Alaska,118994.0,5.6,,,<10,No,2010,Special Education Child Count
+Alaska,117959.0,6.3,,,<10,No,2011,Special Education Child Count
+Alaska,117789.0,7.1,,,<10,No,2012,Special Education Child Count
+Alaska,117065.0,7.8,,,<10,No,2013,Special Education Child Count
+Alaska,117543.0,8.5,,,<10,No,2014,Special Education Child Count
+Alaska,118699.0,9.4,,,<10,No,2015,Special Education Child Count
+Alaska,119217.0,10.1,,,10 to <20,No,2016,Special Education Child Count
+Alaska,119090.0,10.6,,,10 to <20,No,2017,Special Education Child Count
+Alaska,117443.0,11.3,,,10 to <20,No,2018,Special Education Child Count
+Alaska,117985.0,11.9,,,10 to <20,No,2019,Special Education Child Count
+Alaska,116990.0,12.7,,,10 to <20,No,2020,Special Education Child Count
+Alaska,117240.0,13.4,,,10 to <20,No,2021,Special Education Child Count
+Alaska,117973.0,14.2,,,10 to <20,No,2022,Special Education Child Count

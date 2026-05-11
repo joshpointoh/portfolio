@@ -1,0 +1,85 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Mississippi,228630.0,1.7,1.5,1.9,<10,Yes,2000,Medicaid
+Mississippi,278423.0,1.6,1.5,1.8,<10,Yes,2001,Medicaid
+Mississippi,285144.0,1.8,1.6,1.9,<10,Yes,2002,Medicaid
+Mississippi,292406.0,1.9,1.8,2.1,<10,Yes,2003,Medicaid
+Mississippi,293894.0,2.1,1.9,2.3,<10,Yes,2004,Medicaid
+Mississippi,286454.0,2.4,2.2,2.5,<10,Yes,2005,Medicaid
+Mississippi,271683.0,2.7,2.5,2.9,<10,Yes,2006,Medicaid
+Mississippi,256308.0,3.7,3.5,3.9,<10,Yes,2007,Medicaid
+Mississippi,259870.0,4.3,4.1,4.6,<10,Yes,2008,Medicaid
+Mississippi,280702.0,4.9,4.6,5.1,<10,Yes,2009,Medicaid
+Mississippi,298447.0,4.9,4.7,5.2,<10,Yes,2010,Medicaid
+Mississippi,306190.0,5.2,5.0,5.5,<10,Yes,2011,Medicaid
+Mississippi,308576.0,5.7,5.5,6.0,<10,Yes,2012,Medicaid
+Mississippi,311352.0,5.8,5.6,6.1,<10,Yes,2013,Medicaid
+Mississippi,398095.0,4.4,4.2,4.6,<10,Yes,2016,Medicaid
+Mississippi,353346.0,9.5,9.1,9.8,<10,Yes,2020,Medicaid
+Mississippi,375157.0,12.0,11.6,12.3,10 to <20,Yes,2022,Medicaid
+Mississippi,2732.0,24.8,17.4,35.2,20 to <30,Yes,2020,National Survey of Children's Health†
+Mississippi,1338.0,32.8,23.2,46.3,30+,Yes,2022,National Survey of Children's Health†
+Mississippi,443941.0,0.8,0.7,0.9,<10,Yes,2000,Special Education Child Count
+Mississippi,440575.0,1.0,0.9,1.0,<10,Yes,2001,Special Education Child Count
+Mississippi,439882.0,1.1,1.0,1.2,<10,Yes,2002,Special Education Child Count
+Mississippi,439395.0,1.3,1.2,1.4,<10,Yes,2003,Special Education Child Count
+Mississippi,440374.0,1.5,1.4,1.6,<10,Yes,2004,Special Education Child Count
+Mississippi,440341.0,1.6,1.5,1.7,<10,Yes,2005,Special Education Child Count
+Mississippi,442463.0,1.9,1.8,2.0,<10,Yes,2006,Special Education Child Count
+Mississippi,443977.0,2.3,2.1,2.4,<10,Yes,2007,Special Education Child Count
+Mississippi,442501.0,2.8,2.7,3.0,<10,Yes,2008,Special Education Child Count
+Mississippi,441712.0,3.9,3.7,4.1,<10,Yes,2009,Special Education Child Count
+Mississippi,439999.0,4.7,4.5,4.9,<10,Yes,2010,Special Education Child Count
+Mississippi,437230.0,5.5,5.3,5.7,<10,Yes,2011,Special Education Child Count
+Mississippi,437820.0,6.4,6.2,6.7,<10,Yes,2012,Special Education Child Count
+Mississippi,437397.0,7.2,7.0,7.5,<10,Yes,2013,Special Education Child Count
+Mississippi,438190.0,7.9,7.7,8.2,<10,Yes,2014,Special Education Child Count
+Mississippi,436866.0,8.6,8.3,8.9,<10,Yes,2015,Special Education Child Count
+Mississippi,433377.0,9.5,9.2,9.8,<10,Yes,2016,Special Education Child Count
+Mississippi,428978.0,10.4,10.1,10.7,10 to <20,Yes,2017,Special Education Child Count
+Mississippi,422177.0,11.2,10.9,11.5,10 to <20,Yes,2018,Special Education Child Count
+Mississippi,416237.0,11.8,11.5,12.1,10 to <20,Yes,2019,Special Education Child Count
+Mississippi,399126.0,12.6,12.2,12.9,10 to <20,Yes,2020,Special Education Child Count
+Mississippi,393903.0,13.6,13.2,13.9,10 to <20,Yes,2021,Special Education Child Count
+Mississippi,391884.0,14.7,14.3,15.1,10 to <20,Yes,2022,Special Education Child Count
+Mississippi,228630.0,1.7,,,<10,No,2000,Medicaid
+Mississippi,278423.0,1.6,,,<10,No,2001,Medicaid
+Mississippi,285144.0,1.8,,,<10,No,2002,Medicaid
+Mississippi,292406.0,1.9,,,<10,No,2003,Medicaid
+Mississippi,293894.0,2.1,,,<10,No,2004,Medicaid
+Mississippi,286454.0,2.4,,,<10,No,2005,Medicaid
+Mississippi,271683.0,2.7,,,<10,No,2006,Medicaid
+Mississippi,256308.0,3.7,,,<10,No,2007,Medicaid
+Mississippi,259870.0,4.3,,,<10,No,2008,Medicaid
+Mississippi,280702.0,4.9,,,<10,No,2009,Medicaid
+Mississippi,298447.0,4.9,,,<10,No,2010,Medicaid
+Mississippi,306190.0,5.2,,,<10,No,2011,Medicaid
+Mississippi,308576.0,5.7,,,<10,No,2012,Medicaid
+Mississippi,311352.0,5.8,,,<10,No,2013,Medicaid
+Mississippi,398095.0,4.4,,,<10,No,2016,Medicaid
+Mississippi,353346.0,9.5,,,<10,No,2020,Medicaid
+Mississippi,375157.0,12.0,,,10 to <20,No,2022,Medicaid
+Mississippi,2732.0,24.8,,,20 to <30,No,2020,National Survey of Children's Health†
+Mississippi,1338.0,32.8,,,30+,No,2022,National Survey of Children's Health†
+Mississippi,443941.0,0.8,,,<10,No,2000,Special Education Child Count
+Mississippi,440575.0,1.0,,,<10,No,2001,Special Education Child Count
+Mississippi,439882.0,1.1,,,<10,No,2002,Special Education Child Count
+Mississippi,439395.0,1.3,,,<10,No,2003,Special Education Child Count
+Mississippi,440374.0,1.5,,,<10,No,2004,Special Education Child Count
+Mississippi,440341.0,1.6,,,<10,No,2005,Special Education Child Count
+Mississippi,442463.0,1.9,,,<10,No,2006,Special Education Child Count
+Mississippi,443977.0,2.3,,,<10,No,2007,Special Education Child Count
+Mississippi,442501.0,2.8,,,<10,No,2008,Special Education Child Count
+Mississippi,441712.0,3.9,,,<10,No,2009,Special Education Child Count
+Mississippi,439999.0,4.7,,,<10,No,2010,Special Education Child Count
+Mississippi,437230.0,5.5,,,<10,No,2011,Special Education Child Count
+Mississippi,437820.0,6.4,,,<10,No,2012,Special Education Child Count
+Mississippi,437397.0,7.2,,,<10,No,2013,Special Education Child Count
+Mississippi,438190.0,7.9,,,<10,No,2014,Special Education Child Count
+Mississippi,436866.0,8.6,,,<10,No,2015,Special Education Child Count
+Mississippi,433377.0,9.5,,,<10,No,2016,Special Education Child Count
+Mississippi,428978.0,10.4,,,10 to <20,No,2017,Special Education Child Count
+Mississippi,422177.0,11.2,,,10 to <20,No,2018,Special Education Child Count
+Mississippi,416237.0,11.8,,,10 to <20,No,2019,Special Education Child Count
+Mississippi,399126.0,12.6,,,10 to <20,No,2020,Special Education Child Count
+Mississippi,393903.0,13.6,,,10 to <20,No,2021,Special Education Child Count
+Mississippi,391884.0,14.7,,,10 to <20,No,2022,Special Education Child Count

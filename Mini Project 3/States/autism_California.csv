@@ -1,0 +1,101 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+California,15076.0,38.9,35.9,42.1,30+,Yes,2018,ADDM Network*
+California,15828.0,44.9,41.7,48.2,30+,Yes,2020,ADDM Network*
+California,15212.0,53.1,49.6,56.7,30+,Yes,2022,ADDM Network*
+California,2406609.0,1.0,1.0,1.1,<10,Yes,2000,Medicaid
+California,2471781.0,1.2,1.2,1.3,<10,Yes,2001,Medicaid
+California,2695067.0,1.4,1.4,1.4,<10,Yes,2002,Medicaid
+California,2831003.0,1.6,1.6,1.7,<10,Yes,2003,Medicaid
+California,2870079.0,1.9,1.8,1.9,<10,Yes,2004,Medicaid
+California,2832737.0,2.5,2.4,2.6,<10,Yes,2005,Medicaid
+California,2799720.0,3.0,2.9,3.1,<10,Yes,2006,Medicaid
+California,2767175.0,3.6,3.5,3.7,<10,Yes,2007,Medicaid
+California,2816838.0,4.3,4.2,4.3,<10,Yes,2008,Medicaid
+California,2960114.0,4.4,4.4,4.5,<10,Yes,2009,Medicaid
+California,3086090.0,4.7,4.6,4.8,<10,Yes,2010,Medicaid
+California,3279839.0,4.9,4.8,4.9,<10,Yes,2011,Medicaid
+California,3358697.0,6.8,6.7,6.9,<10,Yes,2012,Medicaid
+California,4014996.0,6.8,6.7,6.9,<10,Yes,2013,Medicaid
+California,4490115.0,7.6,7.6,7.7,<10,Yes,2016,Medicaid
+California,4393862.0,9.7,9.6,9.8,<10,Yes,2017,Medicaid
+California,4297261.0,13.8,13.7,13.9,10 to <20,Yes,2018,Medicaid
+California,4194913.0,15.7,15.6,15.8,10 to <20,Yes,2019,Medicaid
+California,4054840.0,14.2,14.1,14.4,10 to <20,Yes,2020,Medicaid
+California,4178853.0,15.5,15.4,15.7,10 to <20,Yes,2021,Medicaid
+California,4284136.0,17.5,17.4,17.7,10 to <20,Yes,2022,Medicaid
+California,1595.0,19.6,11.3,33.7,10 to <20,Yes,2011,National Survey of Children's Health†
+California,2886.0,32.1,22.5,45.5,30+,Yes,2020,National Survey of Children's Health†
+California,4860.0,29.8,21.8,40.6,20 to <30,Yes,2022,National Survey of Children's Health†
+California,5512592.0,1.8,1.8,1.8,<10,Yes,2000,Special Education Child Count
+California,5617138.0,2.2,2.2,2.3,<10,Yes,2001,Special Education Child Count
+California,5724081.0,2.7,2.6,2.7,<10,Yes,2002,Special Education Child Count
+California,5784387.0,3.1,3.1,3.2,<10,Yes,2003,Special Education Child Count
+California,5812940.0,3.7,3.7,3.8,<10,Yes,2004,Special Education Child Count
+California,5801532.0,4.4,4.3,4.4,<10,Yes,2005,Special Education Child Count
+California,5824922.0,5.1,5.0,5.1,<10,Yes,2006,Special Education Child Count
+California,5813550.0,5.9,5.8,6.0,<10,Yes,2007,Special Education Child Count
+California,5783968.0,6.8,6.7,6.9,<10,Yes,2008,Special Education Child Count
+California,5714230.0,7.8,7.7,7.9,<10,Yes,2009,Special Education Child Count
+California,5743498.0,8.6,8.5,8.6,<10,Yes,2010,Special Education Child Count
+California,5719777.0,9.5,9.4,9.6,<10,Yes,2011,Special Education Child Count
+California,5728978.0,10.3,10.2,10.4,10 to <20,Yes,2012,Special Education Child Count
+California,5723381.0,11.1,11.1,11.2,10 to <20,Yes,2013,Special Education Child Count
+California,5717500.0,12.0,11.9,12.1,10 to <20,Yes,2014,Special Education Child Count
+California,5689280.0,12.9,12.8,13.0,10 to <20,Yes,2015,Special Education Child Count
+California,5685428.0,13.9,13.8,14.0,10 to <20,Yes,2016,Special Education Child Count
+California,5679408.0,14.9,14.8,15.0,10 to <20,Yes,2017,Special Education Child Count
+California,5654612.0,15.9,15.8,16.0,10 to <20,Yes,2018,Special Education Child Count
+California,5639958.0,16.2,16.1,16.3,10 to <20,Yes,2019,Special Education Child Count
+California,5540220.0,17.7,17.6,17.8,10 to <20,Yes,2020,Special Education Child Count
+California,5422146.0,20.4,20.3,20.5,20 to <30,Yes,2021,Special Education Child Count
+California,5356136.0,22.9,22.8,23.1,20 to <30,Yes,2022,Special Education Child Count
+California,15076.0,38.9,,,30+,No,2018,ADDM Network*
+California,15828.0,44.9,,,30+,No,2020,ADDM Network*
+California,15212.0,53.1,,,30+,No,2022,ADDM Network*
+California,2406609.0,1.0,,,<10,No,2000,Medicaid
+California,2471781.0,1.2,,,<10,No,2001,Medicaid
+California,2695067.0,1.4,,,<10,No,2002,Medicaid
+California,2831003.0,1.6,,,<10,No,2003,Medicaid
+California,2870079.0,1.9,,,<10,No,2004,Medicaid
+California,2832737.0,2.5,,,<10,No,2005,Medicaid
+California,2799720.0,3.0,,,<10,No,2006,Medicaid
+California,2767175.0,3.6,,,<10,No,2007,Medicaid
+California,2816838.0,4.3,,,<10,No,2008,Medicaid
+California,2960114.0,4.4,,,<10,No,2009,Medicaid
+California,3086090.0,4.7,,,<10,No,2010,Medicaid
+California,3279839.0,4.9,,,<10,No,2011,Medicaid
+California,3358697.0,6.8,,,<10,No,2012,Medicaid
+California,4014996.0,6.8,,,<10,No,2013,Medicaid
+California,4490115.0,7.6,,,<10,No,2016,Medicaid
+California,4393862.0,9.7,,,<10,No,2017,Medicaid
+California,4297261.0,13.8,,,10 to <20,No,2018,Medicaid
+California,4194913.0,15.7,,,10 to <20,No,2019,Medicaid
+California,4054840.0,14.2,,,10 to <20,No,2020,Medicaid
+California,4178853.0,15.5,,,10 to <20,No,2021,Medicaid
+California,4284136.0,17.5,,,10 to <20,No,2022,Medicaid
+California,1595.0,19.6,,,10 to <20,No,2011,National Survey of Children's Health†
+California,2886.0,32.1,,,30+,No,2020,National Survey of Children's Health†
+California,4860.0,29.8,,,20 to <30,No,2022,National Survey of Children's Health†
+California,5512592.0,1.8,,,<10,No,2000,Special Education Child Count
+California,5617138.0,2.2,,,<10,No,2001,Special Education Child Count
+California,5724081.0,2.7,,,<10,No,2002,Special Education Child Count
+California,5784387.0,3.1,,,<10,No,2003,Special Education Child Count
+California,5812940.0,3.7,,,<10,No,2004,Special Education Child Count
+California,5801532.0,4.4,,,<10,No,2005,Special Education Child Count
+California,5824922.0,5.1,,,<10,No,2006,Special Education Child Count
+California,5813550.0,5.9,,,<10,No,2007,Special Education Child Count
+California,5783968.0,6.8,,,<10,No,2008,Special Education Child Count
+California,5714230.0,7.8,,,<10,No,2009,Special Education Child Count
+California,5743498.0,8.6,,,<10,No,2010,Special Education Child Count
+California,5719777.0,9.5,,,<10,No,2011,Special Education Child Count
+California,5728978.0,10.3,,,10 to <20,No,2012,Special Education Child Count
+California,5723381.0,11.1,,,10 to <20,No,2013,Special Education Child Count
+California,5717500.0,12.0,,,10 to <20,No,2014,Special Education Child Count
+California,5689280.0,12.9,,,10 to <20,No,2015,Special Education Child Count
+California,5685428.0,13.9,,,10 to <20,No,2016,Special Education Child Count
+California,5679408.0,14.9,,,10 to <20,No,2017,Special Education Child Count
+California,5654612.0,15.9,,,10 to <20,No,2018,Special Education Child Count
+California,5639958.0,16.2,,,10 to <20,No,2019,Special Education Child Count
+California,5540220.0,17.7,,,10 to <20,No,2020,Special Education Child Count
+California,5422146.0,20.4,,,20 to <30,No,2021,Special Education Child Count
+California,5356136.0,22.9,,,20 to <30,No,2022,Special Education Child Count

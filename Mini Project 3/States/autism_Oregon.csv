@@ -1,0 +1,99 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Oregon,154884.0,4.7,4.4,5.1,<10,Yes,2000,Medicaid
+Oregon,165685.0,5.0,4.6,5.3,<10,Yes,2001,Medicaid
+Oregon,175645.0,5.6,5.2,5.9,<10,Yes,2002,Medicaid
+Oregon,174605.0,6.2,5.9,6.6,<10,Yes,2003,Medicaid
+Oregon,178898.0,6.4,6.1,6.8,<10,Yes,2004,Medicaid
+Oregon,180745.0,6.8,6.4,7.2,<10,Yes,2005,Medicaid
+Oregon,177740.0,7.2,6.8,7.6,<10,Yes,2006,Medicaid
+Oregon,166724.0,8.3,7.9,8.7,<10,Yes,2007,Medicaid
+Oregon,170792.0,7.8,7.4,8.3,<10,Yes,2008,Medicaid
+Oregon,191205.0,8.4,8.0,8.8,<10,Yes,2009,Medicaid
+Oregon,225437.0,8.3,8.0,8.7,<10,Yes,2010,Medicaid
+Oregon,248952.0,8.5,8.1,8.8,<10,Yes,2011,Medicaid
+Oregon,260054.0,8.6,8.3,9.0,<10,Yes,2012,Medicaid
+Oregon,258573.0,9.5,9.1,9.8,<10,Yes,2013,Medicaid
+Oregon,382783.0,9.9,9.6,10.2,<10,Yes,2016,Medicaid
+Oregon,370910.0,11.4,11.0,11.7,10 to <20,Yes,2017,Medicaid
+Oregon,361522.0,12.9,12.6,13.3,10 to <20,Yes,2018,Medicaid
+Oregon,360899.0,14.4,14.0,14.8,10 to <20,Yes,2019,Medicaid
+Oregon,360332.0,13.7,13.3,14.0,10 to <20,Yes,2020,Medicaid
+Oregon,384210.0,13.6,13.2,14.0,10 to <20,Yes,2021,Medicaid
+Oregon,402323.0,14.9,14.6,15.3,10 to <20,Yes,2022,Medicaid
+Oregon,1648.0,10.1,6.0,17.1,10 to <20,Yes,2003,National Survey of Children's Health†
+Oregon,1530.0,19.2,11.7,31.4,10 to <20,Yes,2007,National Survey of Children's Health†
+Oregon,1592.0,30.9,20.5,46.2,30+,Yes,2011,National Survey of Children's Health†
+Oregon,4939.0,30.9,23.1,41.3,30+,Yes,2020,National Survey of Children's Health†
+Oregon,4581.0,28.9,23.9,35.1,20 to <30,Yes,2022,National Survey of Children's Health†
+Oregon,505082.0,4.7,4.5,4.9,<10,Yes,2000,Special Education Child Count
+Oregon,510574.0,5.2,5.1,5.4,<10,Yes,2001,Special Education Child Count
+Oregon,512972.0,6.2,5.9,6.4,<10,Yes,2002,Special Education Child Count
+Oregon,509235.0,6.9,6.7,7.2,<10,Yes,2003,Special Education Child Count
+Oregon,511489.0,7.9,7.7,8.2,<10,Yes,2004,Special Education Child Count
+Oregon,510269.0,8.8,8.6,9.1,<10,Yes,2005,Special Education Child Count
+Oregon,520824.0,9.8,9.5,10.0,<10,Yes,2006,Special Education Child Count
+Oregon,523572.0,10.8,10.5,11.0,10 to <20,Yes,2007,Special Education Child Count
+Oregon,522982.0,11.6,11.3,11.9,10 to <20,Yes,2008,Special Education Child Count
+Oregon,521133.0,12.4,12.1,12.7,10 to <20,Yes,2009,Special Education Child Count
+Oregon,520672.0,12.9,12.6,13.2,10 to <20,Yes,2010,Special Education Child Count
+Oregon,519468.0,13.4,13.1,13.8,10 to <20,Yes,2011,Special Education Child Count
+Oregon,521072.0,13.9,13.6,14.2,10 to <20,Yes,2012,Special Education Child Count
+Oregon,524370.0,14.1,13.8,14.4,10 to <20,Yes,2013,Special Education Child Count
+Oregon,529212.0,14.5,14.2,14.8,10 to <20,Yes,2014,Special Education Child Count
+Oregon,534754.0,14.8,14.5,15.1,10 to <20,Yes,2015,Special Education Child Count
+Oregon,537120.0,15.1,14.8,15.5,10 to <20,Yes,2016,Special Education Child Count
+Oregon,538764.0,15.8,15.4,16.1,10 to <20,Yes,2017,Special Education Child Count
+Oregon,539688.0,16.5,16.2,16.9,10 to <20,Yes,2018,Special Education Child Count
+Oregon,540297.0,17.5,17.1,17.8,10 to <20,Yes,2019,Special Education Child Count
+Oregon,524766.0,18.4,18.1,18.8,10 to <20,Yes,2020,Special Education Child Count
+Oregon,515196.0,18.9,18.5,19.3,10 to <20,Yes,2021,Special Education Child Count
+Oregon,515354.0,20.8,20.4,21.2,20 to <30,Yes,2022,Special Education Child Count
+Oregon,154884.0,4.7,,,<10,No,2000,Medicaid
+Oregon,165685.0,5.0,,,<10,No,2001,Medicaid
+Oregon,175645.0,5.6,,,<10,No,2002,Medicaid
+Oregon,174605.0,6.2,,,<10,No,2003,Medicaid
+Oregon,178898.0,6.4,,,<10,No,2004,Medicaid
+Oregon,180745.0,6.8,,,<10,No,2005,Medicaid
+Oregon,177740.0,7.2,,,<10,No,2006,Medicaid
+Oregon,166724.0,8.3,,,<10,No,2007,Medicaid
+Oregon,170792.0,7.8,,,<10,No,2008,Medicaid
+Oregon,191205.0,8.4,,,<10,No,2009,Medicaid
+Oregon,225437.0,8.3,,,<10,No,2010,Medicaid
+Oregon,248952.0,8.5,,,<10,No,2011,Medicaid
+Oregon,260054.0,8.6,,,<10,No,2012,Medicaid
+Oregon,258573.0,9.5,,,<10,No,2013,Medicaid
+Oregon,382783.0,9.9,,,<10,No,2016,Medicaid
+Oregon,370910.0,11.4,,,10 to <20,No,2017,Medicaid
+Oregon,361522.0,12.9,,,10 to <20,No,2018,Medicaid
+Oregon,360899.0,14.4,,,10 to <20,No,2019,Medicaid
+Oregon,360332.0,13.7,,,10 to <20,No,2020,Medicaid
+Oregon,384210.0,13.6,,,10 to <20,No,2021,Medicaid
+Oregon,402323.0,14.9,,,10 to <20,No,2022,Medicaid
+Oregon,1648.0,10.1,,,10 to <20,No,2003,National Survey of Children's Health†
+Oregon,1530.0,19.2,,,10 to <20,No,2007,National Survey of Children's Health†
+Oregon,1592.0,30.9,,,30+,No,2011,National Survey of Children's Health†
+Oregon,4939.0,30.9,,,30+,No,2020,National Survey of Children's Health†
+Oregon,4581.0,28.9,,,20 to <30,No,2022,National Survey of Children's Health†
+Oregon,505082.0,4.7,,,<10,No,2000,Special Education Child Count
+Oregon,510574.0,5.2,,,<10,No,2001,Special Education Child Count
+Oregon,512972.0,6.2,,,<10,No,2002,Special Education Child Count
+Oregon,509235.0,6.9,,,<10,No,2003,Special Education Child Count
+Oregon,511489.0,7.9,,,<10,No,2004,Special Education Child Count
+Oregon,510269.0,8.8,,,<10,No,2005,Special Education Child Count
+Oregon,520824.0,9.8,,,<10,No,2006,Special Education Child Count
+Oregon,523572.0,10.8,,,10 to <20,No,2007,Special Education Child Count
+Oregon,522982.0,11.6,,,10 to <20,No,2008,Special Education Child Count
+Oregon,521133.0,12.4,,,10 to <20,No,2009,Special Education Child Count
+Oregon,520672.0,12.9,,,10 to <20,No,2010,Special Education Child Count
+Oregon,519468.0,13.4,,,10 to <20,No,2011,Special Education Child Count
+Oregon,521072.0,13.9,,,10 to <20,No,2012,Special Education Child Count
+Oregon,524370.0,14.1,,,10 to <20,No,2013,Special Education Child Count
+Oregon,529212.0,14.5,,,10 to <20,No,2014,Special Education Child Count
+Oregon,534754.0,14.8,,,10 to <20,No,2015,Special Education Child Count
+Oregon,537120.0,15.1,,,10 to <20,No,2016,Special Education Child Count
+Oregon,538764.0,15.8,,,10 to <20,No,2017,Special Education Child Count
+Oregon,539688.0,16.5,,,10 to <20,No,2018,Special Education Child Count
+Oregon,540297.0,17.5,,,10 to <20,No,2019,Special Education Child Count
+Oregon,524766.0,18.4,,,10 to <20,No,2020,Special Education Child Count
+Oregon,515196.0,18.9,,,10 to <20,No,2021,Special Education Child Count
+Oregon,515354.0,20.8,,,20 to <30,No,2022,Special Education Child Count

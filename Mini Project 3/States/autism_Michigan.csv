@@ -1,0 +1,95 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Michigan,551959.0,5.8,5.6,6.0,<10,Yes,2000,Medicaid
+Michigan,592669.0,7.1,6.9,7.3,<10,Yes,2001,Medicaid
+Michigan,637087.0,6.6,6.4,6.8,<10,Yes,2002,Medicaid
+Michigan,676109.0,6.3,6.1,6.5,<10,Yes,2003,Medicaid
+Michigan,708548.0,6.1,5.9,6.3,<10,Yes,2004,Medicaid
+Michigan,731817.0,6.2,6.0,6.4,<10,Yes,2005,Medicaid
+Michigan,755584.0,6.7,6.5,6.9,<10,Yes,2006,Medicaid
+Michigan,765937.0,9.4,9.2,9.7,<10,Yes,2007,Medicaid
+Michigan,778851.0,9.0,8.8,9.2,<10,Yes,2008,Medicaid
+Michigan,821336.0,6.8,6.7,7.0,<10,Yes,2009,Medicaid
+Michigan,856223.0,8.3,8.1,8.5,<10,Yes,2010,Medicaid
+Michigan,856842.0,9.3,9.1,9.5,<10,Yes,2011,Medicaid
+Michigan,851685.0,10.3,10.1,10.5,10 to <20,Yes,2012,Medicaid
+Michigan,843972.0,11.2,11.0,11.5,10 to <20,Yes,2013,Medicaid
+Michigan,840285.0,12.0,11.8,12.3,10 to <20,Yes,2016,Medicaid
+Michigan,836173.0,14.1,13.9,14.4,10 to <20,Yes,2017,Medicaid
+Michigan,837782.0,15.8,15.6,16.1,10 to <20,Yes,2018,Medicaid
+Michigan,841576.0,17.2,16.9,17.5,10 to <20,Yes,2019,Medicaid
+Michigan,831034.0,17.4,17.1,17.7,10 to <20,Yes,2020,Medicaid
+Michigan,876723.0,19.5,19.2,19.8,10 to <20,Yes,2021,Medicaid
+Michigan,910632.0,21.7,21.4,22.0,20 to <30,Yes,2022,Medicaid
+Michigan,1581.0,15.3,8.6,27.0,10 to <20,Yes,2011,National Survey of Children's Health†
+Michigan,2961.0,28.0,19.4,40.2,20 to <30,Yes,2020,National Survey of Children's Health†
+Michigan,1444.0,43.3,30.5,61.3,30+,Yes,2022,National Survey of Children's Health†
+Michigan,1540035.0,2.4,2.4,2.5,<10,Yes,2000,Special Education Child Count
+Michigan,1553056.0,2.8,2.7,2.9,<10,Yes,2001,Special Education Child Count
+Michigan,1582807.0,3.2,3.1,3.3,<10,Yes,2002,Special Education Child Count
+Michigan,1560463.0,3.7,3.6,3.8,<10,Yes,2003,Special Education Child Count
+Michigan,1554020.0,4.3,4.2,4.4,<10,Yes,2004,Special Education Child Count
+Michigan,1547451.0,5.1,5.0,5.2,<10,Yes,2005,Special Education Child Count
+Michigan,1528322.0,5.9,5.8,6.0,<10,Yes,2006,Special Education Child Count
+Michigan,1520173.0,6.6,6.4,6.7,<10,Yes,2007,Special Education Child Count
+Michigan,1487974.0,7.4,7.3,7.5,<10,Yes,2008,Special Education Child Count
+Michigan,1477988.0,8.0,7.9,8.2,<10,Yes,2009,Special Education Child Count
+Michigan,1438099.0,8.7,8.5,8.8,<10,Yes,2010,Special Education Child Count
+Michigan,1420628.0,9.1,8.9,9.2,<10,Yes,2011,Special Education Child Count
+Michigan,1407009.0,9.5,9.4,9.7,<10,Yes,2012,Special Education Child Count
+Michigan,1398112.0,10.0,9.8,10.1,10 to <20,Yes,2013,Special Education Child Count
+Michigan,1383880.0,10.3,10.1,10.5,10 to <20,Yes,2014,Special Education Child Count
+Michigan,1370009.0,10.8,10.6,11.0,10 to <20,Yes,2015,Special Education Child Count
+Michigan,1360566.0,11.2,11.1,11.4,10 to <20,Yes,2016,Special Education Child Count
+Michigan,1351386.0,11.9,11.7,12.1,10 to <20,Yes,2017,Special Education Child Count
+Michigan,1335297.0,12.4,12.2,12.6,10 to <20,Yes,2018,Special Education Child Count
+Michigan,1324030.0,13.0,12.8,13.2,10 to <20,Yes,2019,Special Education Child Count
+Michigan,1291764.0,13.9,13.7,14.1,10 to <20,Yes,2020,Special Education Child Count
+Michigan,1277807.0,14.5,14.3,14.7,10 to <20,Yes,2021,Special Education Child Count
+Michigan,1269885.0,15.8,15.6,16.0,10 to <20,Yes,2022,Special Education Child Count
+Michigan,551959.0,5.8,,,<10,No,2000,Medicaid
+Michigan,592669.0,7.1,,,<10,No,2001,Medicaid
+Michigan,637087.0,6.6,,,<10,No,2002,Medicaid
+Michigan,676109.0,6.3,,,<10,No,2003,Medicaid
+Michigan,708548.0,6.1,,,<10,No,2004,Medicaid
+Michigan,731817.0,6.2,,,<10,No,2005,Medicaid
+Michigan,755584.0,6.7,,,<10,No,2006,Medicaid
+Michigan,765937.0,9.4,,,<10,No,2007,Medicaid
+Michigan,778851.0,9.0,,,<10,No,2008,Medicaid
+Michigan,821336.0,6.8,,,<10,No,2009,Medicaid
+Michigan,856223.0,8.3,,,<10,No,2010,Medicaid
+Michigan,856842.0,9.3,,,<10,No,2011,Medicaid
+Michigan,851685.0,10.3,,,10 to <20,No,2012,Medicaid
+Michigan,843972.0,11.2,,,10 to <20,No,2013,Medicaid
+Michigan,840285.0,12.0,,,10 to <20,No,2016,Medicaid
+Michigan,836173.0,14.1,,,10 to <20,No,2017,Medicaid
+Michigan,837782.0,15.8,,,10 to <20,No,2018,Medicaid
+Michigan,841576.0,17.2,,,10 to <20,No,2019,Medicaid
+Michigan,831034.0,17.4,,,10 to <20,No,2020,Medicaid
+Michigan,876723.0,19.5,,,10 to <20,No,2021,Medicaid
+Michigan,910632.0,21.7,,,20 to <30,No,2022,Medicaid
+Michigan,1581.0,15.3,,,10 to <20,No,2011,National Survey of Children's Health†
+Michigan,2961.0,28.0,,,20 to <30,No,2020,National Survey of Children's Health†
+Michigan,1444.0,43.3,,,30+,No,2022,National Survey of Children's Health†
+Michigan,1540035.0,2.4,,,<10,No,2000,Special Education Child Count
+Michigan,1553056.0,2.8,,,<10,No,2001,Special Education Child Count
+Michigan,1582807.0,3.2,,,<10,No,2002,Special Education Child Count
+Michigan,1560463.0,3.7,,,<10,No,2003,Special Education Child Count
+Michigan,1554020.0,4.3,,,<10,No,2004,Special Education Child Count
+Michigan,1547451.0,5.1,,,<10,No,2005,Special Education Child Count
+Michigan,1528322.0,5.9,,,<10,No,2006,Special Education Child Count
+Michigan,1520173.0,6.6,,,<10,No,2007,Special Education Child Count
+Michigan,1487974.0,7.4,,,<10,No,2008,Special Education Child Count
+Michigan,1477988.0,8.0,,,<10,No,2009,Special Education Child Count
+Michigan,1438099.0,8.7,,,<10,No,2010,Special Education Child Count
+Michigan,1420628.0,9.1,,,<10,No,2011,Special Education Child Count
+Michigan,1407009.0,9.5,,,<10,No,2012,Special Education Child Count
+Michigan,1398112.0,10.0,,,10 to <20,No,2013,Special Education Child Count
+Michigan,1383880.0,10.3,,,10 to <20,No,2014,Special Education Child Count
+Michigan,1370009.0,10.8,,,10 to <20,No,2015,Special Education Child Count
+Michigan,1360566.0,11.2,,,10 to <20,No,2016,Special Education Child Count
+Michigan,1351386.0,11.9,,,10 to <20,No,2017,Special Education Child Count
+Michigan,1335297.0,12.4,,,10 to <20,No,2018,Special Education Child Count
+Michigan,1324030.0,13.0,,,10 to <20,No,2019,Special Education Child Count
+Michigan,1291764.0,13.9,,,10 to <20,No,2020,Special Education Child Count
+Michigan,1277807.0,14.5,,,10 to <20,No,2021,Special Education Child Count
+Michigan,1269885.0,15.8,,,10 to <20,No,2022,Special Education Child Count

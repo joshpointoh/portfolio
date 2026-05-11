@@ -1,0 +1,95 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Ohio,562133.0,2.5,2.4,2.6,<10,Yes,2000,Medicaid
+Ohio,680239.0,2.5,2.3,2.6,<10,Yes,2001,Medicaid
+Ohio,714335.0,2.7,2.6,2.8,<10,Yes,2002,Medicaid
+Ohio,767543.0,2.9,2.8,3.0,<10,Yes,2003,Medicaid
+Ohio,802186.0,3.5,3.4,3.7,<10,Yes,2004,Medicaid
+Ohio,825396.0,3.7,3.5,3.8,<10,Yes,2005,Medicaid
+Ohio,836357.0,3.9,3.8,4.1,<10,Yes,2006,Medicaid
+Ohio,840254.0,4.1,3.9,4.2,<10,Yes,2007,Medicaid
+Ohio,851303.0,4.8,4.6,4.9,<10,Yes,2008,Medicaid
+Ohio,910230.0,5.9,5.7,6.0,<10,Yes,2009,Medicaid
+Ohio,958848.0,6.4,6.2,6.5,<10,Yes,2010,Medicaid
+Ohio,982164.0,7.6,7.4,7.8,<10,Yes,2011,Medicaid
+Ohio,996369.0,8.0,7.9,8.2,<10,Yes,2012,Medicaid
+Ohio,993836.0,8.5,8.3,8.6,<10,Yes,2013,Medicaid
+Ohio,1059766.0,12.8,12.6,13.0,10 to <20,Yes,2016,Medicaid
+Ohio,1061068.0,14.0,13.8,14.2,10 to <20,Yes,2017,Medicaid
+Ohio,1028234.0,15.5,15.3,15.7,10 to <20,Yes,2018,Medicaid
+Ohio,1001248.0,17.0,16.7,17.2,10 to <20,Yes,2019,Medicaid
+Ohio,982518.0,17.2,16.9,17.4,10 to <20,Yes,2020,Medicaid
+Ohio,1035074.0,18.6,18.3,18.8,10 to <20,Yes,2021,Medicaid
+Ohio,1074089.0,20.2,19.9,20.5,20 to <30,Yes,2022,Medicaid
+Ohio,1634.0,22.0,14.5,33.2,20 to <30,Yes,2011,National Survey of Children's Health†
+Ohio,2884.0,26.0,19.1,35.3,20 to <30,Yes,2020,National Survey of Children's Health†
+Ohio,2550.0,29.2,22.4,37.9,20 to <30,Yes,2022,National Survey of Children's Health†
+Ohio,1675014.0,1.3,1.2,1.3,<10,Yes,2000,Special Education Child Count
+Ohio,1673476.0,1.7,1.7,1.8,<10,Yes,2001,Special Education Child Count
+Ohio,1678807.0,2.3,2.2,2.4,<10,Yes,2002,Special Education Child Count
+Ohio,1685241.0,2.9,2.8,3.0,<10,Yes,2003,Special Education Child Count
+Ohio,1679698.0,3.6,3.5,3.7,<10,Yes,2004,Special Education Child Count
+Ohio,1674038.0,4.3,4.2,4.4,<10,Yes,2005,Special Education Child Count
+Ohio,1671958.0,5.1,5.0,5.2,<10,Yes,2006,Special Education Child Count
+Ohio,1663480.0,5.6,5.5,5.7,<10,Yes,2007,Special Education Child Count
+Ohio,1648885.0,6.4,6.3,6.5,<10,Yes,2008,Special Education Child Count
+Ohio,1603854.0,7.8,7.6,7.9,<10,Yes,2009,Special Education Child Count
+Ohio,1594180.0,8.7,8.6,8.8,<10,Yes,2010,Special Education Child Count
+Ohio,1579692.0,9.4,9.3,9.6,<10,Yes,2011,Special Education Child Count
+Ohio,1570484.0,10.0,9.8,10.2,10 to <20,Yes,2012,Special Education Child Count
+Ohio,1564631.0,10.7,10.5,10.8,10 to <20,Yes,2013,Special Education Child Count
+Ohio,1564662.0,11.2,11.1,11.4,10 to <20,Yes,2014,Special Education Child Count
+Ohio,1559370.0,11.7,11.6,11.9,10 to <20,Yes,2015,Special Education Child Count
+Ohio,1551479.0,12.5,12.3,12.7,10 to <20,Yes,2016,Special Education Child Count
+Ohio,1543053.0,13.4,13.2,13.5,10 to <20,Yes,2017,Special Education Child Count
+Ohio,1531273.0,14.2,14.0,14.4,10 to <20,Yes,2018,Special Education Child Count
+Ohio,1522852.0,15.1,14.9,15.3,10 to <20,Yes,2019,Special Education Child Count
+Ohio,1501314.0,16.5,16.3,16.7,10 to <20,Yes,2020,Special Education Child Count
+Ohio,1519515.0,17.4,17.2,17.7,10 to <20,Yes,2021,Special Education Child Count
+Ohio,1516800.0,19.1,18.9,19.3,10 to <20,Yes,2022,Special Education Child Count
+Ohio,562133.0,2.5,,,<10,No,2000,Medicaid
+Ohio,680239.0,2.5,,,<10,No,2001,Medicaid
+Ohio,714335.0,2.7,,,<10,No,2002,Medicaid
+Ohio,767543.0,2.9,,,<10,No,2003,Medicaid
+Ohio,802186.0,3.5,,,<10,No,2004,Medicaid
+Ohio,825396.0,3.7,,,<10,No,2005,Medicaid
+Ohio,836357.0,3.9,,,<10,No,2006,Medicaid
+Ohio,840254.0,4.1,,,<10,No,2007,Medicaid
+Ohio,851303.0,4.8,,,<10,No,2008,Medicaid
+Ohio,910230.0,5.9,,,<10,No,2009,Medicaid
+Ohio,958848.0,6.4,,,<10,No,2010,Medicaid
+Ohio,982164.0,7.6,,,<10,No,2011,Medicaid
+Ohio,996369.0,8.0,,,<10,No,2012,Medicaid
+Ohio,993836.0,8.5,,,<10,No,2013,Medicaid
+Ohio,1059766.0,12.8,,,10 to <20,No,2016,Medicaid
+Ohio,1061068.0,14.0,,,10 to <20,No,2017,Medicaid
+Ohio,1028234.0,15.5,,,10 to <20,No,2018,Medicaid
+Ohio,1001248.0,17.0,,,10 to <20,No,2019,Medicaid
+Ohio,982518.0,17.2,,,10 to <20,No,2020,Medicaid
+Ohio,1035074.0,18.6,,,10 to <20,No,2021,Medicaid
+Ohio,1074089.0,20.2,,,20 to <30,No,2022,Medicaid
+Ohio,1634.0,22.0,,,20 to <30,No,2011,National Survey of Children's Health†
+Ohio,2884.0,26.0,,,20 to <30,No,2020,National Survey of Children's Health†
+Ohio,2550.0,29.2,,,20 to <30,No,2022,National Survey of Children's Health†
+Ohio,1675014.0,1.3,,,<10,No,2000,Special Education Child Count
+Ohio,1673476.0,1.7,,,<10,No,2001,Special Education Child Count
+Ohio,1678807.0,2.3,,,<10,No,2002,Special Education Child Count
+Ohio,1685241.0,2.9,,,<10,No,2003,Special Education Child Count
+Ohio,1679698.0,3.6,,,<10,No,2004,Special Education Child Count
+Ohio,1674038.0,4.3,,,<10,No,2005,Special Education Child Count
+Ohio,1671958.0,5.1,,,<10,No,2006,Special Education Child Count
+Ohio,1663480.0,5.6,,,<10,No,2007,Special Education Child Count
+Ohio,1648885.0,6.4,,,<10,No,2008,Special Education Child Count
+Ohio,1603854.0,7.8,,,<10,No,2009,Special Education Child Count
+Ohio,1594180.0,8.7,,,<10,No,2010,Special Education Child Count
+Ohio,1579692.0,9.4,,,<10,No,2011,Special Education Child Count
+Ohio,1570484.0,10.0,,,10 to <20,No,2012,Special Education Child Count
+Ohio,1564631.0,10.7,,,10 to <20,No,2013,Special Education Child Count
+Ohio,1564662.0,11.2,,,10 to <20,No,2014,Special Education Child Count
+Ohio,1559370.0,11.7,,,10 to <20,No,2015,Special Education Child Count
+Ohio,1551479.0,12.5,,,10 to <20,No,2016,Special Education Child Count
+Ohio,1543053.0,13.4,,,10 to <20,No,2017,Special Education Child Count
+Ohio,1531273.0,14.2,,,10 to <20,No,2018,Special Education Child Count
+Ohio,1522852.0,15.1,,,10 to <20,No,2019,Special Education Child Count
+Ohio,1501314.0,16.5,,,10 to <20,No,2020,Special Education Child Count
+Ohio,1519515.0,17.4,,,10 to <20,No,2021,Special Education Child Count
+Ohio,1516800.0,19.1,,,10 to <20,No,2022,Special Education Child Count

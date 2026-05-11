@@ -1,0 +1,99 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Florida,27615.0,4.2,3.5,5.0,<10,Yes,2006,ADDM Network*
+Florida,29366.0,7.2,6.3,8.2,<10,Yes,2008,ADDM Network*
+Florida,801638.0,1.7,1.6,1.8,<10,Yes,2000,Medicaid
+Florida,904760.0,1.7,1.6,1.7,<10,Yes,2001,Medicaid
+Florida,998003.0,1.7,1.7,1.8,<10,Yes,2002,Medicaid
+Florida,1046227.0,2.0,1.9,2.1,<10,Yes,2003,Medicaid
+Florida,1054779.0,2.3,2.2,2.4,<10,Yes,2004,Medicaid
+Florida,1109808.0,2.6,2.5,2.7,<10,Yes,2005,Medicaid
+Florida,1079107.0,3.1,3.0,3.2,<10,Yes,2006,Medicaid
+Florida,1010850.0,3.3,3.2,3.5,<10,Yes,2007,Medicaid
+Florida,1057472.0,4.0,3.9,4.1,<10,Yes,2008,Medicaid
+Florida,1227086.0,4.6,4.4,4.7,<10,Yes,2009,Medicaid
+Florida,1369370.0,5.2,5.1,5.3,<10,Yes,2010,Medicaid
+Florida,1456639.0,5.6,5.5,5.7,<10,Yes,2011,Medicaid
+Florida,1522818.0,6.7,6.5,6.8,<10,Yes,2012,Medicaid
+Florida,1676150.0,7.5,7.4,7.6,<10,Yes,2013,Medicaid
+Florida,1985719.0,12.4,12.2,12.5,10 to <20,Yes,2016,Medicaid
+Florida,2045260.0,10.5,10.4,10.6,10 to <20,Yes,2017,Medicaid
+Florida,2019054.0,9.3,9.1,9.4,<10,Yes,2018,Medicaid
+Florida,1971684.0,17.0,16.8,17.2,10 to <20,Yes,2019,Medicaid
+Florida,2016958.0,17.6,17.4,17.8,10 to <20,Yes,2020,Medicaid
+Florida,2134140.0,20.0,19.8,20.2,20 to <30,Yes,2021,Medicaid
+Florida,2163397.0,23.0,22.8,23.2,20 to <30,Yes,2022,Medicaid
+Florida,1590.0,17.9,10.8,29.4,10 to <20,Yes,2011,National Survey of Children's Health†
+Florida,2889.0,25.2,19.4,32.8,20 to <30,Yes,2020,National Survey of Children's Health†
+Florida,1341.0,50.9,36.4,70.7,30+,Yes,2022,National Survey of Children's Health†
+Florida,2203889.0,1.5,1.5,1.6,<10,Yes,2000,Special Education Child Count
+Florida,2266215.0,1.8,1.7,1.8,<10,Yes,2001,Special Education Child Count
+Florida,2305437.0,2.1,2.0,2.1,<10,Yes,2002,Special Education Child Count
+Florida,2346054.0,2.4,2.3,2.4,<10,Yes,2003,Special Education Child Count
+Florida,2394178.0,2.7,2.6,2.8,<10,Yes,2004,Special Education Child Count
+Florida,2424459.0,3.0,3.0,3.1,<10,Yes,2005,Special Education Child Count
+Florida,2423333.0,3.5,3.4,3.6,<10,Yes,2006,Special Education Child Count
+Florida,2422427.0,4.1,4.0,4.2,<10,Yes,2007,Special Education Child Count
+Florida,2389359.0,4.9,4.8,5.0,<10,Yes,2008,Special Education Child Count
+Florida,2386970.0,5.7,5.6,5.8,<10,Yes,2009,Special Education Child Count
+Florida,2393471.0,6.6,6.5,6.7,<10,Yes,2010,Special Education Child Count
+Florida,2409916.0,7.4,7.3,7.5,<10,Yes,2011,Special Education Child Count
+Florida,2426549.0,8.3,8.2,8.4,<10,Yes,2012,Special Education Child Count
+Florida,2454956.0,9.3,9.2,9.4,<10,Yes,2013,Special Education Child Count
+Florida,2493779.0,10.2,10.1,10.4,10 to <20,Yes,2014,Special Education Child Count
+Florida,2532598.0,11.2,11.1,11.3,10 to <20,Yes,2015,Special Education Child Count
+Florida,2555399.0,12.1,12.0,12.3,10 to <20,Yes,2016,Special Education Child Count
+Florida,2571629.0,13.1,13.0,13.2,10 to <20,Yes,2017,Special Education Child Count
+Florida,2581374.0,14.3,14.1,14.4,10 to <20,Yes,2018,Special Education Child Count
+Florida,2589995.0,15.4,15.3,15.6,10 to <20,Yes,2019,Special Education Child Count
+Florida,2554697.0,16.7,16.6,16.9,10 to <20,Yes,2020,Special Education Child Count
+Florida,2574575.0,18.0,17.8,18.2,10 to <20,Yes,2021,Special Education Child Count
+Florida,2608890.0,19.4,19.2,19.5,10 to <20,Yes,2022,Special Education Child Count
+Florida,27615.0,4.2,,,<10,No,2006,ADDM Network*
+Florida,29366.0,7.2,,,<10,No,2008,ADDM Network*
+Florida,801638.0,1.7,,,<10,No,2000,Medicaid
+Florida,904760.0,1.7,,,<10,No,2001,Medicaid
+Florida,998003.0,1.7,,,<10,No,2002,Medicaid
+Florida,1046227.0,2.0,,,<10,No,2003,Medicaid
+Florida,1054779.0,2.3,,,<10,No,2004,Medicaid
+Florida,1109808.0,2.6,,,<10,No,2005,Medicaid
+Florida,1079107.0,3.1,,,<10,No,2006,Medicaid
+Florida,1010850.0,3.3,,,<10,No,2007,Medicaid
+Florida,1057472.0,4.0,,,<10,No,2008,Medicaid
+Florida,1227086.0,4.6,,,<10,No,2009,Medicaid
+Florida,1369370.0,5.2,,,<10,No,2010,Medicaid
+Florida,1456639.0,5.6,,,<10,No,2011,Medicaid
+Florida,1522818.0,6.7,,,<10,No,2012,Medicaid
+Florida,1676150.0,7.5,,,<10,No,2013,Medicaid
+Florida,1985719.0,12.4,,,10 to <20,No,2016,Medicaid
+Florida,2045260.0,10.5,,,10 to <20,No,2017,Medicaid
+Florida,2019054.0,9.3,,,<10,No,2018,Medicaid
+Florida,1971684.0,17.0,,,10 to <20,No,2019,Medicaid
+Florida,2016958.0,17.6,,,10 to <20,No,2020,Medicaid
+Florida,2134140.0,20.0,,,20 to <30,No,2021,Medicaid
+Florida,2163397.0,23.0,,,20 to <30,No,2022,Medicaid
+Florida,1590.0,17.9,,,10 to <20,No,2011,National Survey of Children's Health†
+Florida,2889.0,25.2,,,20 to <30,No,2020,National Survey of Children's Health†
+Florida,1341.0,50.9,,,30+,No,2022,National Survey of Children's Health†
+Florida,2203889.0,1.5,,,<10,No,2000,Special Education Child Count
+Florida,2266215.0,1.8,,,<10,No,2001,Special Education Child Count
+Florida,2305437.0,2.1,,,<10,No,2002,Special Education Child Count
+Florida,2346054.0,2.4,,,<10,No,2003,Special Education Child Count
+Florida,2394178.0,2.7,,,<10,No,2004,Special Education Child Count
+Florida,2424459.0,3.0,,,<10,No,2005,Special Education Child Count
+Florida,2423333.0,3.5,,,<10,No,2006,Special Education Child Count
+Florida,2422427.0,4.1,,,<10,No,2007,Special Education Child Count
+Florida,2389359.0,4.9,,,<10,No,2008,Special Education Child Count
+Florida,2386970.0,5.7,,,<10,No,2009,Special Education Child Count
+Florida,2393471.0,6.6,,,<10,No,2010,Special Education Child Count
+Florida,2409916.0,7.4,,,<10,No,2011,Special Education Child Count
+Florida,2426549.0,8.3,,,<10,No,2012,Special Education Child Count
+Florida,2454956.0,9.3,,,<10,No,2013,Special Education Child Count
+Florida,2493779.0,10.2,,,10 to <20,No,2014,Special Education Child Count
+Florida,2532598.0,11.2,,,10 to <20,No,2015,Special Education Child Count
+Florida,2555399.0,12.1,,,10 to <20,No,2016,Special Education Child Count
+Florida,2571629.0,13.1,,,10 to <20,No,2017,Special Education Child Count
+Florida,2581374.0,14.3,,,10 to <20,No,2018,Special Education Child Count
+Florida,2589995.0,15.4,,,10 to <20,No,2019,Special Education Child Count
+Florida,2554697.0,16.7,,,10 to <20,No,2020,Special Education Child Count
+Florida,2574575.0,18.0,,,10 to <20,No,2021,Special Education Child Count
+Florida,2608890.0,19.4,,,10 to <20,No,2022,Special Education Child Count

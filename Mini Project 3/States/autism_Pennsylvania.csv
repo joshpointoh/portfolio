@@ -1,0 +1,105 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Pennsylvania,21061.0,5.3,4.4,6.3,<10,Yes,2002,ADDM Network*
+Pennsylvania,17886.0,8.4,7.2,9.8,<10,Yes,2006,ADDM Network*
+Pennsylvania,18440.0,13.3,11.7,15.0,10 to <20,Yes,2008,ADDM Network*
+Pennsylvania,7066.0,47.4,42.7,52.6,30+,Yes,2022,ADDM Network*
+Pennsylvania,573278.0,4.2,4.0,4.4,<10,Yes,2000,Medicaid
+Pennsylvania,589318.0,5.2,5.0,5.4,<10,Yes,2001,Medicaid
+Pennsylvania,613611.0,4.9,4.8,5.1,<10,Yes,2002,Medicaid
+Pennsylvania,638268.0,4.9,4.7,5.1,<10,Yes,2003,Medicaid
+Pennsylvania,677306.0,5.1,5.0,5.3,<10,Yes,2004,Medicaid
+Pennsylvania,709774.0,5.5,5.3,5.6,<10,Yes,2005,Medicaid
+Pennsylvania,714603.0,6.2,6.0,6.4,<10,Yes,2006,Medicaid
+Pennsylvania,684904.0,4.6,4.4,4.7,<10,Yes,2007,Medicaid
+Pennsylvania,723857.0,2.7,2.6,2.8,<10,Yes,2008,Medicaid
+Pennsylvania,757320.0,2.9,2.8,3.0,<10,Yes,2009,Medicaid
+Pennsylvania,797425.0,2.8,2.7,3.0,<10,Yes,2010,Medicaid
+Pennsylvania,830613.0,2.9,2.8,3.0,<10,Yes,2011,Medicaid
+Pennsylvania,834046.0,11.0,10.7,11.2,10 to <20,Yes,2012,Medicaid
+Pennsylvania,841514.0,35.3,34.9,35.7,30+,Yes,2013,Medicaid
+Pennsylvania,961141.0,35.9,35.6,36.3,30+,Yes,2016,Medicaid
+Pennsylvania,980690.0,36.9,36.5,37.2,30+,Yes,2017,Medicaid
+Pennsylvania,1057019.0,35.6,35.3,36.0,30+,Yes,2018,Medicaid
+Pennsylvania,1075132.0,35.9,35.5,36.2,30+,Yes,2019,Medicaid
+Pennsylvania,1094559.0,34.5,34.2,34.9,30+,Yes,2020,Medicaid
+Pennsylvania,1136068.0,34.7,34.4,35.1,30+,Yes,2021,Medicaid
+Pennsylvania,1182838.0,36.6,36.3,36.9,30+,Yes,2022,Medicaid
+Pennsylvania,1869.0,8.1,4.7,14.1,<10,Yes,2003,National Survey of Children's Health†
+Pennsylvania,1594.0,23.0,14.8,35.7,20 to <30,Yes,2011,National Survey of Children's Health†
+Pennsylvania,2928.0,37.0,28.1,48.5,30+,Yes,2020,National Survey of Children's Health†
+Pennsylvania,1982.0,45.2,33.0,61.7,30+,Yes,2022,National Survey of Children's Health†
+Pennsylvania,1680063.0,1.9,1.9,2.0,<10,Yes,2000,Special Education Child Count
+Pennsylvania,1694084.0,2.2,2.2,2.3,<10,Yes,2001,Special Education Child Count
+Pennsylvania,1691071.0,2.7,2.6,2.8,<10,Yes,2002,Special Education Child Count
+Pennsylvania,1693953.0,3.3,3.2,3.4,<10,Yes,2003,Special Education Child Count
+Pennsylvania,1690520.0,4.0,3.9,4.1,<10,Yes,2004,Special Education Child Count
+Pennsylvania,1690385.0,4.7,4.6,4.8,<10,Yes,2005,Special Education Child Count
+Pennsylvania,1728834.0,5.4,5.3,5.5,<10,Yes,2006,Special Education Child Count
+Pennsylvania,1664918.0,6.7,6.6,6.9,<10,Yes,2007,Special Education Child Count
+Pennsylvania,1632752.0,8.0,7.9,8.1,<10,Yes,2008,Special Education Child Count
+Pennsylvania,1639316.0,9.1,9.0,9.3,<10,Yes,2009,Special Education Child Count
+Pennsylvania,1646680.0,10.2,10.1,10.4,10 to <20,Yes,2010,Special Education Child Count
+Pennsylvania,1626936.0,11.7,11.5,11.9,10 to <20,Yes,2011,Special Education Child Count
+Pennsylvania,1620867.0,12.7,12.5,12.9,10 to <20,Yes,2012,Special Education Child Count
+Pennsylvania,1617377.0,14.0,13.8,14.2,10 to <20,Yes,2013,Special Education Child Count
+Pennsylvania,1607656.0,15.0,14.8,15.1,10 to <20,Yes,2014,Special Education Child Count
+Pennsylvania,1588330.0,16.1,15.9,16.3,10 to <20,Yes,2015,Special Education Child Count
+Pennsylvania,1596801.0,16.9,16.7,17.1,10 to <20,Yes,2016,Special Education Child Count
+Pennsylvania,1597268.0,17.8,17.6,18.0,10 to <20,Yes,2017,Special Education Child Count
+Pennsylvania,1599462.0,18.7,18.5,19.0,10 to <20,Yes,2018,Special Education Child Count
+Pennsylvania,1589964.0,20.0,19.8,20.2,20 to <30,Yes,2019,Special Education Child Count
+Pennsylvania,1586329.0,21.7,21.5,21.9,20 to <30,Yes,2020,Special Education Child Count
+Pennsylvania,1567923.0,23.3,23.1,23.6,20 to <30,Yes,2021,Special Education Child Count
+Pennsylvania,1567598.0,25.4,25.2,25.7,20 to <30,Yes,2022,Special Education Child Count
+Pennsylvania,21061.0,5.3,,,<10,No,2002,ADDM Network*
+Pennsylvania,17886.0,8.4,,,<10,No,2006,ADDM Network*
+Pennsylvania,18440.0,13.3,,,10 to <20,No,2008,ADDM Network*
+Pennsylvania,7066.0,47.4,,,30+,No,2022,ADDM Network*
+Pennsylvania,573278.0,4.2,,,<10,No,2000,Medicaid
+Pennsylvania,589318.0,5.2,,,<10,No,2001,Medicaid
+Pennsylvania,613611.0,4.9,,,<10,No,2002,Medicaid
+Pennsylvania,638268.0,4.9,,,<10,No,2003,Medicaid
+Pennsylvania,677306.0,5.1,,,<10,No,2004,Medicaid
+Pennsylvania,709774.0,5.5,,,<10,No,2005,Medicaid
+Pennsylvania,714603.0,6.2,,,<10,No,2006,Medicaid
+Pennsylvania,684904.0,4.6,,,<10,No,2007,Medicaid
+Pennsylvania,723857.0,2.7,,,<10,No,2008,Medicaid
+Pennsylvania,757320.0,2.9,,,<10,No,2009,Medicaid
+Pennsylvania,797425.0,2.8,,,<10,No,2010,Medicaid
+Pennsylvania,830613.0,2.9,,,<10,No,2011,Medicaid
+Pennsylvania,834046.0,11.0,,,10 to <20,No,2012,Medicaid
+Pennsylvania,841514.0,35.3,,,30+,No,2013,Medicaid
+Pennsylvania,961141.0,35.9,,,30+,No,2016,Medicaid
+Pennsylvania,980690.0,36.9,,,30+,No,2017,Medicaid
+Pennsylvania,1057019.0,35.6,,,30+,No,2018,Medicaid
+Pennsylvania,1075132.0,35.9,,,30+,No,2019,Medicaid
+Pennsylvania,1094559.0,34.5,,,30+,No,2020,Medicaid
+Pennsylvania,1136068.0,34.7,,,30+,No,2021,Medicaid
+Pennsylvania,1182838.0,36.6,,,30+,No,2022,Medicaid
+Pennsylvania,1869.0,8.1,,,<10,No,2003,National Survey of Children's Health†
+Pennsylvania,1594.0,23.0,,,20 to <30,No,2011,National Survey of Children's Health†
+Pennsylvania,2928.0,37.0,,,30+,No,2020,National Survey of Children's Health†
+Pennsylvania,1982.0,45.2,,,30+,No,2022,National Survey of Children's Health†
+Pennsylvania,1680063.0,1.9,,,<10,No,2000,Special Education Child Count
+Pennsylvania,1694084.0,2.2,,,<10,No,2001,Special Education Child Count
+Pennsylvania,1691071.0,2.7,,,<10,No,2002,Special Education Child Count
+Pennsylvania,1693953.0,3.3,,,<10,No,2003,Special Education Child Count
+Pennsylvania,1690520.0,4.0,,,<10,No,2004,Special Education Child Count
+Pennsylvania,1690385.0,4.7,,,<10,No,2005,Special Education Child Count
+Pennsylvania,1728834.0,5.4,,,<10,No,2006,Special Education Child Count
+Pennsylvania,1664918.0,6.7,,,<10,No,2007,Special Education Child Count
+Pennsylvania,1632752.0,8.0,,,<10,No,2008,Special Education Child Count
+Pennsylvania,1639316.0,9.1,,,<10,No,2009,Special Education Child Count
+Pennsylvania,1646680.0,10.2,,,10 to <20,No,2010,Special Education Child Count
+Pennsylvania,1626936.0,11.7,,,10 to <20,No,2011,Special Education Child Count
+Pennsylvania,1620867.0,12.7,,,10 to <20,No,2012,Special Education Child Count
+Pennsylvania,1617377.0,14.0,,,10 to <20,No,2013,Special Education Child Count
+Pennsylvania,1607656.0,15.0,,,10 to <20,No,2014,Special Education Child Count
+Pennsylvania,1588330.0,16.1,,,10 to <20,No,2015,Special Education Child Count
+Pennsylvania,1596801.0,16.9,,,10 to <20,No,2016,Special Education Child Count
+Pennsylvania,1597268.0,17.8,,,10 to <20,No,2017,Special Education Child Count
+Pennsylvania,1599462.0,18.7,,,10 to <20,No,2018,Special Education Child Count
+Pennsylvania,1589964.0,20.0,,,20 to <30,No,2019,Special Education Child Count
+Pennsylvania,1586329.0,21.7,,,20 to <30,No,2020,Special Education Child Count
+Pennsylvania,1567923.0,23.3,,,20 to <30,No,2021,Special Education Child Count
+Pennsylvania,1567598.0,25.4,,,20 to <30,No,2022,Special Education Child Count

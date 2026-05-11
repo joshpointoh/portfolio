@@ -1,0 +1,71 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+District of Columbia,58590.0,0.5,0.4,0.8,<10,Yes,2000,Medicaid
+District of Columbia,58799.0,0.5,0.4,0.7,<10,Yes,2001,Medicaid
+District of Columbia,56388.0,0.4,0.3,0.7,<10,Yes,2002,Medicaid
+District of Columbia,61285.0,0.7,0.5,1.0,<10,Yes,2003,Medicaid
+District of Columbia,62570.0,0.9,0.7,1.2,<10,Yes,2004,Medicaid
+District of Columbia,62544.0,0.9,0.7,1.1,<10,Yes,2005,Medicaid
+District of Columbia,61119.0,1.5,1.2,1.9,<10,Yes,2006,Medicaid
+District of Columbia,59545.0,1.6,1.4,2.0,<10,Yes,2007,Medicaid
+District of Columbia,58586.0,2.0,1.7,2.4,<10,Yes,2008,Medicaid
+District of Columbia,58975.0,3.8,3.4,4.4,<10,Yes,2009,Medicaid
+District of Columbia,61320.0,4.5,4.0,5.1,<10,Yes,2010,Medicaid
+District of Columbia,62845.0,5.5,4.9,6.1,<10,Yes,2011,Medicaid
+District of Columbia,63895.0,6.5,5.9,7.1,<10,Yes,2012,Medicaid
+District of Columbia,64611.0,8.4,7.7,9.1,<10,Yes,2013,Medicaid
+District of Columbia,67107.0,10.5,9.7,11.3,10 to <20,Yes,2016,Medicaid
+District of Columbia,73861.0,10.6,9.9,11.3,10 to <20,Yes,2021,Medicaid
+District of Columbia,76921.0,17.5,16.5,18.4,10 to <20,Yes,2022,Medicaid
+District of Columbia,2561.0,21.6,14.0,33.0,20 to <30,Yes,2020,National Survey of Children's Health†
+District of Columbia,1151.0,19.2,11.0,33.4,10 to <20,Yes,2022,National Survey of Children's Health†
+District of Columbia,55111.0,1.8,1.5,2.2,<10,Yes,2000,Special Education Child Count
+District of Columbia,54822.0,2.5,2.1,2.9,<10,Yes,2001,Special Education Child Count
+District of Columbia,60385.0,2.6,2.3,3.1,<10,Yes,2002,Special Education Child Count
+District of Columbia,62534.0,3.0,2.6,3.4,<10,Yes,2003,Special Education Child Count
+District of Columbia,56081.0,5.1,4.5,5.7,<10,Yes,2008,Special Education Child Count
+District of Columbia,55499.0,7.1,6.4,7.8,<10,Yes,2010,Special Education Child Count
+District of Columbia,55520.0,8.0,7.3,8.8,<10,Yes,2011,Special Education Child Count
+District of Columbia,56954.0,9.0,8.2,9.8,<10,Yes,2012,Special Education Child Count
+District of Columbia,58956.0,9.8,9.0,10.6,<10,Yes,2013,Special Education Child Count
+District of Columbia,60718.0,10.2,9.4,11.0,10 to <20,Yes,2014,Special Education Child Count
+District of Columbia,63804.0,10.9,10.1,11.7,10 to <20,Yes,2015,Special Education Child Count
+District of Columbia,65732.0,11.9,11.1,12.7,10 to <20,Yes,2016,Special Education Child Count
+District of Columbia,67123.0,13.0,12.1,13.8,10 to <20,Yes,2017,Special Education Child Count
+District of Columbia,68136.0,14.4,13.5,15.3,10 to <20,Yes,2018,Special Education Child Count
+District of Columbia,69252.0,16.0,15.0,16.9,10 to <20,Yes,2019,Special Education Child Count
+District of Columbia,71623.0,22.3,21.2,23.4,20 to <30,Yes,2022,Special Education Child Count
+District of Columbia,58590.0,0.5,,,<10,No,2000,Medicaid
+District of Columbia,58799.0,0.5,,,<10,No,2001,Medicaid
+District of Columbia,56388.0,0.4,,,<10,No,2002,Medicaid
+District of Columbia,61285.0,0.7,,,<10,No,2003,Medicaid
+District of Columbia,62570.0,0.9,,,<10,No,2004,Medicaid
+District of Columbia,62544.0,0.9,,,<10,No,2005,Medicaid
+District of Columbia,61119.0,1.5,,,<10,No,2006,Medicaid
+District of Columbia,59545.0,1.6,,,<10,No,2007,Medicaid
+District of Columbia,58586.0,2.0,,,<10,No,2008,Medicaid
+District of Columbia,58975.0,3.8,,,<10,No,2009,Medicaid
+District of Columbia,61320.0,4.5,,,<10,No,2010,Medicaid
+District of Columbia,62845.0,5.5,,,<10,No,2011,Medicaid
+District of Columbia,63895.0,6.5,,,<10,No,2012,Medicaid
+District of Columbia,64611.0,8.4,,,<10,No,2013,Medicaid
+District of Columbia,67107.0,10.5,,,10 to <20,No,2016,Medicaid
+District of Columbia,73861.0,10.6,,,10 to <20,No,2021,Medicaid
+District of Columbia,76921.0,17.5,,,10 to <20,No,2022,Medicaid
+District of Columbia,2561.0,21.6,,,20 to <30,No,2020,National Survey of Children's Health†
+District of Columbia,1151.0,19.2,,,10 to <20,No,2022,National Survey of Children's Health†
+District of Columbia,55111.0,1.8,,,<10,No,2000,Special Education Child Count
+District of Columbia,54822.0,2.5,,,<10,No,2001,Special Education Child Count
+District of Columbia,60385.0,2.6,,,<10,No,2002,Special Education Child Count
+District of Columbia,62534.0,3.0,,,<10,No,2003,Special Education Child Count
+District of Columbia,56081.0,5.1,,,<10,No,2008,Special Education Child Count
+District of Columbia,55499.0,7.1,,,<10,No,2010,Special Education Child Count
+District of Columbia,55520.0,8.0,,,<10,No,2011,Special Education Child Count
+District of Columbia,56954.0,9.0,,,<10,No,2012,Special Education Child Count
+District of Columbia,58956.0,9.8,,,<10,No,2013,Special Education Child Count
+District of Columbia,60718.0,10.2,,,10 to <20,No,2014,Special Education Child Count
+District of Columbia,63804.0,10.9,,,10 to <20,No,2015,Special Education Child Count
+District of Columbia,65732.0,11.9,,,10 to <20,No,2016,Special Education Child Count
+District of Columbia,67123.0,13.0,,,10 to <20,No,2017,Special Education Child Count
+District of Columbia,68136.0,14.4,,,10 to <20,No,2018,Special Education Child Count
+District of Columbia,69252.0,16.0,,,10 to <20,No,2019,Special Education Child Count
+District of Columbia,71623.0,22.3,,,20 to <30,No,2022,Special Education Child Count

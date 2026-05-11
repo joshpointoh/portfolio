@@ -1,0 +1,95 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Illinois,706643.0,1.9,1.8,2.0,<10,Yes,2000,Medicaid
+Illinois,761748.0,2.0,1.9,2.1,<10,Yes,2001,Medicaid
+Illinois,784475.0,2.2,2.1,2.3,<10,Yes,2002,Medicaid
+Illinois,813830.0,2.4,2.3,2.5,<10,Yes,2003,Medicaid
+Illinois,865273.0,2.5,2.4,2.6,<10,Yes,2004,Medicaid
+Illinois,909088.0,2.8,2.7,3.0,<10,Yes,2005,Medicaid
+Illinois,953558.0,3.3,3.2,3.4,<10,Yes,2006,Medicaid
+Illinois,998442.0,3.5,3.3,3.6,<10,Yes,2007,Medicaid
+Illinois,1043293.0,4.5,4.4,4.6,<10,Yes,2008,Medicaid
+Illinois,1119178.0,5.2,5.1,5.4,<10,Yes,2009,Medicaid
+Illinois,1182884.0,5.7,5.5,5.8,<10,Yes,2010,Medicaid
+Illinois,1231833.0,6.2,6.1,6.4,<10,Yes,2011,Medicaid
+Illinois,1320887.0,6.6,6.5,6.8,<10,Yes,2012,Medicaid
+Illinois,1300634.0,7.2,7.0,7.3,<10,Yes,2013,Medicaid
+Illinois,1224958.0,9.1,8.9,9.2,<10,Yes,2016,Medicaid
+Illinois,1203840.0,10.0,9.8,10.2,10 to <20,Yes,2017,Medicaid
+Illinois,1182992.0,10.7,10.6,10.9,10 to <20,Yes,2018,Medicaid
+Illinois,1143783.0,11.9,11.7,12.1,10 to <20,Yes,2019,Medicaid
+Illinois,1133365.0,11.2,11.0,11.4,10 to <20,Yes,2020,Medicaid
+Illinois,1177138.0,11.3,11.2,11.5,10 to <20,Yes,2021,Medicaid
+Illinois,1209654.0,15.3,15.1,15.6,10 to <20,Yes,2022,Medicaid
+Illinois,1765.0,21.0,13.1,33.5,20 to <30,Yes,2011,National Survey of Children's Health†
+Illinois,2973.0,31.7,23.4,42.9,30+,Yes,2020,National Survey of Children's Health†
+Illinois,1439.0,31.0,21.4,44.7,30+,Yes,2022,National Survey of Children's Health†
+Illinois,1836275.0,1.9,1.8,2.0,<10,Yes,2000,Special Education Child Count
+Illinois,1860877.0,1.9,1.9,2.0,<10,Yes,2001,Special Education Child Count
+Illinois,1872358.0,2.6,2.5,2.6,<10,Yes,2002,Special Education Child Count
+Illinois,1883049.0,3.0,2.9,3.1,<10,Yes,2003,Special Education Child Count
+Illinois,1882484.0,3.5,3.4,3.6,<10,Yes,2004,Special Education Child Count
+Illinois,1891388.0,4.0,3.9,4.1,<10,Yes,2005,Special Education Child Count
+Illinois,1895561.0,4.7,4.6,4.8,<10,Yes,2006,Special Education Child Count
+Illinois,1889207.0,5.3,5.2,5.4,<10,Yes,2007,Special Education Child Count
+Illinois,1879956.0,5.9,5.8,6.0,<10,Yes,2008,Special Education Child Count
+Illinois,1871351.0,6.6,6.5,6.8,<10,Yes,2009,Special Education Child Count
+Illinois,1867169.0,7.3,7.1,7.4,<10,Yes,2010,Special Education Child Count
+Illinois,1856885.0,7.9,7.8,8.0,<10,Yes,2011,Special Education Child Count
+Illinois,1844090.0,8.4,8.3,8.6,<10,Yes,2012,Special Education Child Count
+Illinois,1840920.0,9.2,9.1,9.3,<10,Yes,2013,Special Education Child Count
+Illinois,1831161.0,9.8,9.7,10.0,<10,Yes,2014,Special Education Child Count
+Illinois,1818262.0,10.4,10.3,10.6,10 to <20,Yes,2015,Special Education Child Count
+Illinois,1806812.0,11.0,10.8,11.1,10 to <20,Yes,2016,Special Education Child Count
+Illinois,1789397.0,11.6,11.5,11.8,10 to <20,Yes,2017,Special Education Child Count
+Illinois,1758083.0,12.4,12.2,12.5,10 to <20,Yes,2018,Special Education Child Count
+Illinois,1735265.0,13.0,12.9,13.2,10 to <20,Yes,2019,Special Education Child Count
+Illinois,1702996.0,14.0,13.9,14.2,10 to <20,Yes,2020,Special Education Child Count
+Illinois,1672110.0,14.9,14.7,15.1,10 to <20,Yes,2021,Special Education Child Count
+Illinois,1654600.0,16.4,16.2,16.6,10 to <20,Yes,2022,Special Education Child Count
+Illinois,706643.0,1.9,,,<10,No,2000,Medicaid
+Illinois,761748.0,2.0,,,<10,No,2001,Medicaid
+Illinois,784475.0,2.2,,,<10,No,2002,Medicaid
+Illinois,813830.0,2.4,,,<10,No,2003,Medicaid
+Illinois,865273.0,2.5,,,<10,No,2004,Medicaid
+Illinois,909088.0,2.8,,,<10,No,2005,Medicaid
+Illinois,953558.0,3.3,,,<10,No,2006,Medicaid
+Illinois,998442.0,3.5,,,<10,No,2007,Medicaid
+Illinois,1043293.0,4.5,,,<10,No,2008,Medicaid
+Illinois,1119178.0,5.2,,,<10,No,2009,Medicaid
+Illinois,1182884.0,5.7,,,<10,No,2010,Medicaid
+Illinois,1231833.0,6.2,,,<10,No,2011,Medicaid
+Illinois,1320887.0,6.6,,,<10,No,2012,Medicaid
+Illinois,1300634.0,7.2,,,<10,No,2013,Medicaid
+Illinois,1224958.0,9.1,,,<10,No,2016,Medicaid
+Illinois,1203840.0,10.0,,,10 to <20,No,2017,Medicaid
+Illinois,1182992.0,10.7,,,10 to <20,No,2018,Medicaid
+Illinois,1143783.0,11.9,,,10 to <20,No,2019,Medicaid
+Illinois,1133365.0,11.2,,,10 to <20,No,2020,Medicaid
+Illinois,1177138.0,11.3,,,10 to <20,No,2021,Medicaid
+Illinois,1209654.0,15.3,,,10 to <20,No,2022,Medicaid
+Illinois,1765.0,21.0,,,20 to <30,No,2011,National Survey of Children's Health†
+Illinois,2973.0,31.7,,,30+,No,2020,National Survey of Children's Health†
+Illinois,1439.0,31.0,,,30+,No,2022,National Survey of Children's Health†
+Illinois,1836275.0,1.9,,,<10,No,2000,Special Education Child Count
+Illinois,1860877.0,1.9,,,<10,No,2001,Special Education Child Count
+Illinois,1872358.0,2.6,,,<10,No,2002,Special Education Child Count
+Illinois,1883049.0,3.0,,,<10,No,2003,Special Education Child Count
+Illinois,1882484.0,3.5,,,<10,No,2004,Special Education Child Count
+Illinois,1891388.0,4.0,,,<10,No,2005,Special Education Child Count
+Illinois,1895561.0,4.7,,,<10,No,2006,Special Education Child Count
+Illinois,1889207.0,5.3,,,<10,No,2007,Special Education Child Count
+Illinois,1879956.0,5.9,,,<10,No,2008,Special Education Child Count
+Illinois,1871351.0,6.6,,,<10,No,2009,Special Education Child Count
+Illinois,1867169.0,7.3,,,<10,No,2010,Special Education Child Count
+Illinois,1856885.0,7.9,,,<10,No,2011,Special Education Child Count
+Illinois,1844090.0,8.4,,,<10,No,2012,Special Education Child Count
+Illinois,1840920.0,9.2,,,<10,No,2013,Special Education Child Count
+Illinois,1831161.0,9.8,,,<10,No,2014,Special Education Child Count
+Illinois,1818262.0,10.4,,,10 to <20,No,2015,Special Education Child Count
+Illinois,1806812.0,11.0,,,10 to <20,No,2016,Special Education Child Count
+Illinois,1789397.0,11.6,,,10 to <20,No,2017,Special Education Child Count
+Illinois,1758083.0,12.4,,,10 to <20,No,2018,Special Education Child Count
+Illinois,1735265.0,13.0,,,10 to <20,No,2019,Special Education Child Count
+Illinois,1702996.0,14.0,,,10 to <20,No,2020,Special Education Child Count
+Illinois,1672110.0,14.9,,,10 to <20,No,2021,Special Education Child Count
+Illinois,1654600.0,16.4,,,10 to <20,No,2022,Special Education Child Count

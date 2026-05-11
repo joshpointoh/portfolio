@@ -1,0 +1,97 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Rhode Island,66153.0,4.8,4.3,5.3,<10,Yes,2000,Medicaid
+Rhode Island,69924.0,5.2,4.7,5.8,<10,Yes,2001,Medicaid
+Rhode Island,73167.0,5.7,5.2,6.3,<10,Yes,2002,Medicaid
+Rhode Island,74320.0,7.2,6.6,7.8,<10,Yes,2003,Medicaid
+Rhode Island,76203.0,8.1,7.5,8.8,<10,Yes,2004,Medicaid
+Rhode Island,76748.0,9.4,8.7,10.1,<10,Yes,2005,Medicaid
+Rhode Island,76442.0,11.3,10.6,12.1,10 to <20,Yes,2006,Medicaid
+Rhode Island,74838.0,14.4,13.5,15.3,10 to <20,Yes,2007,Medicaid
+Rhode Island,72401.0,17.4,16.4,18.3,10 to <20,Yes,2008,Medicaid
+Rhode Island,74866.0,17.9,17.0,18.9,10 to <20,Yes,2009,Medicaid
+Rhode Island,79463.0,18.6,17.6,19.5,10 to <20,Yes,2010,Medicaid
+Rhode Island,79721.0,19.2,18.3,20.2,10 to <20,Yes,2011,Medicaid
+Rhode Island,81835.0,20.1,19.2,21.1,20 to <30,Yes,2012,Medicaid
+Rhode Island,84266.0,20.3,19.4,21.3,20 to <30,Yes,2013,Medicaid
+Rhode Island,95571.0,21.9,21.0,22.9,20 to <30,Yes,2016,Medicaid
+Rhode Island,102038.0,21.7,20.8,22.6,20 to <30,Yes,2017,Medicaid
+Rhode Island,102694.0,23.0,22.1,23.9,20 to <30,Yes,2018,Medicaid
+Rhode Island,66333.0,29.1,27.8,30.3,20 to <30,Yes,2019,Medicaid
+Rhode Island,101587.0,22.8,21.9,23.7,20 to <30,Yes,2020,Medicaid
+Rhode Island,104866.0,24.0,23.1,25.0,20 to <30,Yes,2021,Medicaid
+Rhode Island,107139.0,26.0,25.1,27.0,20 to <30,Yes,2022,Medicaid
+Rhode Island,1511.0,10.9,6.4,18.5,10 to <20,Yes,2007,National Survey of Children's Health†
+Rhode Island,1624.0,17.7,11.7,26.6,10 to <20,Yes,2011,National Survey of Children's Health†
+Rhode Island,2743.0,29.4,22.2,39.0,20 to <30,Yes,2020,National Survey of Children's Health†
+Rhode Island,1317.0,20.6,13.2,32.0,20 to <30,Yes,2022,National Survey of Children's Health†
+Rhode Island,142321.0,2.1,1.9,2.4,<10,Yes,2000,Special Education Child Count
+Rhode Island,146113.0,2.5,2.3,2.8,<10,Yes,2001,Special Education Child Count
+Rhode Island,147307.0,3.1,2.8,3.3,<10,Yes,2002,Special Education Child Count
+Rhode Island,147200.0,3.7,3.4,4.0,<10,Yes,2003,Special Education Child Count
+Rhode Island,146041.0,4.4,4.1,4.8,<10,Yes,2004,Special Education Child Count
+Rhode Island,142154.0,5.4,5.1,5.8,<10,Yes,2005,Special Education Child Count
+Rhode Island,139617.0,7.0,6.6,7.4,<10,Yes,2006,Special Education Child Count
+Rhode Island,136019.0,8.2,7.7,8.7,<10,Yes,2007,Special Education Child Count
+Rhode Island,133452.0,9.4,8.9,9.9,<10,Yes,2008,Special Education Child Count
+Rhode Island,132755.0,10.0,9.5,10.6,10 to <20,Yes,2009,Special Education Child Count
+Rhode Island,131682.0,11.3,10.7,11.9,10 to <20,Yes,2010,Special Education Child Count
+Rhode Island,130711.0,12.7,12.1,13.3,10 to <20,Yes,2011,Special Education Child Count
+Rhode Island,129627.0,13.4,12.8,14.1,10 to <20,Yes,2012,Special Education Child Count
+Rhode Island,129276.0,14.0,13.4,14.7,10 to <20,Yes,2013,Special Education Child Count
+Rhode Island,129705.0,14.4,13.8,15.1,10 to <20,Yes,2014,Special Education Child Count
+Rhode Island,129667.0,14.8,14.1,15.5,10 to <20,Yes,2015,Special Education Child Count
+Rhode Island,129593.0,15.2,14.6,15.9,10 to <20,Yes,2016,Special Education Child Count
+Rhode Island,130466.0,15.6,15.0,16.3,10 to <20,Yes,2017,Special Education Child Count
+Rhode Island,130527.0,16.3,15.6,17.0,10 to <20,Yes,2018,Special Education Child Count
+Rhode Island,130511.0,16.6,15.9,17.3,10 to <20,Yes,2019,Special Education Child Count
+Rhode Island,127960.0,17.0,16.3,17.7,10 to <20,Yes,2020,Special Education Child Count
+Rhode Island,126040.0,17.3,16.6,18.0,10 to <20,Yes,2021,Special Education Child Count
+Rhode Island,124897.0,18.3,17.5,19.0,10 to <20,Yes,2022,Special Education Child Count
+Rhode Island,66153.0,4.8,,,<10,No,2000,Medicaid
+Rhode Island,69924.0,5.2,,,<10,No,2001,Medicaid
+Rhode Island,73167.0,5.7,,,<10,No,2002,Medicaid
+Rhode Island,74320.0,7.2,,,<10,No,2003,Medicaid
+Rhode Island,76203.0,8.1,,,<10,No,2004,Medicaid
+Rhode Island,76748.0,9.4,,,<10,No,2005,Medicaid
+Rhode Island,76442.0,11.3,,,10 to <20,No,2006,Medicaid
+Rhode Island,74838.0,14.4,,,10 to <20,No,2007,Medicaid
+Rhode Island,72401.0,17.4,,,10 to <20,No,2008,Medicaid
+Rhode Island,74866.0,17.9,,,10 to <20,No,2009,Medicaid
+Rhode Island,79463.0,18.6,,,10 to <20,No,2010,Medicaid
+Rhode Island,79721.0,19.2,,,10 to <20,No,2011,Medicaid
+Rhode Island,81835.0,20.1,,,20 to <30,No,2012,Medicaid
+Rhode Island,84266.0,20.3,,,20 to <30,No,2013,Medicaid
+Rhode Island,95571.0,21.9,,,20 to <30,No,2016,Medicaid
+Rhode Island,102038.0,21.7,,,20 to <30,No,2017,Medicaid
+Rhode Island,102694.0,23.0,,,20 to <30,No,2018,Medicaid
+Rhode Island,66333.0,29.1,,,20 to <30,No,2019,Medicaid
+Rhode Island,101587.0,22.8,,,20 to <30,No,2020,Medicaid
+Rhode Island,104866.0,24.0,,,20 to <30,No,2021,Medicaid
+Rhode Island,107139.0,26.0,,,20 to <30,No,2022,Medicaid
+Rhode Island,1511.0,10.9,,,10 to <20,No,2007,National Survey of Children's Health†
+Rhode Island,1624.0,17.7,,,10 to <20,No,2011,National Survey of Children's Health†
+Rhode Island,2743.0,29.4,,,20 to <30,No,2020,National Survey of Children's Health†
+Rhode Island,1317.0,20.6,,,20 to <30,No,2022,National Survey of Children's Health†
+Rhode Island,142321.0,2.1,,,<10,No,2000,Special Education Child Count
+Rhode Island,146113.0,2.5,,,<10,No,2001,Special Education Child Count
+Rhode Island,147307.0,3.1,,,<10,No,2002,Special Education Child Count
+Rhode Island,147200.0,3.7,,,<10,No,2003,Special Education Child Count
+Rhode Island,146041.0,4.4,,,<10,No,2004,Special Education Child Count
+Rhode Island,142154.0,5.4,,,<10,No,2005,Special Education Child Count
+Rhode Island,139617.0,7.0,,,<10,No,2006,Special Education Child Count
+Rhode Island,136019.0,8.2,,,<10,No,2007,Special Education Child Count
+Rhode Island,133452.0,9.4,,,<10,No,2008,Special Education Child Count
+Rhode Island,132755.0,10.0,,,10 to <20,No,2009,Special Education Child Count
+Rhode Island,131682.0,11.3,,,10 to <20,No,2010,Special Education Child Count
+Rhode Island,130711.0,12.7,,,10 to <20,No,2011,Special Education Child Count
+Rhode Island,129627.0,13.4,,,10 to <20,No,2012,Special Education Child Count
+Rhode Island,129276.0,14.0,,,10 to <20,No,2013,Special Education Child Count
+Rhode Island,129705.0,14.4,,,10 to <20,No,2014,Special Education Child Count
+Rhode Island,129667.0,14.8,,,10 to <20,No,2015,Special Education Child Count
+Rhode Island,129593.0,15.2,,,10 to <20,No,2016,Special Education Child Count
+Rhode Island,130466.0,15.6,,,10 to <20,No,2017,Special Education Child Count
+Rhode Island,130527.0,16.3,,,10 to <20,No,2018,Special Education Child Count
+Rhode Island,130511.0,16.6,,,10 to <20,No,2019,Special Education Child Count
+Rhode Island,127960.0,17.0,,,10 to <20,No,2020,Special Education Child Count
+Rhode Island,126040.0,17.3,,,10 to <20,No,2021,Special Education Child Count
+Rhode Island,124897.0,18.3,,,10 to <20,No,2022,Special Education Child Count

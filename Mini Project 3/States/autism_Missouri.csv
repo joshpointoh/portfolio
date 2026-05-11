@@ -1,0 +1,117 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Missouri,28049.0,7.3,6.4,8.4,<10,Yes,2002,ADDM Network*
+Missouri,26970.0,8.2,7.2,9.3,<10,Yes,2004,ADDM Network*
+Missouri,26533.0,12.1,10.9,13.5,10 to <20,Yes,2006,ADDM Network*
+Missouri,25668.0,13.9,12.5,15.4,10 to <20,Yes,2008,ADDM Network*
+Missouri,25367.0,14.2,12.8,15.7,10 to <20,Yes,2010,ADDM Network*
+Missouri,25870.0,11.6,10.4,13.0,10 to <20,Yes,2012,ADDM Network*
+Missouri,25333.0,14.1,12.7,15.6,10 to <20,Yes,2014,ADDM Network*
+Missouri,15635.0,13.6,11.9,15.6,10 to <20,Yes,2016,ADDM Network*
+Missouri,24481.0,16.5,15.0,18.2,10 to <20,Yes,2018,ADDM Network*
+Missouri,24561.0,24.5,22.6,26.5,20 to <30,Yes,2020,ADDM Network*
+Missouri,19968.0,32.1,29.7,34.6,30+,Yes,2022,ADDM Network*
+Missouri,400654.0,2.7,2.5,2.9,<10,Yes,2000,Medicaid
+Missouri,429228.0,3.0,2.8,3.1,<10,Yes,2001,Medicaid
+Missouri,436980.0,3.4,3.2,3.6,<10,Yes,2002,Medicaid
+Missouri,463143.0,3.6,3.4,3.8,<10,Yes,2003,Medicaid
+Missouri,478509.0,4.1,4.0,4.3,<10,Yes,2004,Medicaid
+Missouri,475524.0,4.9,4.7,5.1,<10,Yes,2005,Medicaid
+Missouri,433668.0,6.0,5.8,6.2,<10,Yes,2006,Medicaid
+Missouri,422932.0,6.9,6.6,7.1,<10,Yes,2007,Medicaid
+Missouri,409920.0,7.7,7.4,8.0,<10,Yes,2008,Medicaid
+Missouri,429761.0,8.0,7.7,8.3,<10,Yes,2009,Medicaid
+Missouri,448040.0,8.6,8.3,8.9,<10,Yes,2010,Medicaid
+Missouri,457339.0,9.7,9.4,10.0,<10,Yes,2011,Medicaid
+Missouri,458233.0,10.5,10.2,10.8,10 to <20,Yes,2012,Medicaid
+Missouri,452586.0,11.3,11.0,11.6,10 to <20,Yes,2013,Medicaid
+Missouri,515135.0,14.3,13.9,14.6,10 to <20,Yes,2016,Medicaid
+Missouri,538822.0,15.1,14.7,15.4,10 to <20,Yes,2017,Medicaid
+Missouri,536738.0,15.9,15.5,16.2,10 to <20,Yes,2018,Medicaid
+Missouri,501817.0,17.6,17.3,18.0,10 to <20,Yes,2019,Medicaid
+Missouri,485124.0,18.4,18.0,18.8,10 to <20,Yes,2020,Medicaid
+Missouri,532893.0,19.0,18.6,19.3,10 to <20,Yes,2021,Medicaid
+Missouri,572221.0,20.3,19.9,20.7,20 to <30,Yes,2022,Medicaid
+Missouri,1602.0,21.1,13.8,32.1,20 to <30,Yes,2011,National Survey of Children's Health†
+Missouri,2985.0,23.1,17.3,30.7,20 to <30,Yes,2020,National Survey of Children's Health†
+Missouri,1390.0,21.9,12.8,37.1,20 to <30,Yes,2022,National Survey of Children's Health†
+Missouri,821734.0,1.8,1.7,1.9,<10,Yes,2000,Special Education Child Count
+Missouri,821837.0,2.2,2.1,2.3,<10,Yes,2001,Special Education Child Count
+Missouri,829081.0,2.6,2.5,2.7,<10,Yes,2002,Special Education Child Count
+Missouri,827353.0,3.1,2.9,3.2,<10,Yes,2003,Special Education Child Count
+Missouri,827519.0,3.6,3.5,3.8,<10,Yes,2004,Special Education Child Count
+Missouri,831636.0,4.2,4.1,4.4,<10,Yes,2005,Special Education Child Count
+Missouri,831553.0,5.0,4.9,5.2,<10,Yes,2006,Special Education Child Count
+Missouri,827183.0,5.7,5.5,5.8,<10,Yes,2007,Special Education Child Count
+Missouri,824746.0,6.4,6.2,6.6,<10,Yes,2008,Special Education Child Count
+Missouri,823382.0,7.1,6.9,7.3,<10,Yes,2009,Special Education Child Count
+Missouri,820839.0,7.9,7.7,8.1,<10,Yes,2010,Special Education Child Count
+Missouri,816789.0,8.7,8.5,8.9,<10,Yes,2011,Special Education Child Count
+Missouri,816438.0,9.5,9.3,9.7,<10,Yes,2012,Special Education Child Count
+Missouri,817104.0,10.0,9.8,10.2,10 to <20,Yes,2013,Special Education Child Count
+Missouri,817879.0,10.8,10.6,11.1,10 to <20,Yes,2014,Special Education Child Count
+Missouri,818676.0,11.7,11.4,11.9,10 to <20,Yes,2015,Special Education Child Count
+Missouri,817133.0,12.4,12.2,12.7,10 to <20,Yes,2016,Special Education Child Count
+Missouri,816370.0,13.2,13.0,13.5,10 to <20,Yes,2017,Special Education Child Count
+Missouri,813878.0,14.2,13.9,14.4,10 to <20,Yes,2018,Special Education Child Count
+Missouri,810307.0,15.1,14.9,15.4,10 to <20,Yes,2019,Special Education Child Count
+Missouri,795244.0,16.2,15.9,16.5,10 to <20,Yes,2020,Special Education Child Count
+Missouri,793502.0,17.0,16.7,17.3,10 to <20,Yes,2021,Special Education Child Count
+Missouri,794878.0,18.4,18.1,18.7,10 to <20,Yes,2022,Special Education Child Count
+Missouri,28049.0,7.3,,,<10,No,2002,ADDM Network*
+Missouri,26970.0,8.2,,,<10,No,2004,ADDM Network*
+Missouri,26533.0,12.1,,,10 to <20,No,2006,ADDM Network*
+Missouri,25668.0,13.9,,,10 to <20,No,2008,ADDM Network*
+Missouri,25367.0,14.2,,,10 to <20,No,2010,ADDM Network*
+Missouri,25870.0,11.6,,,10 to <20,No,2012,ADDM Network*
+Missouri,25333.0,14.1,,,10 to <20,No,2014,ADDM Network*
+Missouri,15635.0,13.6,,,10 to <20,No,2016,ADDM Network*
+Missouri,24481.0,16.5,,,10 to <20,No,2018,ADDM Network*
+Missouri,24561.0,24.5,,,20 to <30,No,2020,ADDM Network*
+Missouri,19968.0,32.1,,,30+,No,2022,ADDM Network*
+Missouri,400654.0,2.7,,,<10,No,2000,Medicaid
+Missouri,429228.0,3.0,,,<10,No,2001,Medicaid
+Missouri,436980.0,3.4,,,<10,No,2002,Medicaid
+Missouri,463143.0,3.6,,,<10,No,2003,Medicaid
+Missouri,478509.0,4.1,,,<10,No,2004,Medicaid
+Missouri,475524.0,4.9,,,<10,No,2005,Medicaid
+Missouri,433668.0,6.0,,,<10,No,2006,Medicaid
+Missouri,422932.0,6.9,,,<10,No,2007,Medicaid
+Missouri,409920.0,7.7,,,<10,No,2008,Medicaid
+Missouri,429761.0,8.0,,,<10,No,2009,Medicaid
+Missouri,448040.0,8.6,,,<10,No,2010,Medicaid
+Missouri,457339.0,9.7,,,<10,No,2011,Medicaid
+Missouri,458233.0,10.5,,,10 to <20,No,2012,Medicaid
+Missouri,452586.0,11.3,,,10 to <20,No,2013,Medicaid
+Missouri,515135.0,14.3,,,10 to <20,No,2016,Medicaid
+Missouri,538822.0,15.1,,,10 to <20,No,2017,Medicaid
+Missouri,536738.0,15.9,,,10 to <20,No,2018,Medicaid
+Missouri,501817.0,17.6,,,10 to <20,No,2019,Medicaid
+Missouri,485124.0,18.4,,,10 to <20,No,2020,Medicaid
+Missouri,532893.0,19.0,,,10 to <20,No,2021,Medicaid
+Missouri,572221.0,20.3,,,20 to <30,No,2022,Medicaid
+Missouri,1602.0,21.1,,,20 to <30,No,2011,National Survey of Children's Health†
+Missouri,2985.0,23.1,,,20 to <30,No,2020,National Survey of Children's Health†
+Missouri,1390.0,21.9,,,20 to <30,No,2022,National Survey of Children's Health†
+Missouri,821734.0,1.8,,,<10,No,2000,Special Education Child Count
+Missouri,821837.0,2.2,,,<10,No,2001,Special Education Child Count
+Missouri,829081.0,2.6,,,<10,No,2002,Special Education Child Count
+Missouri,827353.0,3.1,,,<10,No,2003,Special Education Child Count
+Missouri,827519.0,3.6,,,<10,No,2004,Special Education Child Count
+Missouri,831636.0,4.2,,,<10,No,2005,Special Education Child Count
+Missouri,831553.0,5.0,,,<10,No,2006,Special Education Child Count
+Missouri,827183.0,5.7,,,<10,No,2007,Special Education Child Count
+Missouri,824746.0,6.4,,,<10,No,2008,Special Education Child Count
+Missouri,823382.0,7.1,,,<10,No,2009,Special Education Child Count
+Missouri,820839.0,7.9,,,<10,No,2010,Special Education Child Count
+Missouri,816789.0,8.7,,,<10,No,2011,Special Education Child Count
+Missouri,816438.0,9.5,,,<10,No,2012,Special Education Child Count
+Missouri,817104.0,10.0,,,10 to <20,No,2013,Special Education Child Count
+Missouri,817879.0,10.8,,,10 to <20,No,2014,Special Education Child Count
+Missouri,818676.0,11.7,,,10 to <20,No,2015,Special Education Child Count
+Missouri,817133.0,12.4,,,10 to <20,No,2016,Special Education Child Count
+Missouri,816370.0,13.2,,,10 to <20,No,2017,Special Education Child Count
+Missouri,813878.0,14.2,,,10 to <20,No,2018,Special Education Child Count
+Missouri,810307.0,15.1,,,10 to <20,No,2019,Special Education Child Count
+Missouri,795244.0,16.2,,,10 to <20,No,2020,Special Education Child Count
+Missouri,793502.0,17.0,,,10 to <20,No,2021,Special Education Child Count
+Missouri,794878.0,18.4,,,10 to <20,No,2022,Special Education Child Count

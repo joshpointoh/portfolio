@@ -1,0 +1,93 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Kansas,102151.0,4.2,3.8,4.6,<10,Yes,2000,Medicaid
+Kansas,112351.0,4.5,4.1,4.9,<10,Yes,2001,Medicaid
+Kansas,119002.0,4.9,4.5,5.3,<10,Yes,2002,Medicaid
+Kansas,127906.0,5.1,4.7,5.5,<10,Yes,2003,Medicaid
+Kansas,133708.0,6.1,5.7,6.6,<10,Yes,2004,Medicaid
+Kansas,138918.0,6.4,6.0,6.8,<10,Yes,2005,Medicaid
+Kansas,139034.0,7.0,6.5,7.4,<10,Yes,2006,Medicaid
+Kansas,134125.0,7.6,7.2,8.1,<10,Yes,2007,Medicaid
+Kansas,136239.0,7.9,7.4,8.4,<10,Yes,2008,Medicaid
+Kansas,146450.0,3.5,3.2,3.8,<10,Yes,2009,Medicaid
+Kansas,172602.0,10.5,10.0,11.0,10 to <20,Yes,2011,Medicaid
+Kansas,186650.0,9.8,9.4,10.2,<10,Yes,2012,Medicaid
+Kansas,186313.0,8.0,7.6,8.4,<10,Yes,2013,Medicaid
+Kansas,253347.0,9.6,9.2,10.0,<10,Yes,2016,Medicaid
+Kansas,242334.0,10.6,10.2,11.0,10 to <20,Yes,2017,Medicaid
+Kansas,240837.0,11.5,11.1,12.0,10 to <20,Yes,2018,Medicaid
+Kansas,235047.0,12.9,12.4,13.3,10 to <20,Yes,2019,Medicaid
+Kansas,233212.0,12.4,12.0,12.9,10 to <20,Yes,2020,Medicaid
+Kansas,251024.0,13.7,13.3,14.2,10 to <20,Yes,2021,Medicaid
+Kansas,261910.0,15.1,14.7,15.6,10 to <20,Yes,2022,Medicaid
+Kansas,1582.0,9.7,5.5,17.0,<10,Yes,2011,National Survey of Children's Health†
+Kansas,2955.0,19.1,12.5,29.3,10 to <20,Yes,2020,National Survey of Children's Health†
+Kansas,1445.0,26.5,17.6,39.7,20 to <30,Yes,2022,National Survey of Children's Health†
+Kansas,425615.0,1.4,1.3,1.5,<10,Yes,2000,Special Education Child Count
+Kansas,423696.0,1.7,1.6,1.8,<10,Yes,2001,Special Education Child Count
+Kansas,422734.0,2.0,1.9,2.1,<10,Yes,2002,Special Education Child Count
+Kansas,419497.0,2.3,2.1,2.4,<10,Yes,2003,Special Education Child Count
+Kansas,417673.0,2.6,2.4,2.8,<10,Yes,2004,Special Education Child Count
+Kansas,415344.0,2.9,2.8,3.1,<10,Yes,2005,Special Education Child Count
+Kansas,415826.0,3.4,3.2,3.6,<10,Yes,2006,Special Education Child Count
+Kansas,417143.0,3.8,3.6,4.0,<10,Yes,2007,Special Education Child Count
+Kansas,417341.0,4.2,4.0,4.4,<10,Yes,2008,Special Education Child Count
+Kansas,423087.0,4.7,4.5,4.9,<10,Yes,2009,Special Education Child Count
+Kansas,424755.0,5.0,4.8,5.3,<10,Yes,2010,Special Education Child Count
+Kansas,424810.0,5.5,5.3,5.7,<10,Yes,2011,Special Education Child Count
+Kansas,426652.0,6.4,6.1,6.6,<10,Yes,2012,Special Education Child Count
+Kansas,432946.0,6.9,6.7,7.1,<10,Yes,2013,Special Education Child Count
+Kansas,434554.0,7.3,7.0,7.6,<10,Yes,2014,Special Education Child Count
+Kansas,435155.0,7.7,7.4,7.9,<10,Yes,2015,Special Education Child Count
+Kansas,435568.0,8.2,8.0,8.5,<10,Yes,2016,Special Education Child Count
+Kansas,436162.0,8.6,8.4,8.9,<10,Yes,2017,Special Education Child Count
+Kansas,435836.0,9.0,8.7,9.3,<10,Yes,2018,Special Education Child Count
+Kansas,435673.0,9.4,9.1,9.7,<10,Yes,2019,Special Education Child Count
+Kansas,426632.0,10.3,10.0,10.7,10 to <20,Yes,2020,Special Education Child Count
+Kansas,425484.0,11.1,10.8,11.4,10 to <20,Yes,2021,Special Education Child Count
+Kansas,426806.0,12.0,11.7,12.3,10 to <20,Yes,2022,Special Education Child Count
+Kansas,102151.0,4.2,,,<10,No,2000,Medicaid
+Kansas,112351.0,4.5,,,<10,No,2001,Medicaid
+Kansas,119002.0,4.9,,,<10,No,2002,Medicaid
+Kansas,127906.0,5.1,,,<10,No,2003,Medicaid
+Kansas,133708.0,6.1,,,<10,No,2004,Medicaid
+Kansas,138918.0,6.4,,,<10,No,2005,Medicaid
+Kansas,139034.0,7.0,,,<10,No,2006,Medicaid
+Kansas,134125.0,7.6,,,<10,No,2007,Medicaid
+Kansas,136239.0,7.9,,,<10,No,2008,Medicaid
+Kansas,146450.0,3.5,,,<10,No,2009,Medicaid
+Kansas,172602.0,10.5,,,10 to <20,No,2011,Medicaid
+Kansas,186650.0,9.8,,,<10,No,2012,Medicaid
+Kansas,186313.0,8.0,,,<10,No,2013,Medicaid
+Kansas,253347.0,9.6,,,<10,No,2016,Medicaid
+Kansas,242334.0,10.6,,,10 to <20,No,2017,Medicaid
+Kansas,240837.0,11.5,,,10 to <20,No,2018,Medicaid
+Kansas,235047.0,12.9,,,10 to <20,No,2019,Medicaid
+Kansas,233212.0,12.4,,,10 to <20,No,2020,Medicaid
+Kansas,251024.0,13.7,,,10 to <20,No,2021,Medicaid
+Kansas,261910.0,15.1,,,10 to <20,No,2022,Medicaid
+Kansas,1582.0,9.7,,,<10,No,2011,National Survey of Children's Health†
+Kansas,2955.0,19.1,,,10 to <20,No,2020,National Survey of Children's Health†
+Kansas,1445.0,26.5,,,20 to <30,No,2022,National Survey of Children's Health†
+Kansas,425615.0,1.4,,,<10,No,2000,Special Education Child Count
+Kansas,423696.0,1.7,,,<10,No,2001,Special Education Child Count
+Kansas,422734.0,2.0,,,<10,No,2002,Special Education Child Count
+Kansas,419497.0,2.3,,,<10,No,2003,Special Education Child Count
+Kansas,417673.0,2.6,,,<10,No,2004,Special Education Child Count
+Kansas,415344.0,2.9,,,<10,No,2005,Special Education Child Count
+Kansas,415826.0,3.4,,,<10,No,2006,Special Education Child Count
+Kansas,417143.0,3.8,,,<10,No,2007,Special Education Child Count
+Kansas,417341.0,4.2,,,<10,No,2008,Special Education Child Count
+Kansas,423087.0,4.7,,,<10,No,2009,Special Education Child Count
+Kansas,424755.0,5.0,,,<10,No,2010,Special Education Child Count
+Kansas,424810.0,5.5,,,<10,No,2011,Special Education Child Count
+Kansas,426652.0,6.4,,,<10,No,2012,Special Education Child Count
+Kansas,432946.0,6.9,,,<10,No,2013,Special Education Child Count
+Kansas,434554.0,7.3,,,<10,No,2014,Special Education Child Count
+Kansas,435155.0,7.7,,,<10,No,2015,Special Education Child Count
+Kansas,435568.0,8.2,,,<10,No,2016,Special Education Child Count
+Kansas,436162.0,8.6,,,<10,No,2017,Special Education Child Count
+Kansas,435836.0,9.0,,,<10,No,2018,Special Education Child Count
+Kansas,435673.0,9.4,,,<10,No,2019,Special Education Child Count
+Kansas,426632.0,10.3,,,10 to <20,No,2020,Special Education Child Count
+Kansas,425484.0,11.1,,,10 to <20,No,2021,Special Education Child Count
+Kansas,426806.0,12.0,,,10 to <20,No,2022,Special Education Child Count

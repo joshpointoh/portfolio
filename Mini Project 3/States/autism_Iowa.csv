@@ -1,0 +1,89 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Iowa,106118.0,1.5,1.2,1.7,<10,Yes,2000,Medicaid
+Iowa,118235.0,1.7,1.5,2.0,<10,Yes,2001,Medicaid
+Iowa,129963.0,3.3,3.0,3.6,<10,Yes,2002,Medicaid
+Iowa,139481.0,2.6,2.3,2.9,<10,Yes,2003,Medicaid
+Iowa,148588.0,2.9,2.6,3.1,<10,Yes,2004,Medicaid
+Iowa,154384.0,3.7,3.4,4.0,<10,Yes,2005,Medicaid
+Iowa,159687.0,6.7,6.4,7.2,<10,Yes,2006,Medicaid
+Iowa,160711.0,7.9,7.5,8.4,<10,Yes,2007,Medicaid
+Iowa,165769.0,8.7,8.2,9.1,<10,Yes,2008,Medicaid
+Iowa,185458.0,8.7,8.3,9.1,<10,Yes,2009,Medicaid
+Iowa,201873.0,8.7,8.3,9.1,<10,Yes,2010,Medicaid
+Iowa,213371.0,9.3,8.9,9.7,<10,Yes,2011,Medicaid
+Iowa,221056.0,10.5,10.1,10.9,10 to <20,Yes,2012,Medicaid
+Iowa,224835.0,11.6,11.1,12.0,10 to <20,Yes,2013,Medicaid
+Iowa,265751.0,13.6,13.2,14.1,10 to <20,Yes,2016,Medicaid
+Iowa,278583.0,14.1,13.7,14.6,10 to <20,Yes,2017,Medicaid
+Iowa,279643.0,15.2,14.7,15.6,10 to <20,Yes,2018,Medicaid
+Iowa,285527.0,15.6,15.2,16.1,10 to <20,Yes,2019,Medicaid
+Iowa,285673.0,15.4,14.9,15.8,10 to <20,Yes,2020,Medicaid
+Iowa,301890.0,16.0,15.5,16.4,10 to <20,Yes,2021,Medicaid
+Iowa,311992.0,17.8,17.3,18.3,10 to <20,Yes,2022,Medicaid
+Iowa,1591.0,17.2,10.1,29.0,10 to <20,Yes,2011,National Survey of Children's Health†
+Iowa,2930.0,24.3,18.2,32.5,20 to <30,Yes,2020,National Survey of Children's Health†
+Iowa,1453.0,29.1,19.2,44.0,20 to <30,Yes,2022,National Survey of Children's Health†
+Iowa,442950.0,1.1,1.0,1.2,<10,Yes,2000,Special Education Child Count
+Iowa,441160.0,1.2,1.1,1.3,<10,Yes,2001,Special Education Child Count
+Iowa,433833.0,2.5,2.3,2.6,<10,Yes,2002,Special Education Child Count
+Iowa,435394.0,2.6,2.5,2.8,<10,Yes,2003,Special Education Child Count
+Iowa,435498.0,2.6,2.5,2.8,<10,Yes,2004,Special Education Child Count
+Iowa,439221.0,2.6,2.4,2.8,<10,Yes,2005,Special Education Child Count
+Iowa,437275.0,2.3,2.2,2.5,<10,Yes,2006,Special Education Child Count
+Iowa,434809.0,2.2,2.1,2.4,<10,Yes,2007,Special Education Child Count
+Iowa,432015.0,1.5,1.4,1.6,<10,Yes,2008,Special Education Child Count
+Iowa,431082.0,1.5,1.4,1.6,<10,Yes,2009,Special Education Child Count
+Iowa,429258.0,1.5,1.4,1.6,<10,Yes,2010,Special Education Child Count
+Iowa,428753.0,1.5,1.4,1.6,<10,Yes,2011,Special Education Child Count
+Iowa,430715.0,1.5,1.3,1.6,<10,Yes,2012,Special Education Child Count
+Iowa,433649.0,1.4,1.3,1.5,<10,Yes,2013,Special Education Child Count
+Iowa,436504.0,1.4,1.3,1.5,<10,Yes,2014,Special Education Child Count
+Iowa,439825.0,1.4,1.3,1.5,<10,Yes,2015,Special Education Child Count
+Iowa,442346.0,1.4,1.3,1.5,<10,Yes,2016,Special Education Child Count
+Iowa,443103.0,1.4,1.3,1.5,<10,Yes,2017,Special Education Child Count
+Iowa,444370.0,1.5,1.4,1.6,<10,Yes,2018,Special Education Child Count
+Iowa,446024.0,0.0,0.0,0.0,<10,Yes,2019,Special Education Child Count
+Iowa,106118.0,1.5,,,<10,No,2000,Medicaid
+Iowa,118235.0,1.7,,,<10,No,2001,Medicaid
+Iowa,129963.0,3.3,,,<10,No,2002,Medicaid
+Iowa,139481.0,2.6,,,<10,No,2003,Medicaid
+Iowa,148588.0,2.9,,,<10,No,2004,Medicaid
+Iowa,154384.0,3.7,,,<10,No,2005,Medicaid
+Iowa,159687.0,6.7,,,<10,No,2006,Medicaid
+Iowa,160711.0,7.9,,,<10,No,2007,Medicaid
+Iowa,165769.0,8.7,,,<10,No,2008,Medicaid
+Iowa,185458.0,8.7,,,<10,No,2009,Medicaid
+Iowa,201873.0,8.7,,,<10,No,2010,Medicaid
+Iowa,213371.0,9.3,,,<10,No,2011,Medicaid
+Iowa,221056.0,10.5,,,10 to <20,No,2012,Medicaid
+Iowa,224835.0,11.6,,,10 to <20,No,2013,Medicaid
+Iowa,265751.0,13.6,,,10 to <20,No,2016,Medicaid
+Iowa,278583.0,14.1,,,10 to <20,No,2017,Medicaid
+Iowa,279643.0,15.2,,,10 to <20,No,2018,Medicaid
+Iowa,285527.0,15.6,,,10 to <20,No,2019,Medicaid
+Iowa,285673.0,15.4,,,10 to <20,No,2020,Medicaid
+Iowa,301890.0,16.0,,,10 to <20,No,2021,Medicaid
+Iowa,311992.0,17.8,,,10 to <20,No,2022,Medicaid
+Iowa,1591.0,17.2,,,10 to <20,No,2011,National Survey of Children's Health†
+Iowa,2930.0,24.3,,,20 to <30,No,2020,National Survey of Children's Health†
+Iowa,1453.0,29.1,,,20 to <30,No,2022,National Survey of Children's Health†
+Iowa,442950.0,1.1,,,<10,No,2000,Special Education Child Count
+Iowa,441160.0,1.2,,,<10,No,2001,Special Education Child Count
+Iowa,433833.0,2.5,,,<10,No,2002,Special Education Child Count
+Iowa,435394.0,2.6,,,<10,No,2003,Special Education Child Count
+Iowa,435498.0,2.6,,,<10,No,2004,Special Education Child Count
+Iowa,439221.0,2.6,,,<10,No,2005,Special Education Child Count
+Iowa,437275.0,2.3,,,<10,No,2006,Special Education Child Count
+Iowa,434809.0,2.2,,,<10,No,2007,Special Education Child Count
+Iowa,432015.0,1.5,,,<10,No,2008,Special Education Child Count
+Iowa,431082.0,1.5,,,<10,No,2009,Special Education Child Count
+Iowa,429258.0,1.5,,,<10,No,2010,Special Education Child Count
+Iowa,428753.0,1.5,,,<10,No,2011,Special Education Child Count
+Iowa,430715.0,1.5,,,<10,No,2012,Special Education Child Count
+Iowa,433649.0,1.4,,,<10,No,2013,Special Education Child Count
+Iowa,436504.0,1.4,,,<10,No,2014,Special Education Child Count
+Iowa,439825.0,1.4,,,<10,No,2015,Special Education Child Count
+Iowa,442346.0,1.4,,,<10,No,2016,Special Education Child Count
+Iowa,443103.0,1.4,,,<10,No,2017,Special Education Child Count
+Iowa,444370.0,1.5,,,<10,No,2018,Special Education Child Count
+Iowa,446024.0,0.0,,,<10,No,2019,Special Education Child Count

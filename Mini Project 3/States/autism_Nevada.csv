@@ -1,0 +1,95 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Nevada,50946.0,3.3,2.9,3.9,<10,Yes,2000,Medicaid
+Nevada,53446.0,4.3,3.8,4.9,<10,Yes,2001,Medicaid
+Nevada,78225.0,3.8,3.4,4.3,<10,Yes,2002,Medicaid
+Nevada,88989.0,3.7,3.3,4.1,<10,Yes,2003,Medicaid
+Nevada,96629.0,3.3,3.0,3.7,<10,Yes,2004,Medicaid
+Nevada,94321.0,3.6,3.3,4.0,<10,Yes,2005,Medicaid
+Nevada,90241.0,5.3,4.8,5.8,<10,Yes,2006,Medicaid
+Nevada,89910.0,5.5,5.0,6.0,<10,Yes,2007,Medicaid
+Nevada,98538.0,4.7,4.3,5.2,<10,Yes,2008,Medicaid
+Nevada,119861.0,4.9,4.5,5.3,<10,Yes,2009,Medicaid
+Nevada,149204.0,3.9,3.6,4.2,<10,Yes,2010,Medicaid
+Nevada,163821.0,4.1,3.8,4.5,<10,Yes,2011,Medicaid
+Nevada,173215.0,4.9,4.5,5.2,<10,Yes,2012,Medicaid
+Nevada,179793.0,5.5,5.1,5.8,<10,Yes,2013,Medicaid
+Nevada,269549.0,7.9,7.5,8.2,<10,Yes,2016,Medicaid
+Nevada,277391.0,8.5,8.2,8.9,<10,Yes,2017,Medicaid
+Nevada,281463.0,9.5,9.1,9.8,<10,Yes,2018,Medicaid
+Nevada,277035.0,10.4,10.0,10.7,10 to <20,Yes,2019,Medicaid
+Nevada,275951.0,10.9,10.5,11.3,10 to <20,Yes,2020,Medicaid
+Nevada,302075.0,11.8,11.4,12.1,10 to <20,Yes,2021,Medicaid
+Nevada,316597.0,13.0,12.6,13.4,10 to <20,Yes,2022,Medicaid
+Nevada,1705.0,7.2,4.2,12.3,<10,Yes,2003,National Survey of Children's Health†
+Nevada,2702.0,29.2,21.8,39.1,20 to <30,Yes,2020,National Survey of Children's Health†
+Nevada,1282.0,29.3,19.6,43.7,20 to <30,Yes,2022,National Survey of Children's Health†
+Nevada,311652.0,1.2,1.1,1.4,<10,Yes,2000,Special Education Child Count
+Nevada,327117.0,1.5,1.4,1.7,<10,Yes,2001,Special Education Child Count
+Nevada,339018.0,1.9,1.8,2.1,<10,Yes,2002,Special Education Child Count
+Nevada,353437.0,2.4,2.3,2.6,<10,Yes,2003,Special Education Child Count
+Nevada,366772.0,3.0,2.8,3.1,<10,Yes,2004,Special Education Child Count
+Nevada,378596.0,3.5,3.3,3.7,<10,Yes,2005,Special Education Child Count
+Nevada,388990.0,4.1,3.9,4.3,<10,Yes,2006,Special Education Child Count
+Nevada,393628.0,4.9,4.7,5.2,<10,Yes,2007,Special Education Child Count
+Nevada,397502.0,5.7,5.4,5.9,<10,Yes,2008,Special Education Child Count
+Nevada,392478.0,6.7,6.4,6.9,<10,Yes,2009,Special Education Child Count
+Nevada,399604.0,7.3,7.0,7.5,<10,Yes,2010,Special Education Child Count
+Nevada,401059.0,8.2,7.9,8.5,<10,Yes,2011,Special Education Child Count
+Nevada,405383.0,9.0,8.7,9.3,<10,Yes,2012,Special Education Child Count
+Nevada,411226.0,9.6,9.3,9.9,<10,Yes,2013,Special Education Child Count
+Nevada,419082.0,11.1,10.8,11.4,10 to <20,Yes,2014,Special Education Child Count
+Nevada,426638.0,11.8,11.5,12.2,10 to <20,Yes,2015,Special Education Child Count
+Nevada,432794.0,12.7,12.3,13.0,10 to <20,Yes,2016,Special Education Child Count
+Nevada,440933.0,13.9,13.5,14.2,10 to <20,Yes,2017,Special Education Child Count
+Nevada,444307.0,14.7,14.3,15.0,10 to <20,Yes,2018,Special Education Child Count
+Nevada,448029.0,16.1,15.8,16.5,10 to <20,Yes,2019,Special Education Child Count
+Nevada,439935.0,18.4,18.0,18.8,10 to <20,Yes,2020,Special Education Child Count
+Nevada,440144.0,19.2,18.8,19.6,10 to <20,Yes,2021,Special Education Child Count
+Nevada,439260.0,21.3,20.9,21.7,20 to <30,Yes,2022,Special Education Child Count
+Nevada,50946.0,3.3,,,<10,No,2000,Medicaid
+Nevada,53446.0,4.3,,,<10,No,2001,Medicaid
+Nevada,78225.0,3.8,,,<10,No,2002,Medicaid
+Nevada,88989.0,3.7,,,<10,No,2003,Medicaid
+Nevada,96629.0,3.3,,,<10,No,2004,Medicaid
+Nevada,94321.0,3.6,,,<10,No,2005,Medicaid
+Nevada,90241.0,5.3,,,<10,No,2006,Medicaid
+Nevada,89910.0,5.5,,,<10,No,2007,Medicaid
+Nevada,98538.0,4.7,,,<10,No,2008,Medicaid
+Nevada,119861.0,4.9,,,<10,No,2009,Medicaid
+Nevada,149204.0,3.9,,,<10,No,2010,Medicaid
+Nevada,163821.0,4.1,,,<10,No,2011,Medicaid
+Nevada,173215.0,4.9,,,<10,No,2012,Medicaid
+Nevada,179793.0,5.5,,,<10,No,2013,Medicaid
+Nevada,269549.0,7.9,,,<10,No,2016,Medicaid
+Nevada,277391.0,8.5,,,<10,No,2017,Medicaid
+Nevada,281463.0,9.5,,,<10,No,2018,Medicaid
+Nevada,277035.0,10.4,,,10 to <20,No,2019,Medicaid
+Nevada,275951.0,10.9,,,10 to <20,No,2020,Medicaid
+Nevada,302075.0,11.8,,,10 to <20,No,2021,Medicaid
+Nevada,316597.0,13.0,,,10 to <20,No,2022,Medicaid
+Nevada,1705.0,7.2,,,<10,No,2003,National Survey of Children's Health†
+Nevada,2702.0,29.2,,,20 to <30,No,2020,National Survey of Children's Health†
+Nevada,1282.0,29.3,,,20 to <30,No,2022,National Survey of Children's Health†
+Nevada,311652.0,1.2,,,<10,No,2000,Special Education Child Count
+Nevada,327117.0,1.5,,,<10,No,2001,Special Education Child Count
+Nevada,339018.0,1.9,,,<10,No,2002,Special Education Child Count
+Nevada,353437.0,2.4,,,<10,No,2003,Special Education Child Count
+Nevada,366772.0,3.0,,,<10,No,2004,Special Education Child Count
+Nevada,378596.0,3.5,,,<10,No,2005,Special Education Child Count
+Nevada,388990.0,4.1,,,<10,No,2006,Special Education Child Count
+Nevada,393628.0,4.9,,,<10,No,2007,Special Education Child Count
+Nevada,397502.0,5.7,,,<10,No,2008,Special Education Child Count
+Nevada,392478.0,6.7,,,<10,No,2009,Special Education Child Count
+Nevada,399604.0,7.3,,,<10,No,2010,Special Education Child Count
+Nevada,401059.0,8.2,,,<10,No,2011,Special Education Child Count
+Nevada,405383.0,9.0,,,<10,No,2012,Special Education Child Count
+Nevada,411226.0,9.6,,,<10,No,2013,Special Education Child Count
+Nevada,419082.0,11.1,,,10 to <20,No,2014,Special Education Child Count
+Nevada,426638.0,11.8,,,10 to <20,No,2015,Special Education Child Count
+Nevada,432794.0,12.7,,,10 to <20,No,2016,Special Education Child Count
+Nevada,440933.0,13.9,,,10 to <20,No,2017,Special Education Child Count
+Nevada,444307.0,14.7,,,10 to <20,No,2018,Special Education Child Count
+Nevada,448029.0,16.1,,,10 to <20,No,2019,Special Education Child Count
+Nevada,439935.0,18.4,,,10 to <20,No,2020,Special Education Child Count
+Nevada,440144.0,19.2,,,10 to <20,No,2021,Special Education Child Count
+Nevada,439260.0,21.3,,,20 to <30,No,2022,Special Education Child Count

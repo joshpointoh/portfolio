@@ -1,0 +1,107 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Colorado,11020.0,5.9,4.6,7.5,<10,Yes,2002,ADDM Network*
+Colorado,7184.0,7.5,5.8,9.8,<10,Yes,2006,ADDM Network*
+Colorado,7725.0,11.8,9.6,14.4,10 to <20,Yes,2008,ADDM Network*
+Colorado,38806.0,9.9,9.0,10.9,<10,Yes,2010,ADDM Network*
+Colorado,40538.0,10.8,9.8,11.8,10 to <20,Yes,2012,ADDM Network*
+Colorado,41128.0,13.9,12.8,15.1,10 to <20,Yes,2014,ADDM Network*
+Colorado,40874.0,13.1,12.1,16.3,10 to <20,Yes,2016,ADDM Network*
+Colorado,130820.0,1.9,1.7,2.2,<10,Yes,2000,Medicaid
+Colorado,145270.0,1.8,1.6,2.0,<10,Yes,2001,Medicaid
+Colorado,156929.0,2.0,1.8,2.2,<10,Yes,2002,Medicaid
+Colorado,174653.0,2.3,2.1,2.6,<10,Yes,2003,Medicaid
+Colorado,197589.0,2.5,2.3,2.7,<10,Yes,2004,Medicaid
+Colorado,208987.0,2.8,2.6,3.0,<10,Yes,2005,Medicaid
+Colorado,216781.0,3.6,3.3,3.8,<10,Yes,2006,Medicaid
+Colorado,206913.0,4.8,4.5,5.1,<10,Yes,2007,Medicaid
+Colorado,216481.0,5.4,5.1,5.7,<10,Yes,2008,Medicaid
+Colorado,252259.0,5.5,5.2,5.8,<10,Yes,2009,Medicaid
+Colorado,282212.0,5.7,5.5,6.0,<10,Yes,2010,Medicaid
+Colorado,315401.0,5.1,4.9,5.4,<10,Yes,2011,Medicaid
+Colorado,337541.0,4.4,4.2,4.6,<10,Yes,2012,Medicaid
+Colorado,384963.0,5.0,4.7,5.2,<10,Yes,2013,Medicaid
+Colorado,530353.0,8.5,8.3,8.8,<10,Yes,2016,Medicaid
+Colorado,540923.0,9.8,9.5,10.1,<10,Yes,2017,Medicaid
+Colorado,525012.0,12.5,12.2,12.8,10 to <20,Yes,2018,Medicaid
+Colorado,509416.0,15.1,14.8,15.4,10 to <20,Yes,2019,Medicaid
+Colorado,485050.0,16.8,16.4,17.2,10 to <20,Yes,2020,Medicaid
+Colorado,521499.0,18.3,17.9,18.6,10 to <20,Yes,2021,Medicaid
+Colorado,532873.0,21.3,20.9,21.7,20 to <30,Yes,2022,Medicaid
+Colorado,3710.0,23.0,17.2,30.6,20 to <30,Yes,2020,National Survey of Children's Health†
+Colorado,2865.0,28.4,20.9,38.3,20 to <30,Yes,2022,National Survey of Children's Health†
+Colorado,658092.0,0.7,0.6,0.7,<10,Yes,2000,Special Education Child Count
+Colorado,669550.0,0.8,0.7,0.8,<10,Yes,2001,Special Education Child Count
+Colorado,677622.0,1.0,0.9,1.0,<10,Yes,2002,Special Education Child Count
+Colorado,681787.0,1.2,1.1,1.3,<10,Yes,2003,Special Education Child Count
+Colorado,687752.0,1.5,1.4,1.6,<10,Yes,2004,Special Education Child Count
+Colorado,697217.0,1.8,1.7,1.9,<10,Yes,2005,Special Education Child Count
+Colorado,708550.0,2.2,2.1,2.3,<10,Yes,2006,Special Education Child Count
+Colorado,714642.0,2.6,2.5,2.7,<10,Yes,2007,Special Education Child Count
+Colorado,726178.0,3.1,3.0,3.2,<10,Yes,2008,Special Education Child Count
+Colorado,738477.0,3.6,3.5,3.8,<10,Yes,2009,Special Education Child Count
+Colorado,747541.0,4.2,4.1,4.4,<10,Yes,2010,Special Education Child Count
+Colorado,756813.0,4.9,4.7,5.0,<10,Yes,2011,Special Education Child Count
+Colorado,766235.0,5.4,5.2,5.5,<10,Yes,2012,Special Education Child Count
+Colorado,778033.0,5.7,5.6,5.9,<10,Yes,2013,Special Education Child Count
+Colorado,791275.0,6.2,6.1,6.4,<10,Yes,2014,Special Education Child Count
+Colorado,802257.0,6.8,6.6,7.0,<10,Yes,2015,Special Education Child Count
+Colorado,808556.0,7.3,7.1,7.5,<10,Yes,2016,Special Education Child Count
+Colorado,813658.0,7.9,7.8,8.1,<10,Yes,2017,Special Education Child Count
+Colorado,814399.0,8.7,8.5,8.9,<10,Yes,2018,Special Education Child Count
+Colorado,814698.0,9.5,9.3,9.7,<10,Yes,2019,Special Education Child Count
+Colorado,798574.0,10.3,10.0,10.5,10 to <20,Yes,2020,Special Education Child Count
+Colorado,788172.0,11.1,10.9,11.4,10 to <20,Yes,2021,Special Education Child Count
+Colorado,779991.0,12.4,12.1,12.6,10 to <20,Yes,2022,Special Education Child Count
+Colorado,11020.0,5.9,,,<10,No,2002,ADDM Network*
+Colorado,7184.0,7.5,,,<10,No,2006,ADDM Network*
+Colorado,7725.0,11.8,,,10 to <20,No,2008,ADDM Network*
+Colorado,38806.0,9.9,,,<10,No,2010,ADDM Network*
+Colorado,40538.0,10.8,,,10 to <20,No,2012,ADDM Network*
+Colorado,41128.0,13.9,,,10 to <20,No,2014,ADDM Network*
+Colorado,40874.0,13.1,,,10 to <20,No,2016,ADDM Network*
+Colorado,130820.0,1.9,,,<10,No,2000,Medicaid
+Colorado,145270.0,1.8,,,<10,No,2001,Medicaid
+Colorado,156929.0,2.0,,,<10,No,2002,Medicaid
+Colorado,174653.0,2.3,,,<10,No,2003,Medicaid
+Colorado,197589.0,2.5,,,<10,No,2004,Medicaid
+Colorado,208987.0,2.8,,,<10,No,2005,Medicaid
+Colorado,216781.0,3.6,,,<10,No,2006,Medicaid
+Colorado,206913.0,4.8,,,<10,No,2007,Medicaid
+Colorado,216481.0,5.4,,,<10,No,2008,Medicaid
+Colorado,252259.0,5.5,,,<10,No,2009,Medicaid
+Colorado,282212.0,5.7,,,<10,No,2010,Medicaid
+Colorado,315401.0,5.1,,,<10,No,2011,Medicaid
+Colorado,337541.0,4.4,,,<10,No,2012,Medicaid
+Colorado,384963.0,5.0,,,<10,No,2013,Medicaid
+Colorado,530353.0,8.5,,,<10,No,2016,Medicaid
+Colorado,540923.0,9.8,,,<10,No,2017,Medicaid
+Colorado,525012.0,12.5,,,10 to <20,No,2018,Medicaid
+Colorado,509416.0,15.1,,,10 to <20,No,2019,Medicaid
+Colorado,485050.0,16.8,,,10 to <20,No,2020,Medicaid
+Colorado,521499.0,18.3,,,10 to <20,No,2021,Medicaid
+Colorado,532873.0,21.3,,,20 to <30,No,2022,Medicaid
+Colorado,3710.0,23.0,,,20 to <30,No,2020,National Survey of Children's Health†
+Colorado,2865.0,28.4,,,20 to <30,No,2022,National Survey of Children's Health†
+Colorado,658092.0,0.7,,,<10,No,2000,Special Education Child Count
+Colorado,669550.0,0.8,,,<10,No,2001,Special Education Child Count
+Colorado,677622.0,1.0,,,<10,No,2002,Special Education Child Count
+Colorado,681787.0,1.2,,,<10,No,2003,Special Education Child Count
+Colorado,687752.0,1.5,,,<10,No,2004,Special Education Child Count
+Colorado,697217.0,1.8,,,<10,No,2005,Special Education Child Count
+Colorado,708550.0,2.2,,,<10,No,2006,Special Education Child Count
+Colorado,714642.0,2.6,,,<10,No,2007,Special Education Child Count
+Colorado,726178.0,3.1,,,<10,No,2008,Special Education Child Count
+Colorado,738477.0,3.6,,,<10,No,2009,Special Education Child Count
+Colorado,747541.0,4.2,,,<10,No,2010,Special Education Child Count
+Colorado,756813.0,4.9,,,<10,No,2011,Special Education Child Count
+Colorado,766235.0,5.4,,,<10,No,2012,Special Education Child Count
+Colorado,778033.0,5.7,,,<10,No,2013,Special Education Child Count
+Colorado,791275.0,6.2,,,<10,No,2014,Special Education Child Count
+Colorado,802257.0,6.8,,,<10,No,2015,Special Education Child Count
+Colorado,808556.0,7.3,,,<10,No,2016,Special Education Child Count
+Colorado,813658.0,7.9,,,<10,No,2017,Special Education Child Count
+Colorado,814399.0,8.7,,,<10,No,2018,Special Education Child Count
+Colorado,814698.0,9.5,,,<10,No,2019,Special Education Child Count
+Colorado,798574.0,10.3,,,10 to <20,No,2020,Special Education Child Count
+Colorado,788172.0,11.1,,,10 to <20,No,2021,Special Education Child Count
+Colorado,779991.0,12.4,,,10 to <20,No,2022,Special Education Child Count

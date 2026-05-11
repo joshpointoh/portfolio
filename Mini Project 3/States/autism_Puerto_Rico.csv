@@ -1,0 +1,23 @@
+State,Denominator,"Prevalence Estimates per 1,000 Children",Lower CI,Upper CI,Prevalence Range,Show Lower and Upper CI,Year,Data Set
+Puerto Rico,17457.0,26.4,24.1,28.9,20 to <30,Yes,2022,ADDM Network*
+Puerto Rico,294940.0,6.2,5.9,6.5,<10,Yes,2016,Medicaid
+Puerto Rico,308021.0,4.8,4.6,5.0,<10,Yes,2017,Medicaid
+Puerto Rico,328186.0,4.0,3.8,4.2,<10,Yes,2018,Medicaid
+Puerto Rico,310888.0,4.5,4.2,4.7,<10,Yes,2019,Medicaid
+Puerto Rico,281035.0,5.5,5.2,5.8,<10,Yes,2020,Medicaid
+Puerto Rico,295894.0,6.4,6.1,6.7,<10,Yes,2021,Medicaid
+Puerto Rico,296328.0,5.1,4.8,5.3,<10,Yes,2022,Medicaid
+Puerto Rico,247349.0,21.7,21.2,22.3,20 to <30,Yes,2020,Special Education Child Count
+Puerto Rico,231817.0,25.8,25.1,26.4,20 to <30,Yes,2021,Special Education Child Count
+Puerto Rico,223865.0,32.3,31.6,33.1,30+,Yes,2022,Special Education Child Count
+Puerto Rico,17457.0,26.4,,,20 to <30,No,2022,ADDM Network*
+Puerto Rico,294940.0,6.2,,,<10,No,2016,Medicaid
+Puerto Rico,308021.0,4.8,,,<10,No,2017,Medicaid
+Puerto Rico,328186.0,4.0,,,<10,No,2018,Medicaid
+Puerto Rico,310888.0,4.5,,,<10,No,2019,Medicaid
+Puerto Rico,281035.0,5.5,,,<10,No,2020,Medicaid
+Puerto Rico,295894.0,6.4,,,<10,No,2021,Medicaid
+Puerto Rico,296328.0,5.1,,,<10,No,2022,Medicaid
+Puerto Rico,247349.0,21.7,,,20 to <30,No,2020,Special Education Child Count
+Puerto Rico,231817.0,25.8,,,20 to <30,No,2021,Special Education Child Count
+Puerto Rico,223865.0,32.3,,,30+,No,2022,Special Education Child Count
